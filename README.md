@@ -2,8 +2,8 @@
 > Non-balanced dataset  (y)  
 > Sampling                
 
-DataSet: https://www.kaggle.com/datasets/ikjotsingh221/machine-failure-cleaned
-
+DataSet: 
+https://www.kaggle.com/datasets/ikjotsingh221/machine-failure-cleaned
 
 # 
 ## 
