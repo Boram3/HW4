@@ -1,0 +1,4166 @@
+Region,Year,Type of alcoholic beverages,Consumption of alcoholic beverages (thousands of decaliters),Consumption of alcoholic beverages (in liters per capita),Consumption of alcoholic beverages (in liters of pure alcohol per capita)
+Belgorod Oblast,2017,Wine,278.27,1.79,0.20
+Bryansk Oblast,2017,Wine,368.22,3.02,0.33
+Vladimir Oblast,2017,Wine,518.43,3.70,0.41
+Voronezh Oblast,2017,Wine,628.77,2.68,0.30
+Ivanovo Oblast,2017,Wine,339.89,3.42,0.38
+Kaluga Oblast,2017,Wine,416.37,3.98,0.44
+Kostroma Oblast,2017,Wine,213.94,3.43,0.38
+Kursk Oblast,2017,Wine,242.20,2.16,0.24
+Lipetsk Oblast,2017,Wine,303.06,2.59,0.29
+Moscow Oblast,2017,Wine,4628.87,5.82,0.64
+Oryol Oblast,2017,Wine,195.32,2.60,0.29
+Ryazan Oblast,2017,Wine,359.48,3.17,0.35
+Smolensk Oblast,2017,Wine,341.00,3.63,0.40
+Tambov Oblast,2017,Wine,205.90,1.98,0.22
+Tver Oblast,2017,Wine,543.54,4.20,0.46
+Tula Oblast,2017,Wine,507.59,3.31,0.36
+Yaroslavl Oblast,2017,Wine,612.82,4.87,0.54
+Moscow,2017,Wine,6673.28,5.35,0.59
+Republic of Karelia,2017,Wine,397.94,6.79,0.75
+Komi Republic,2017,Wine,405.19,4.99,0.55
+Nenets Autonomous Okrug,2017,Wine,35.81,8.47,0.93
+Vologda Oblast,2017,Wine,539.14,4.56,0.50
+Kaliningrad Oblast,2017,Wine,476.12,4.82,0.53
+Leningrad Oblast,2017,Wine,1087.46,5.90,0.65
+Murmansk Oblast,2017,Wine,385.19,5.32,0.59
+Novgorod Oblast,2017,Wine,274.01,4.49,0.49
+Pskov Oblast,2017,Wine,261.36,4.13,0.45
+Saint Petersburg,2017,Wine,3602.17,6.66,0.73
+Arkhangelsk Oblast,2017,Wine,532.25,4.98,0.55
+Adygea,2017,Wine,132.91,2.83,0.31
+Kalmykia,2017,Wine,25.98,0.94,0.10
+Republic of Crimea,2017,Wine,752.25,3.91,0.43
+Krasnodar Krai,2017,Wine,2194.79,3.88,0.43
+Astrakhan Oblast,2017,Wine,202.52,2.02,0.22
+Volgograd Oblast,2017,Wine,586.03,2.29,0.25
+Rostov Oblast,2017,Wine,862.82,2.03,0.22
+Sevastopol,2017,Wine,246.82,5.38,0.59
+Dagestan,2017,Wine,67.85,0.22,0.02
+Ingushetia,2017,Wine,0.75,0.02,0.00
+Kabardino-Balkaria,2017,Wine,31.72,0.36,0.04
+Karachay-Cherkessia,2017,Wine,30.35,0.65,0.07
+North Ossetia-Alania,2017,Wine,25.04,0.36,0.04
+Chechnya,2017,Wine,1.97,0.01,0.00
+Stavropol Krai,2017,Wine,514.21,1.79,0.20
+Bashkortostan,2017,Wine,874.20,2.12,0.23
+Mari El,2017,Wine,167.66,2.44,0.27
+Mordovia,2017,Wine,145.08,1.78,0.20
+Tatarstan,2017,Wine,879.73,2.23,0.25
+Udmurtia,2017,Wine,448.38,2.99,0.33
+Chuvashia,2017,Wine,244.04,1.99,0.22
+Perm Krai,2017,Wine,856.79,3.28,0.36
+Kirov Oblast,2017,Wine,441.35,3.55,0.39
+Nizhny Novgorod Oblast,2017,Wine,1169.60,3.62,0.40
+Orenburg Oblast,2017,Wine,489.96,2.51,0.28
+Penza Oblast,2017,Wine,261.76,1.96,0.22
+Samara Oblast,2017,Wine,1009.75,3.13,0.34
+Saratov Oblast,2017,Wine,511.58,2.03,0.22
+Ulyanovsk Oblast,2017,Wine,333.21,2.67,0.29
+Kurgan Oblast,2017,Wine,216.57,2.59,0.28
+Sverdlovsk Oblast,2017,Wine,1888.66,4.36,0.48
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Wine,531.92,3.22,0.35
+Yamalo-Nenets Autonomous Okrug,2017,Wine,180.13,3.51,0.39
+Chelyabinsk Oblast,2017,Wine,1141.79,3.26,0.36
+Tyumen Oblast,2017,Wine,475.36,3.16,0.35
+Altai Republic,2017,Wine,48.16,2.28,0.25
+Tuva,2017,Wine,25.03,0.78,0.09
+Khakassia,2017,Wine,110.45,2.04,0.22
+Altai Krai,2017,Wine,523.52,2.27,0.25
+Krasnoyarsk Krai,2017,Wine,906.35,3.15,0.35
+Irkutsk Oblast,2017,Wine,758.40,3.14,0.35
+Kemerovo Oblast,2017,Wine,696.85,2.58,0.28
+Novosibirsk Oblast,2017,Wine,934.10,3.35,0.37
+Omsk Oblast,2017,Wine,516.37,2.64,0.29
+Tomsk Oblast,2017,Wine,335.39,3.12,0.34
+Buryatia,2017,Wine,186.49,1.90,0.21
+Sakha (Yakutia),2017,Wine,209.16,2.16,0.24
+Zabaykalsky Krai,2017,Wine,274.03,2.59,0.29
+Kamchatka Krai,2017,Wine,136.28,4.49,0.49
+Primorsky Krai,2017,Wine,767.31,4.02,0.44
+Khabarovsk Krai,2017,Wine,468.47,3.52,0.39
+Amur Oblast,2017,Wine,274.56,3.45,0.38
+Magadan Oblast,2017,Wine,59.22,4.10,0.45
+Sakhalin Oblast,2017,Wine,243.40,5.11,0.56
+Jewish Autonomous Oblast,2017,Wine,39.41,2.44,0.27
+Chukotka Autonomous Okrug,2017,Wine,14.52,2.99,0.33
+Belgorod Oblast,2018,Wine,290.06,1.87,0.21
+Bryansk Oblast,2018,Wine,361.26,2.99,0.33
+Vladimir Oblast,2018,Wine,520.03,3.74,0.41
+Voronezh Oblast,2018,Wine,644.17,2.75,0.30
+Ivanovo Oblast,2018,Wine,353.15,3.60,0.40
+Kaluga Oblast,2018,Wine,425.43,4.05,0.45
+Kostroma Oblast,2018,Wine,225.71,3.67,0.40
+Kursk Oblast,2018,Wine,262.24,2.36,0.26
+Lipetsk Oblast,2018,Wine,311.05,2.67,0.29
+Moscow Oblast,2018,Wine,4876.90,6.03,0.66
+Oryol Oblast,2018,Wine,200.62,2.69,0.30
+Ryazan Oblast,2018,Wine,361.88,3.20,0.35
+Smolensk Oblast,2018,Wine,356.11,3.81,0.42
+Tambov Oblast,2018,Wine,205.65,1.99,0.22
+Tver Oblast,2018,Wine,552.95,4.32,0.47
+Tula Oblast,2018,Wine,512.50,3.34,0.37
+Yaroslavl Oblast,2018,Wine,630.91,5.04,0.55
+Moscow,2018,Wine,6837.16,5.40,0.59
+Republic of Karelia,2018,Wine,394.38,6.90,0.76
+Komi Republic,2018,Wine,387.05,4.86,0.53
+Nenets Autonomous Okrug,2018,Wine,35.48,8.44,0.93
+Vologda Oblast,2018,Wine,539.51,4.59,0.50
+Kaliningrad Oblast,2018,Wine,520.58,5.22,0.57
+Leningrad Oblast,2018,Wine,1131.02,6.04,0.66
+Murmansk Oblast,2018,Wine,392.23,5.49,0.60
+Novgorod Oblast,2018,Wine,272.12,4.51,0.50
+Pskov Oblast,2018,Wine,280.58,4.48,0.49
+Saint Petersburg,2018,Wine,3759.09,6.84,0.75
+Arkhangelsk Oblast,2018,Wine,556.04,5.30,0.58
+Adygea,2018,Wine,109.39,2.31,0.25
+Kalmykia,2018,Wine,28.44,1.04,0.11
+Republic of Crimea,2018,Wine,801.98,4.16,0.46
+Krasnodar Krai,2018,Wine,2235.33,3.92,0.43
+Astrakhan Oblast,2018,Wine,204.71,2.05,0.23
+Volgograd Oblast,2018,Wine,563.45,2.21,0.24
+Rostov Oblast,2018,Wine,849.43,2.00,0.22
+Sevastopol,2018,Wine,259.03,5.40,0.59
+Dagestan,2018,Wine,70.02,0.23,0.02
+Ingushetia,2018,Wine,1.56,0.03,0.00
+Kabardino-Balkaria,2018,Wine,31.47,0.35,0.04
+Karachay-Cherkessia,2018,Wine,28.28,0.60,0.07
+North Ossetia-Alania,2018,Wine,22.28,0.32,0.03
+Chechnya,2018,Wine,1.44,0.01,0.00
+Stavropol Krai,2018,Wine,496.29,1.72,0.19
+Bashkortostan,2018,Wine,915.14,2.22,0.24
+Mari El,2018,Wine,173.07,2.52,0.28
+Mordovia,2018,Wine,150.42,1.85,0.20
+Tatarstan,2018,Wine,925.96,2.33,0.26
+Udmurtia,2018,Wine,448.52,3.01,0.33
+Chuvashia,2018,Wine,263.14,2.15,0.24
+Perm Krai,2018,Wine,902.03,3.46,0.38
+Kirov Oblast,2018,Wine,446.61,3.64,0.40
+Nizhny Novgorod Oblast,2018,Wine,1166.12,3.63,0.40
+Orenburg Oblast,2018,Wine,477.57,2.47,0.27
+Penza Oblast,2018,Wine,277.58,2.10,0.23
+Samara Oblast,2018,Wine,1063.34,3.31,0.36
+Saratov Oblast,2018,Wine,539.61,2.15,0.24
+Ulyanovsk Oblast,2018,Wine,347.39,2.80,0.31
+Kurgan Oblast,2018,Wine,202.50,2.46,0.27
+Sverdlovsk Oblast,2018,Wine,1942.53,4.49,0.49
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Wine,549.24,3.30,0.36
+Yamalo-Nenets Autonomous Okrug,2018,Wine,184.61,3.61,0.40
+Chelyabinsk Oblast,2018,Wine,1196.95,3.42,0.38
+Tyumen Oblast,2018,Wine,503.52,3.29,0.36
+Altai Republic,2018,Wine,50.28,2.38,0.26
+Tuva,2018,Wine,21.73,0.67,0.07
+Khakassia,2018,Wine,131.87,2.44,0.27
+Altai Krai,2018,Wine,536.95,2.36,0.26
+Krasnoyarsk Krai,2018,Wine,897.90,3.12,0.34
+Irkutsk Oblast,2018,Wine,793.06,3.29,0.36
+Kemerovo Oblast,2018,Wine,674.83,2.51,0.28
+Novosibirsk Oblast,2018,Wine,976.85,3.49,0.38
+Omsk Oblast,2018,Wine,526.66,2.71,0.30
+Tomsk Oblast,2018,Wine,346.49,3.22,0.35
+Buryatia,2018,Wine,180.56,1.84,0.20
+Sakha (Yakutia),2018,Wine,223.00,2.30,0.25
+Zabaykalsky Krai,2018,Wine,235.98,2.26,0.25
+Kamchatka Krai,2018,Wine,135.17,4.47,0.49
+Primorsky Krai,2018,Wine,768.29,4.05,0.45
+Khabarovsk Krai,2018,Wine,472.28,3.57,0.39
+Amur Oblast,2018,Wine,263.95,3.33,0.37
+Magadan Oblast,2018,Wine,62.31,4.36,0.48
+Sakhalin Oblast,2018,Wine,223.43,4.67,0.51
+Jewish Autonomous Oblast,2018,Wine,41.00,2.58,0.28
+Chukotka Autonomous Okrug,2018,Wine,13.09,2.73,0.30
+Belgorod Oblast,2019,Wine,302.14,1.95,0.21
+Bryansk Oblast,2019,Wine,328.51,2.74,0.30
+Vladimir Oblast,2019,Wine,536.95,3.89,0.43
+Voronezh Oblast,2019,Wine,665.27,2.84,0.31
+Ivanovo Oblast,2019,Wine,347.96,3.60,0.40
+Kaluga Oblast,2019,Wine,430.44,4.09,0.45
+Kostroma Oblast,2019,Wine,235.58,3.89,0.43
+Kursk Oblast,2019,Wine,267.52,2.43,0.27
+Lipetsk Oblast,2019,Wine,311.46,2.68,0.29
+Moscow Oblast,2019,Wine,5027.69,6.11,0.67
+Oryol Oblast,2019,Wine,201.08,2.73,0.30
+Ryazan Oblast,2019,Wine,353.73,3.15,0.35
+Smolensk Oblast,2019,Wine,342.80,3.70,0.41
+Tambov Oblast,2019,Wine,202.43,1.99,0.22
+Tver Oblast,2019,Wine,529.18,4.18,0.46
+Tula Oblast,2019,Wine,511.51,3.35,0.37
+Yaroslavl Oblast,2019,Wine,621.57,5.00,0.55
+Moscow,2019,Wine,6993.17,5.45,0.60
+Republic of Karelia,2019,Wine,402.92,7.20,0.79
+Komi Republic,2019,Wine,371.94,4.77,0.53
+Nenets Autonomous Okrug,2019,Wine,34.35,8.25,0.91
+Vologda Oblast,2019,Wine,561.41,4.81,0.53
+Kaliningrad Oblast,2019,Wine,561.96,5.59,0.62
+Leningrad Oblast,2019,Wine,1207.04,6.31,0.69
+Murmansk Oblast,2019,Wine,396.98,5.64,0.62
+Novgorod Oblast,2019,Wine,268.82,4.50,0.50
+Pskov Oblast,2019,Wine,283.43,4.59,0.50
+Saint Petersburg,2019,Wine,3922.01,7.07,0.78
+Arkhangelsk Oblast,2019,Wine,563.50,5.47,0.60
+Adygea,2019,Wine,90.19,1.89,0.21
+Kalmykia,2019,Wine,30.20,1.11,0.12
+Republic of Crimea,2019,Wine,850.31,4.40,0.48
+Krasnodar Krai,2019,Wine,2202.46,3.83,0.42
+Astrakhan Oblast,2019,Wine,186.77,1.88,0.21
+Volgograd Oblast,2019,Wine,550.56,2.17,0.24
+Rostov Oblast,2019,Wine,856.58,2.02,0.22
+Sevastopol,2019,Wine,272.86,5.46,0.60
+Dagestan,2019,Wine,77.48,0.25,0.03
+Ingushetia,2019,Wine,1.26,0.03,0.00
+Kabardino-Balkaria,2019,Wine,32.53,0.36,0.04
+Karachay-Cherkessia,2019,Wine,25.53,0.54,0.06
+North Ossetia-Alania,2019,Wine,23.67,0.34,0.04
+Chechnya,2019,Wine,2.83,0.02,0.00
+Stavropol Krai,2019,Wine,480.64,1.67,0.18
+Bashkortostan,2019,Wine,971.98,2.36,0.26
+Mari El,2019,Wine,169.89,2.48,0.27
+Mordovia,2019,Wine,148.14,1.84,0.20
+Tatarstan,2019,Wine,984.32,2.47,0.27
+Udmurtia,2019,Wine,438.82,2.96,0.33
+Chuvashia,2019,Wine,264.58,2.18,0.24
+Perm Krai,2019,Wine,929.16,3.59,0.39
+Kirov Oblast,2019,Wine,466.97,3.86,0.42
+Nizhny Novgorod Oblast,2019,Wine,1458.14,4.57,0.50
+Orenburg Oblast,2019,Wine,469.12,2.46,0.27
+Penza Oblast,2019,Wine,284.33,2.17,0.24
+Samara Oblast,2019,Wine,1074.63,3.35,0.37
+Saratov Oblast,2019,Wine,552.84,2.22,0.24
+Ulyanovsk Oblast,2019,Wine,327.44,2.66,0.29
+Kurgan Oblast,2019,Wine,209.81,2.59,0.28
+Sverdlovsk Oblast,2019,Wine,2038.75,4.72,0.52
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Wine,549.29,3.28,0.36
+Yamalo-Nenets Autonomous Okrug,2019,Wine,183.43,3.59,0.40
+Chelyabinsk Oblast,2019,Wine,1239.82,3.56,0.39
+Tyumen Oblast,2019,Wine,531.25,3.42,0.38
+Altai Republic,2019,Wine,48.13,2.28,0.25
+Tuva,2019,Wine,23.84,0.73,0.08
+Khakassia,2019,Wine,121.98,2.26,0.25
+Altai Krai,2019,Wine,523.36,2.33,0.26
+Krasnoyarsk Krai,2019,Wine,913.36,3.17,0.35
+Irkutsk Oblast,2019,Wine,809.73,3.37,0.37
+Kemerovo Oblast,2019,Wine,663.58,2.49,0.27
+Novosibirsk Oblast,2019,Wine,994.24,3.54,0.39
+Omsk Oblast,2019,Wine,524.90,2.73,0.30
+Tomsk Oblast,2019,Wine,342.18,3.19,0.35
+Buryatia,2019,Wine,187.16,1.91,0.21
+Sakha (Yakutia),2019,Wine,229.70,2.36,0.26
+Zabaykalsky Krai,2019,Wine,259.39,2.51,0.28
+Kamchatka Krai,2019,Wine,139.44,4.65,0.51
+Primorsky Krai,2019,Wine,778.74,4.13,0.45
+Khabarovsk Krai,2019,Wine,470.47,3.57,0.39
+Amur Oblast,2019,Wine,276.99,3.52,0.39
+Magadan Oblast,2019,Wine,61.16,4.37,0.48
+Sakhalin Oblast,2019,Wine,231.06,4.85,0.53
+Jewish Autonomous Oblast,2019,Wine,40.16,2.56,0.28
+Chukotka Autonomous Okrug,2019,Wine,13.84,2.88,0.32
+Belgorod Oblast,2020,Wine,320.22,2.06,0.23
+Bryansk Oblast,2020,Wine,342.63,2.88,0.32
+Vladimir Oblast,2020,Wine,573.76,4.18,0.46
+Voronezh Oblast,2020,Wine,674.98,2.89,0.32
+Ivanovo Oblast,2020,Wine,359.50,3.77,0.41
+Kaluga Oblast,2020,Wine,472.24,4.49,0.49
+Kostroma Oblast,2020,Wine,237.89,3.98,0.44
+Kursk Oblast,2020,Wine,268.26,2.44,0.27
+Lipetsk Oblast,2020,Wine,324.73,2.80,0.31
+Moscow Oblast,2020,Wine,5712.85,6.82,0.75
+Oryol Oblast,2020,Wine,206.49,2.83,0.31
+Ryazan Oblast,2020,Wine,382.25,3.41,0.38
+Smolensk Oblast,2020,Wine,347.92,3.80,0.42
+Tambov Oblast,2020,Wine,207.53,2.06,0.23
+Tver Oblast,2020,Wine,563.56,4.48,0.49
+Tula Oblast,2020,Wine,528.44,3.48,0.38
+Yaroslavl Oblast,2020,Wine,650.89,5.27,0.58
+Moscow,2020,Wine,7039.17,5.44,0.60
+Republic of Karelia,2020,Wine,397.99,7.23,0.79
+Komi Republic,2020,Wine,383.48,5.02,0.55
+Nenets Autonomous Okrug,2020,Wine,33.33,8.01,0.88
+Vologda Oblast,2020,Wine,565.23,4.87,0.54
+Kaliningrad Oblast,2020,Wine,627.07,6.18,0.68
+Leningrad Oblast,2020,Wine,1320.94,6.77,0.74
+Murmansk Oblast,2020,Wine,408.98,5.91,0.65
+Novgorod Oblast,2020,Wine,269.02,4.54,0.50
+Pskov Oblast,2020,Wine,286.74,4.68,0.51
+Saint Petersburg,2020,Wine,4019.57,7.20,0.79
+Arkhangelsk Oblast,2020,Wine,611.53,6.03,0.66
+Adygea,2020,Wine,82.43,1.69,0.19
+Kalmykia,2020,Wine,25.87,0.96,0.11
+Republic of Crimea,2020,Wine,949.46,4.90,0.54
+Krasnodar Krai,2020,Wine,2242.67,3.87,0.43
+Astrakhan Oblast,2020,Wine,185.75,1.90,0.21
+Volgograd Oblast,2020,Wine,562.85,2.23,0.25
+Rostov Oblast,2020,Wine,890.61,2.11,0.23
+Sevastopol,2020,Wine,311.05,5.95,0.66
+Dagestan,2020,Wine,79.12,0.25,0.03
+Ingushetia,2020,Wine,1.12,0.02,0.00
+Kabardino-Balkaria,2020,Wine,30.85,0.34,0.04
+Karachay-Cherkessia,2020,Wine,24.99,0.53,0.06
+North Ossetia-Alania,2020,Wine,27.50,0.40,0.04
+Chechnya,2020,Wine,6.20,0.04,0.00
+Stavropol Krai,2020,Wine,457.07,1.57,0.17
+Bashkortostan,2020,Wine,952.57,2.32,0.25
+Mari El,2020,Wine,162.93,2.38,0.26
+Mordovia,2020,Wine,148.10,1.85,0.20
+Tatarstan,2020,Wine,990.88,2.48,0.27
+Udmurtia,2020,Wine,446.12,3.03,0.33
+Chuvashia,2020,Wine,273.49,2.27,0.25
+Perm Krai,2020,Wine,933.12,3.62,0.40
+Kirov Oblast,2020,Wine,459.71,3.85,0.42
+Nizhny Novgorod Oblast,2020,Wine,1283.90,4.04,0.44
+Orenburg Oblast,2020,Wine,478.47,2.52,0.28
+Penza Oblast,2020,Wine,308.25,2.38,0.26
+Samara Oblast,2020,Wine,1097.05,3.42,0.38
+Saratov Oblast,2020,Wine,563.78,2.28,0.25
+Ulyanovsk Oblast,2020,Wine,322.32,2.64,0.29
+Kurgan Oblast,2020,Wine,188.17,2.35,0.26
+Sverdlovsk Oblast,2020,Wine,2016.76,4.68,0.51
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Wine,571.04,3.39,0.37
+Yamalo-Nenets Autonomous Okrug,2020,Wine,199.46,3.91,0.43
+Chelyabinsk Oblast,2020,Wine,1216.54,3.51,0.39
+Tyumen Oblast,2020,Wine,540.58,3.42,0.38
+Altai Republic,2020,Wine,43.36,2.05,0.23
+Tuva,2020,Wine,14.54,0.44,0.05
+Khakassia,2020,Wine,136.17,2.53,0.28
+Altai Krai,2020,Wine,488.87,2.20,0.24
+Krasnoyarsk Krai,2020,Wine,959.73,3.34,0.37
+Irkutsk Oblast,2020,Wine,863.18,3.60,0.40
+Kemerovo Oblast,2020,Wine,658.18,2.49,0.27
+Novosibirsk Oblast,2020,Wine,1013.90,3.61,0.40
+Omsk Oblast,2020,Wine,522.61,2.75,0.30
+Tomsk Oblast,2020,Wine,353.98,3.29,0.36
+Buryatia,2020,Wine,188.63,1.92,0.21
+Sakha (Yakutia),2020,Wine,229.14,2.35,0.26
+Zabaykalsky Krai,2020,Wine,259.10,2.53,0.28
+Kamchatka Krai,2020,Wine,146.70,4.95,0.54
+Primorsky Krai,2020,Wine,830.27,4.42,0.49
+Khabarovsk Krai,2020,Wine,502.88,3.84,0.42
+Amur Oblast,2020,Wine,280.30,3.58,0.39
+Magadan Oblast,2020,Wine,64.83,4.68,0.51
+Sakhalin Oblast,2020,Wine,252.21,5.32,0.59
+Jewish Autonomous Oblast,2020,Wine,45.63,2.95,0.32
+Chukotka Autonomous Okrug,2020,Wine,15.81,3.26,0.36
+Belgorod Oblast,2021,Wine,327.81,2.12,0.23
+Bryansk Oblast,2021,Wine,328.75,2.79,0.31
+Vladimir Oblast,2021,Wine,586.73,4.32,0.47
+Voronezh Oblast,2021,Wine,666.89,2.88,0.32
+Ivanovo Oblast,2021,Wine,373.21,3.98,0.44
+Kaluga Oblast,2021,Wine,456.43,4.32,0.48
+Kostroma Oblast,2021,Wine,243.04,4.12,0.45
+Kursk Oblast,2021,Wine,258.20,2.37,0.26
+Lipetsk Oblast,2021,Wine,314.82,2.74,0.30
+Moscow Oblast,2021,Wine,5515.27,6.54,0.72
+Oryol Oblast,2021,Wine,201.45,2.79,0.31
+Ryazan Oblast,2021,Wine,379.42,3.42,0.38
+Smolensk Oblast,2021,Wine,333.20,3.70,0.41
+Tambov Oblast,2021,Wine,205.31,2.07,0.23
+Tver Oblast,2021,Wine,530.13,4.27,0.47
+Tula Oblast,2021,Wine,515.24,3.42,0.38
+Yaroslavl Oblast,2021,Wine,654.79,5.36,0.59
+Moscow,2021,Wine,7009.22,5.40,0.59
+Republic of Karelia,2021,Wine,382.08,7.06,0.78
+Komi Republic,2021,Wine,374.58,4.99,0.55
+Nenets Autonomous Okrug,2021,Wine,31.70,7.63,0.84
+Vologda Oblast,2021,Wine,550.96,4.79,0.53
+Kaliningrad Oblast,2021,Wine,654.90,6.41,0.71
+Leningrad Oblast,2021,Wine,1302.99,6.59,0.72
+Murmansk Oblast,2021,Wine,401.07,5.91,0.65
+Novgorod Oblast,2021,Wine,260.70,4.43,0.49
+Pskov Oblast,2021,Wine,278.11,4.60,0.51
+Saint Petersburg,2021,Wine,3965.62,7.10,0.78
+Arkhangelsk Oblast,2021,Wine,611.58,6.14,0.68
+Adygea,2021,Wine,82.20,1.68,0.18
+Kalmykia,2021,Wine,25.16,0.94,0.10
+Republic of Crimea,2021,Wine,1097.45,5.68,0.62
+Krasnodar Krai,2021,Wine,2463.41,4.24,0.47
+Astrakhan Oblast,2021,Wine,183.43,1.89,0.21
+Volgograd Oblast,2021,Wine,587.38,2.34,0.26
+Rostov Oblast,2021,Wine,910.58,2.16,0.24
+Sevastopol,2021,Wine,340.75,6.41,0.70
+Dagestan,2021,Wine,92.27,0.29,0.03
+Ingushetia,2021,Wine,1.60,0.03,0.00
+Kabardino-Balkaria,2021,Wine,34.28,0.38,0.04
+Karachay-Cherkessia,2021,Wine,27.22,0.58,0.06
+North Ossetia-Alania,2021,Wine,34.89,0.51,0.06
+Chechnya,2021,Wine,4.44,0.03,0.00
+Stavropol Krai,2021,Wine,483.82,1.67,0.18
+Bashkortostan,2021,Wine,934.86,2.28,0.25
+Mari El,2021,Wine,169.15,2.49,0.27
+Mordovia,2021,Wine,153.90,1.95,0.21
+Tatarstan,2021,Wine,968.66,2.42,0.27
+Udmurtia,2021,Wine,453.72,3.11,0.34
+Chuvashia,2021,Wine,277.79,2.33,0.26
+Perm Krai,2021,Wine,938.59,3.68,0.40
+Kirov Oblast,2021,Wine,458.64,3.91,0.43
+Nizhny Novgorod Oblast,2021,Wine,1316.36,4.19,0.46
+Orenburg Oblast,2021,Wine,459.93,2.45,0.27
+Penza Oblast,2021,Wine,312.36,2.44,0.27
+Samara Oblast,2021,Wine,1071.53,3.37,0.37
+Saratov Oblast,2021,Wine,574.67,2.34,0.26
+Ulyanovsk Oblast,2021,Wine,323.32,2.68,0.29
+Kurgan Oblast,2021,Wine,191.65,2.43,0.27
+Sverdlovsk Oblast,2021,Wine,2002.47,4.67,0.51
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Wine,538.78,3.17,0.35
+Yamalo-Nenets Autonomous Okrug,2021,Wine,190.49,3.74,0.41
+Chelyabinsk Oblast,2021,Wine,1186.85,3.44,0.38
+Tyumen Oblast,2021,Wine,541.78,3.41,0.37
+Altai Republic,2021,Wine,49.64,2.35,0.26
+Tuva,2021,Wine,22.90,0.69,0.08
+Khakassia,2021,Wine,145.11,2.71,0.30
+Altai Krai,2021,Wine,509.01,2.32,0.26
+Krasnoyarsk Krai,2021,Wine,1021.76,3.57,0.39
+Irkutsk Oblast,2021,Wine,873.43,3.67,0.40
+Kemerovo Oblast,2021,Wine,667.47,2.55,0.28
+Novosibirsk Oblast,2021,Wine,1041.03,3.72,0.41
+Omsk Oblast,2021,Wine,520.95,2.77,0.31
+Tomsk Oblast,2021,Wine,357.17,3.35,0.37
+Buryatia,2021,Wine,201.60,2.06,0.23
+Sakha (Yakutia),2021,Wine,245.66,2.49,0.27
+Zabaykalsky Krai,2021,Wine,259.23,2.55,0.28
+Kamchatka Krai,2021,Wine,142.35,4.85,0.53
+Primorsky Krai,2021,Wine,854.08,4.60,0.51
+Khabarovsk Krai,2021,Wine,521.25,4.02,0.44
+Amur Oblast,2021,Wine,285.49,3.69,0.41
+Magadan Oblast,2021,Wine,66.12,4.81,0.53
+Sakhalin Oblast,2021,Wine,246.07,5.24,0.58
+Jewish Autonomous Oblast,2021,Wine,45.85,3.01,0.33
+Chukotka Autonomous Okrug,2021,Wine,14.45,3.04,0.33
+Belgorod Oblast,2022,Wine,330.63,2.15,0.24
+Bryansk Oblast,2022,Wine,324.95,2.79,0.31
+Vladimir Oblast,2022,Wine,588.64,4.39,0.48
+Voronezh Oblast,2022,Wine,669.98,2.91,0.32
+Ivanovo Oblast,2022,Wine,374.12,4.05,0.45
+Kaluga Oblast,2022,Wine,453.23,4.22,0.46
+Kostroma Oblast,2022,Wine,243.14,4.21,0.46
+Kursk Oblast,2022,Wine,257.87,2.39,0.26
+Lipetsk Oblast,2022,Wine,311.24,2.73,0.30
+Moscow Oblast,2022,Wine,5621.39,6.58,0.72
+Oryol Oblast,2022,Wine,196.42,2.77,0.30
+Ryazan Oblast,2022,Wine,382.60,3.48,0.38
+Smolensk Oblast,2022,Wine,333.20,3.76,0.41
+Tambov Oblast,2022,Wine,207.12,2.12,0.23
+Tver Oblast,2022,Wine,534.05,4.36,0.48
+Tula Oblast,2022,Wine,515.12,3.44,0.38
+Yaroslavl Oblast,2022,Wine,654.66,5.43,0.60
+Moscow,2022,Wine,7158.59,5.50,0.61
+Republic of Karelia,2022,Wine,384.74,7.23,0.79
+Komi Republic,2022,Wine,366.90,5.00,0.55
+Nenets Autonomous Okrug,2022,Wine,30.71,7.41,0.82
+Vologda Oblast,2022,Wine,540.63,4.75,0.52
+Kaliningrad Oblast,2022,Wine,668.47,6.48,0.71
+Leningrad Oblast,2022,Wine,1334.66,6.65,0.73
+Murmansk Oblast,2022,Wine,401.85,6.04,0.66
+Novgorod Oblast,2022,Wine,256.86,4.42,0.49
+Pskov Oblast,2022,Wine,279.94,4.69,0.52
+Saint Petersburg,2022,Wine,4082.97,7.28,0.80
+Arkhangelsk Oblast,2022,Wine,583.83,5.99,0.66
+Adygea,2022,Wine,85.41,1.71,0.19
+Kalmykia,2022,Wine,26.08,0.98,0.11
+Republic of Crimea,2022,Wine,900.48,4.66,0.51
+Krasnodar Krai,2022,Wine,2484.04,4.26,0.47
+Astrakhan Oblast,2022,Wine,187.41,1.96,0.22
+Volgograd Oblast,2022,Wine,606.31,2.43,0.27
+Rostov Oblast,2022,Wine,951.53,2.27,0.25
+Sevastopol,2022,Wine,293.64,5.36,0.59
+Dagestan,2022,Wine,106.81,0.34,0.04
+Ingushetia,2022,Wine,2.08,0.04,0.00
+Kabardino-Balkaria,2022,Wine,36.62,0.40,0.04
+Karachay-Cherkessia,2022,Wine,29.40,0.63,0.07
+North Ossetia-Alania,2022,Wine,37.22,0.54,0.06
+Chechnya,2022,Wine,3.33,0.02,0.00
+Stavropol Krai,2022,Wine,505.29,1.74,0.19
+Bashkortostan,2022,Wine,967.00,2.36,0.26
+Mari El,2022,Wine,168.00,2.48,0.27
+Mordovia,2022,Wine,156.04,2.00,0.22
+Tatarstan,2022,Wine,1016.70,2.54,0.28
+Udmurtia,2022,Wine,454.79,3.14,0.35
+Chuvashia,2022,Wine,282.29,2.38,0.26
+Perm Krai,2022,Wine,946.23,3.75,0.41
+Kirov Oblast,2022,Wine,457.76,3.98,0.44
+Nizhny Novgorod Oblast,2022,Wine,1327.65,4.27,0.47
+Orenburg Oblast,2022,Wine,476.60,2.57,0.28
+Penza Oblast,2022,Wine,312.75,2.48,0.27
+Samara Oblast,2022,Wine,1098.74,3.47,0.38
+Saratov Oblast,2022,Wine,569.19,2.34,0.26
+Ulyanovsk Oblast,2022,Wine,329.93,2.77,0.30
+Kurgan Oblast,2022,Wine,198.71,2.57,0.28
+Sverdlovsk Oblast,2022,Wine,2014.37,4.72,0.52
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Wine,533.02,3.11,0.34
+Yamalo-Nenets Autonomous Okrug,2022,Wine,192.97,3.77,0.42
+Chelyabinsk Oblast,2022,Wine,1205.97,3.52,0.39
+Tyumen Oblast,2022,Wine,561.43,3.50,0.39
+Altai Republic,2022,Wine,50.45,2.39,0.26
+Tuva,2022,Wine,21.06,0.63,0.07
+Khakassia,2022,Wine,144.08,2.70,0.30
+Altai Krai,2022,Wine,489.48,2.27,0.25
+Krasnoyarsk Krai,2022,Wine,1013.46,3.55,0.39
+Irkutsk Oblast,2022,Wine,841.50,3.56,0.39
+Kemerovo Oblast,2022,Wine,656.22,2.53,0.28
+Novosibirsk Oblast,2022,Wine,1023.96,3.66,0.40
+Omsk Oblast,2022,Wine,518.40,2.80,0.31
+Tomsk Oblast,2022,Wine,352.06,3.31,0.36
+Buryatia,2022,Wine,192.63,1.97,0.22
+Sakha (Yakutia),2022,Wine,240.80,2.41,0.27
+Zabaykalsky Krai,2022,Wine,252.87,2.53,0.28
+Kamchatka Krai,2022,Wine,140.00,4.79,0.53
+Primorsky Krai,2022,Wine,832.15,4.52,0.50
+Khabarovsk Krai,2022,Wine,498.53,3.86,0.42
+Amur Oblast,2022,Wine,277.32,3.63,0.40
+Magadan Oblast,2022,Wine,62.17,4.57,0.50
+Sakhalin Oblast,2022,Wine,232.85,5.00,0.55
+Jewish Autonomous Oblast,2022,Wine,44.04,2.94,0.32
+Chukotka Autonomous Okrug,2022,Wine,14.48,3.02,0.33
+Belgorod Oblast,2023,Wine,346.49,2.29,0.25
+Bryansk Oblast,2023,Wine,342.19,2.97,0.33
+Vladimir Oblast,2023,Wine,616.19,4.65,0.51
+Voronezh Oblast,2023,Wine,730.55,3.20,0.35
+Ivanovo Oblast,2023,Wine,399.18,4.36,0.48
+Kaluga Oblast,2023,Wine,477.27,4.46,0.49
+Kostroma Oblast,2023,Wine,259.59,4.54,0.50
+Kursk Oblast,2023,Wine,281.05,2.63,0.29
+Lipetsk Oblast,2023,Wine,347.00,3.08,0.34
+Moscow Oblast,2023,Wine,5961.23,6.94,0.76
+Oryol Oblast,2023,Wine,212.57,3.04,0.33
+Ryazan Oblast,2023,Wine,409.25,3.76,0.41
+Smolensk Oblast,2023,Wine,348.92,4.00,0.44
+Tambov Oblast,2023,Wine,233.23,2.41,0.27
+Tver Oblast,2023,Wine,567.19,4.68,0.52
+Tula Oblast,2023,Wine,548.29,3.70,0.41
+Yaroslavl Oblast,2023,Wine,694.10,5.81,0.64
+Moscow,2023,Wine,7398.10,5.65,0.62
+Republic of Karelia,2023,Wine,397.22,7.52,0.83
+Komi Republic,2023,Wine,387.24,5.33,0.59
+Nenets Autonomous Okrug,2023,Wine,29.84,7.21,0.79
+Vologda Oblast,2023,Wine,569.38,5.04,0.55
+Kaliningrad Oblast,2023,Wine,690.45,6.69,0.74
+Leningrad Oblast,2023,Wine,1413.90,6.99,0.77
+Murmansk Oblast,2023,Wine,425.36,6.46,0.71
+Novgorod Oblast,2023,Wine,273.52,4.75,0.52
+Pskov Oblast,2023,Wine,291.68,4.96,0.55
+Saint Petersburg,2023,Wine,4241.02,7.57,0.83
+Arkhangelsk Oblast,2023,Wine,620.23,6.43,0.71
+Adygea,2023,Wine,95.09,1.91,0.21
+Kalmykia,2023,Wine,27.57,1.04,0.11
+Republic of Crimea,2023,Wine,815.54,4.25,0.47
+Krasnodar Krai,2023,Wine,2852.58,4.90,0.54
+Astrakhan Oblast,2023,Wine,197.07,2.07,0.23
+Volgograd Oblast,2023,Wine,657.72,2.66,0.29
+Rostov Oblast,2023,Wine,1063.15,2.55,0.28
+Sevastopol,2023,Wine,284.72,5.10,0.56
+Dagestan,2023,Wine,119.82,0.37,0.04
+Ingushetia,2023,Wine,2.24,0.04,0.00
+Kabardino-Balkaria,2023,Wine,38.58,0.43,0.05
+Karachay-Cherkessia,2023,Wine,32.99,0.70,0.08
+North Ossetia-Alania,2023,Wine,42.50,0.62,0.07
+Chechnya,2023,Wine,2.45,0.02,0.00
+Stavropol Krai,2023,Wine,568.48,1.97,0.22
+Bashkortostan,2023,Wine,1053.79,2.58,0.28
+Mari El,2023,Wine,186.65,2.78,0.31
+Mordovia,2023,Wine,171.73,2.23,0.24
+Tatarstan,2023,Wine,1103.05,2.76,0.30
+Udmurtia,2023,Wine,494.79,3.43,0.38
+Chuvashia,2023,Wine,313.55,2.67,0.29
+Perm Krai,2023,Wine,1033.15,4.12,0.45
+Kirov Oblast,2023,Wine,488.23,4.29,0.47
+Nizhny Novgorod Oblast,2023,Wine,1435.32,4.66,0.51
+Orenburg Oblast,2023,Wine,506.33,2.75,0.30
+Penza Oblast,2023,Wine,337.49,2.71,0.30
+Samara Oblast,2023,Wine,1200.51,3.82,0.42
+Saratov Oblast,2023,Wine,606.46,2.52,0.28
+Ulyanovsk Oblast,2023,Wine,363.15,3.07,0.34
+Kurgan Oblast,2023,Wine,208.07,2.73,0.30
+Sverdlovsk Oblast,2023,Wine,2130.30,5.03,0.55
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Wine,558.39,3.23,0.35
+Yamalo-Nenets Autonomous Okrug,2023,Wine,202.43,3.95,0.43
+Chelyabinsk Oblast,2023,Wine,1303.80,3.83,0.42
+Tyumen Oblast,2023,Wine,607.88,3.78,0.42
+Altai Republic,2023,Wine,57.44,2.73,0.30
+Tuva,2023,Wine,22.82,0.68,0.07
+Khakassia,2023,Wine,155.70,2.94,0.32
+Altai Krai,2023,Wine,516.05,2.42,0.27
+Krasnoyarsk Krai,2023,Wine,1053.10,3.70,0.41
+Irkutsk Oblast,2023,Wine,908.89,3.88,0.43
+Kemerovo Oblast,2023,Wine,700.71,2.73,0.30
+Novosibirsk Oblast,2023,Wine,1085.60,3.89,0.43
+Omsk Oblast,2023,Wine,551.12,3.01,0.33
+Tomsk Oblast,2023,Wine,367.83,3.50,0.38
+Buryatia,2023,Wine,212.84,2.18,0.24
+Sakha (Yakutia),2023,Wine,241.41,2.42,0.27
+Zabaykalsky Krai,2023,Wine,266.15,2.68,0.29
+Kamchatka Krai,2023,Wine,147.55,5.11,0.56
+Primorsky Krai,2023,Wine,874.62,4.81,0.53
+Khabarovsk Krai,2023,Wine,533.02,4.15,0.46
+Amur Oblast,2023,Wine,293.17,3.88,0.43
+Magadan Oblast,2023,Wine,61.02,4.54,0.50
+Sakhalin Oblast,2023,Wine,241.94,5.25,0.58
+Jewish Autonomous Oblast,2023,Wine,45.36,3.08,0.34
+Chukotka Autonomous Okrug,2023,Wine,15.48,3.23,0.36
+Belgorod Oblast,2017,Beer,9333.43,60.00,3.00
+Bryansk Oblast,2017,Beer,4166.88,34.21,1.71
+Vladimir Oblast,2017,Beer,8249.42,58.93,2.95
+Voronezh Oblast,2017,Beer,7773.24,33.17,1.66
+Ivanovo Oblast,2017,Beer,4076.12,41.01,2.05
+Kaluga Oblast,2017,Beer,4376.38,41.78,2.09
+Kostroma Oblast,2017,Beer,3037.36,48.64,2.43
+Kursk Oblast,2017,Beer,3461.38,30.90,1.55
+Lipetsk Oblast,2017,Beer,4849.04,41.46,2.07
+Moscow Oblast,2017,Beer,38467.10,48.33,2.42
+Oryol Oblast,2017,Beer,2623.60,34.86,1.74
+Ryazan Oblast,2017,Beer,6873.74,60.62,3.03
+Smolensk Oblast,2017,Beer,4263.78,45.33,2.27
+Tambov Oblast,2017,Beer,3778.20,36.34,1.82
+Tver Oblast,2017,Beer,5455.92,42.15,2.11
+Tula Oblast,2017,Beer,5881.53,38.33,1.92
+Yaroslavl Oblast,2017,Beer,5376.07,42.70,2.14
+Moscow,2017,Beer,83040.40,66.54,3.33
+Republic of Karelia,2017,Beer,3200.85,54.64,2.73
+Komi Republic,2017,Beer,5026.56,61.94,3.10
+Nenets Autonomous Okrug,2017,Beer,217.03,51.31,2.57
+Vologda Oblast,2017,Beer,5475.41,46.27,2.31
+Kaliningrad Oblast,2017,Beer,2866.56,29.02,1.45
+Leningrad Oblast,2017,Beer,8949.30,48.59,2.43
+Murmansk Oblast,2017,Beer,4748.69,65.58,3.28
+Novgorod Oblast,2017,Beer,2970.09,48.69,2.43
+Pskov Oblast,2017,Beer,3067.81,48.48,2.42
+Saint Petersburg,2017,Beer,19296.17,35.70,1.78
+Arkhangelsk Oblast,2017,Beer,4880.42,45.68,2.28
+Adygea,2017,Beer,4111.50,87.51,4.38
+Kalmykia,2017,Beer,499.18,18.03,0.90
+Republic of Crimea,2017,Beer,7916.79,41.17,2.06
+Krasnodar Krai,2017,Beer,21927.98,38.81,1.94
+Astrakhan Oblast,2017,Beer,3157.73,31.53,1.58
+Volgograd Oblast,2017,Beer,8630.35,33.73,1.69
+Rostov Oblast,2017,Beer,13548.54,31.86,1.59
+Sevastopol,2017,Beer,1980.62,43.19,2.16
+Dagestan,2017,Beer,1669.37,5.45,0.27
+Ingushetia,2017,Beer,14.95,0.32,0.02
+Kabardino-Balkaria,2017,Beer,609.51,6.90,0.34
+Karachay-Cherkessia,2017,Beer,983.03,20.95,1.05
+North Ossetia-Alania,2017,Beer,205.67,2.93,0.15
+Chechnya,2017,Beer,52.76,0.37,0.02
+Stavropol Krai,2017,Beer,5977.21,20.81,1.04
+Bashkortostan,2017,Beer,14780.53,35.89,1.79
+Mari El,2017,Beer,2568.88,37.37,1.87
+Mordovia,2017,Beer,2485.91,30.53,1.53
+Tatarstan,2017,Beer,34312.79,86.94,4.35
+Udmurtia,2017,Beer,7213.48,48.18,2.41
+Chuvashia,2017,Beer,4324.98,35.25,1.76
+Perm Krai,2017,Beer,11587.15,44.30,2.21
+Kirov Oblast,2017,Beer,6859.88,55.16,2.76
+Nizhny Novgorod Oblast,2017,Beer,15367.08,47.60,2.38
+Orenburg Oblast,2017,Beer,7457.77,38.27,1.91
+Penza Oblast,2017,Beer,7355.18,55.12,2.76
+Samara Oblast,2017,Beer,16711.23,51.87,2.59
+Saratov Oblast,2017,Beer,9532.83,37.88,1.89
+Ulyanovsk Oblast,2017,Beer,4920.03,39.49,1.97
+Kurgan Oblast,2017,Beer,4435.76,53.06,2.65
+Sverdlovsk Oblast,2017,Beer,25230.24,58.28,2.91
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Beer,9636.10,58.31,2.92
+Yamalo-Nenets Autonomous Okrug,2017,Beer,2868.31,55.97,2.80
+Chelyabinsk Oblast,2017,Beer,14698.02,41.95,2.10
+Tyumen Oblast,2017,Beer,6765.11,44.95,2.25
+Altai Republic,2017,Beer,869.24,41.20,2.06
+Tuva,2017,Beer,400.48,12.50,0.62
+Khakassia,2017,Beer,3122.36,57.80,2.89
+Altai Krai,2017,Beer,10839.63,47.06,2.35
+Krasnoyarsk Krai,2017,Beer,10887.21,37.81,1.89
+Irkutsk Oblast,2017,Beer,12166.26,50.43,2.52
+Kemerovo Oblast,2017,Beer,12589.82,46.59,2.33
+Novosibirsk Oblast,2017,Beer,12672.33,45.44,2.27
+Omsk Oblast,2017,Beer,5985.72,30.58,1.53
+Tomsk Oblast,2017,Beer,5795.09,53.86,2.69
+Buryatia,2017,Beer,3761.19,38.32,1.92
+Sakha (Yakutia),2017,Beer,2860.50,29.60,1.48
+Zabaykalsky Krai,2017,Beer,3952.56,37.43,1.87
+Kamchatka Krai,2017,Beer,2464.39,81.19,4.06
+Primorsky Krai,2017,Beer,8447.95,44.22,2.21
+Khabarovsk Krai,2017,Beer,6842.73,51.48,2.57
+Amur Oblast,2017,Beer,4684.31,58.79,2.94
+Magadan Oblast,2017,Beer,808.39,55.92,2.80
+Sakhalin Oblast,2017,Beer,2964.55,62.21,3.11
+Jewish Autonomous Oblast,2017,Beer,1062.66,65.75,3.29
+Chukotka Autonomous Okrug,2017,Beer,230.50,47.39,2.37
+Belgorod Oblast,2018,Beer,7595.57,48.91,2.45
+Bryansk Oblast,2018,Beer,4662.03,38.59,1.93
+Vladimir Oblast,2018,Beer,6900.61,49.64,2.48
+Voronezh Oblast,2018,Beer,9273.76,39.58,1.98
+Ivanovo Oblast,2018,Beer,5184.77,52.88,2.64
+Kaluga Oblast,2018,Beer,4885.60,46.51,2.33
+Kostroma Oblast,2018,Beer,3295.67,53.53,2.68
+Kursk Oblast,2018,Beer,5963.77,53.64,2.68
+Lipetsk Oblast,2018,Beer,5046.92,43.29,2.16
+Moscow Oblast,2018,Beer,43659.95,53.98,2.70
+Oryol Oblast,2018,Beer,3019.89,40.55,2.03
+Ryazan Oblast,2018,Beer,5422.55,47.99,2.40
+Smolensk Oblast,2018,Beer,4621.57,49.44,2.47
+Tambov Oblast,2018,Beer,3732.36,36.13,1.81
+Tver Oblast,2018,Beer,5963.26,46.54,2.33
+Tula Oblast,2018,Beer,6105.47,39.83,1.99
+Yaroslavl Oblast,2018,Beer,5948.24,47.51,2.38
+Moscow,2018,Beer,45239.58,35.73,1.79
+Republic of Karelia,2018,Beer,3218.21,56.28,2.81
+Komi Republic,2018,Beer,4789.14,60.18,3.01
+Nenets Autonomous Okrug,2018,Beer,198.32,47.16,2.36
+Vologda Oblast,2018,Beer,5817.89,49.47,2.47
+Kaliningrad Oblast,2018,Beer,3669.11,36.82,1.84
+Leningrad Oblast,2018,Beer,9644.51,51.54,2.58
+Murmansk Oblast,2018,Beer,4909.04,68.69,3.43
+Novgorod Oblast,2018,Beer,3113.24,51.57,2.58
+Pskov Oblast,2018,Beer,3124.46,49.93,2.50
+Saint Petersburg,2018,Beer,19360.95,35.24,1.76
+Arkhangelsk Oblast,2018,Beer,5025.33,47.90,2.40
+Adygea,2018,Beer,3867.80,81.85,4.09
+Kalmykia,2018,Beer,567.82,20.69,1.03
+Republic of Crimea,2018,Beer,11380.73,58.98,2.95
+Krasnodar Krai,2018,Beer,27511.22,48.30,2.41
+Astrakhan Oblast,2018,Beer,3000.81,30.09,1.50
+Volgograd Oblast,2018,Beer,8580.98,33.67,1.68
+Rostov Oblast,2018,Beer,12784.22,30.11,1.51
+Sevastopol,2018,Beer,1897.02,39.56,1.98
+Dagestan,2018,Beer,1155.96,3.75,0.19
+Ingushetia,2018,Beer,18.41,0.38,0.02
+Kabardino-Balkaria,2018,Beer,661.23,7.44,0.37
+Karachay-Cherkessia,2018,Beer,1078.26,22.95,1.15
+North Ossetia-Alania,2018,Beer,233.65,3.33,0.17
+Chechnya,2018,Beer,48.24,0.34,0.02
+Stavropol Krai,2018,Beer,5812.30,20.19,1.01
+Bashkortostan,2018,Beer,15125.34,36.69,1.83
+Mari El,2018,Beer,2814.74,41.06,2.05
+Mordovia,2018,Beer,3136.29,38.63,1.93
+Tatarstan,2018,Beer,16688.73,42.07,2.10
+Udmurtia,2018,Beer,13353.62,89.62,4.48
+Chuvashia,2018,Beer,4879.18,39.94,2.00
+Perm Krai,2018,Beer,12787.36,49.10,2.45
+Kirov Oblast,2018,Beer,7189.51,58.55,2.93
+Nizhny Novgorod Oblast,2018,Beer,13879.83,43.21,2.16
+Orenburg Oblast,2018,Beer,6879.14,35.63,1.78
+Penza Oblast,2018,Beer,6021.20,45.51,2.28
+Samara Oblast,2018,Beer,19640.23,61.10,3.06
+Saratov Oblast,2018,Beer,11000.81,43.89,2.19
+Ulyanovsk Oblast,2018,Beer,5056.24,40.82,2.04
+Kurgan Oblast,2018,Beer,4281.11,51.93,2.60
+Sverdlovsk Oblast,2018,Beer,25675.61,59.37,2.97
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Beer,8773.54,52.77,2.64
+Yamalo-Nenets Autonomous Okrug,2018,Beer,3106.09,60.76,3.04
+Chelyabinsk Oblast,2018,Beer,13881.75,39.72,1.99
+Tyumen Oblast,2018,Beer,6844.46,44.71,2.24
+Altai Republic,2018,Beer,875.51,41.47,2.07
+Tuva,2018,Beer,436.82,13.49,0.67
+Khakassia,2018,Beer,3377.83,62.49,3.12
+Altai Krai,2018,Beer,11058.76,48.55,2.43
+Krasnoyarsk Krai,2018,Beer,10858.86,37.69,1.88
+Irkutsk Oblast,2018,Beer,13135.73,54.55,2.73
+Kemerovo Oblast,2018,Beer,15016.25,55.89,2.79
+Novosibirsk Oblast,2018,Beer,14560.73,52.01,2.60
+Omsk Oblast,2018,Beer,6080.20,31.31,1.57
+Tomsk Oblast,2018,Beer,5685.00,52.90,2.64
+Buryatia,2018,Beer,3502.76,35.70,1.78
+Sakha (Yakutia),2018,Beer,3239.01,33.46,1.67
+Zabaykalsky Krai,2018,Beer,3687.63,35.25,1.76
+Kamchatka Krai,2018,Beer,2314.72,76.51,3.83
+Primorsky Krai,2018,Beer,22142.02,116.63,5.83
+Khabarovsk Krai,2018,Beer,7495.47,56.63,2.83
+Amur Oblast,2018,Beer,6973.00,87.97,4.40
+Magadan Oblast,2018,Beer,923.59,64.62,3.23
+Sakhalin Oblast,2018,Beer,3029.31,63.33,3.17
+Jewish Autonomous Oblast,2018,Beer,1007.10,63.30,3.17
+Chukotka Autonomous Okrug,2018,Beer,216.51,45.11,2.26
+Belgorod Oblast,2019,Beer,7386.80,47.63,2.38
+Bryansk Oblast,2019,Beer,4810.39,40.18,2.01
+Vladimir Oblast,2019,Beer,7021.04,50.90,2.54
+Voronezh Oblast,2019,Beer,8300.88,35.50,1.77
+Ivanovo Oblast,2019,Beer,4768.66,49.40,2.47
+Kaluga Oblast,2019,Beer,4823.31,45.79,2.29
+Kostroma Oblast,2019,Beer,3292.48,54.36,2.72
+Kursk Oblast,2019,Beer,3947.19,35.78,1.79
+Lipetsk Oblast,2019,Beer,4891.02,42.09,2.10
+Moscow Oblast,2019,Beer,45793.81,55.62,2.78
+Oryol Oblast,2019,Beer,2865.17,38.90,1.95
+Ryazan Oblast,2019,Beer,5358.25,47.68,2.38
+Smolensk Oblast,2019,Beer,4570.82,49.38,2.47
+Tambov Oblast,2019,Beer,3447.12,33.95,1.70
+Tver Oblast,2019,Beer,5971.74,47.15,2.36
+Tula Oblast,2019,Beer,6000.22,39.33,1.97
+Yaroslavl Oblast,2019,Beer,6122.44,49.22,2.46
+Moscow,2019,Beer,45409.07,35.40,1.77
+Republic of Karelia,2019,Beer,3247.13,58.04,2.90
+Komi Republic,2019,Beer,6274.12,80.53,4.03
+Nenets Autonomous Okrug,2019,Beer,195.18,46.90,2.34
+Vologda Oblast,2019,Beer,6011.86,51.52,2.58
+Kaliningrad Oblast,2019,Beer,4025.27,40.07,2.00
+Leningrad Oblast,2019,Beer,10012.28,52.32,2.62
+Murmansk Oblast,2019,Beer,4844.07,68.81,3.44
+Novgorod Oblast,2019,Beer,2856.61,47.85,2.39
+Pskov Oblast,2019,Beer,2992.76,48.47,2.42
+Saint Petersburg,2019,Beer,19910.72,35.90,1.79
+Arkhangelsk Oblast,2019,Beer,4976.17,48.31,2.42
+Adygea,2019,Beer,3816.00,80.07,4.00
+Kalmykia,2019,Beer,516.19,19.00,0.95
+Republic of Crimea,2019,Beer,8964.35,46.38,2.32
+Krasnodar Krai,2019,Beer,21820.89,37.92,1.90
+Astrakhan Oblast,2019,Beer,3312.90,33.43,1.67
+Volgograd Oblast,2019,Beer,8297.65,32.68,1.63
+Rostov Oblast,2019,Beer,12620.03,29.83,1.49
+Sevastopol,2019,Beer,1744.98,34.93,1.75
+Dagestan,2019,Beer,1375.55,4.42,0.22
+Ingushetia,2019,Beer,26.22,0.54,0.03
+Kabardino-Balkaria,2019,Beer,880.73,9.87,0.49
+Karachay-Cherkessia,2019,Beer,1370.52,29.17,1.46
+North Ossetia-Alania,2019,Beer,224.17,3.21,0.16
+Chechnya,2019,Beer,90.20,0.62,0.03
+Stavropol Krai,2019,Beer,5414.47,18.77,0.94
+Bashkortostan,2019,Beer,17148.53,41.64,2.08
+Mari El,2019,Beer,2856.38,41.76,2.09
+Mordovia,2019,Beer,2694.92,33.55,1.68
+Tatarstan,2019,Beer,18426.59,46.28,2.31
+Udmurtia,2019,Beer,14592.87,98.52,4.93
+Chuvashia,2019,Beer,4515.88,37.24,1.86
+Perm Krai,2019,Beer,13358.05,51.59,2.58
+Kirov Oblast,2019,Beer,7406.09,61.23,3.06
+Nizhny Novgorod Oblast,2019,Beer,13808.43,43.30,2.16
+Orenburg Oblast,2019,Beer,7272.04,38.08,1.90
+Penza Oblast,2019,Beer,5990.67,45.80,2.29
+Samara Oblast,2019,Beer,18028.61,56.22,2.81
+Saratov Oblast,2019,Beer,10242.44,41.12,2.06
+Ulyanovsk Oblast,2019,Beer,5095.22,41.45,2.07
+Kurgan Oblast,2019,Beer,4186.65,51.65,2.58
+Sverdlovsk Oblast,2019,Beer,26569.53,61.57,3.08
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Beer,8643.31,51.69,2.58
+Yamalo-Nenets Autonomous Okrug,2019,Beer,3060.39,59.93,3.00
+Chelyabinsk Oblast,2019,Beer,14594.02,41.96,2.10
+Tyumen Oblast,2019,Beer,6770.68,43.52,2.18
+Altai Republic,2019,Beer,902.40,42.78,2.14
+Tuva,2019,Beer,610.80,18.68,0.93
+Khakassia,2019,Beer,3138.60,58.15,2.91
+Altai Krai,2019,Beer,13067.15,58.07,2.90
+Krasnoyarsk Krai,2019,Beer,11378.18,39.52,1.98
+Irkutsk Oblast,2019,Beer,14760.68,61.44,3.07
+Kemerovo Oblast,2019,Beer,16220.15,60.86,3.04
+Novosibirsk Oblast,2019,Beer,15419.93,54.96,2.75
+Omsk Oblast,2019,Beer,6315.86,32.83,1.64
+Tomsk Oblast,2019,Beer,5409.10,50.39,2.52
+Buryatia,2019,Beer,4554.80,46.50,2.32
+Sakha (Yakutia),2019,Beer,2973.77,30.61,1.53
+Zabaykalsky Krai,2019,Beer,3864.72,37.34,1.87
+Kamchatka Krai,2019,Beer,2089.38,69.67,3.48
+Primorsky Krai,2019,Beer,11550.30,61.23,3.06
+Khabarovsk Krai,2019,Beer,8714.48,66.19,3.31
+Amur Oblast,2019,Beer,4473.90,56.87,2.84
+Magadan Oblast,2019,Beer,842.10,60.20,3.01
+Sakhalin Oblast,2019,Beer,3103.19,65.16,3.26
+Jewish Autonomous Oblast,2019,Beer,979.77,62.54,3.13
+Chukotka Autonomous Okrug,2019,Beer,222.67,46.30,2.31
+Belgorod Oblast,2020,Beer,7214.87,46.46,2.32
+Bryansk Oblast,2020,Beer,5320.50,44.74,2.24
+Vladimir Oblast,2020,Beer,7190.78,52.35,2.62
+Voronezh Oblast,2020,Beer,8299.69,35.52,1.78
+Ivanovo Oblast,2020,Beer,4906.64,51.45,2.57
+Kaluga Oblast,2020,Beer,4991.51,47.44,2.37
+Kostroma Oblast,2020,Beer,3334.40,55.76,2.79
+Kursk Oblast,2020,Beer,4192.44,38.13,1.91
+Lipetsk Oblast,2020,Beer,5040.77,43.47,2.17
+Moscow Oblast,2020,Beer,47679.95,56.95,2.85
+Oryol Oblast,2020,Beer,3030.00,41.50,2.07
+Ryazan Oblast,2020,Beer,6298.31,56.24,2.81
+Smolensk Oblast,2020,Beer,4738.65,51.72,2.59
+Tambov Oblast,2020,Beer,3449.81,34.30,1.71
+Tver Oblast,2020,Beer,6404.98,50.96,2.55
+Tula Oblast,2020,Beer,5931.78,39.05,1.95
+Yaroslavl Oblast,2020,Beer,6409.00,51.87,2.59
+Moscow,2020,Beer,39145.11,30.24,1.51
+Republic of Karelia,2020,Beer,4944.60,89.78,4.49
+Komi Republic,2020,Beer,5546.11,72.65,3.63
+Nenets Autonomous Okrug,2020,Beer,226.11,54.35,2.72
+Vologda Oblast,2020,Beer,6353.05,54.79,2.74
+Kaliningrad Oblast,2020,Beer,4657.92,45.88,2.29
+Leningrad Oblast,2020,Beer,10369.00,53.15,2.66
+Murmansk Oblast,2020,Beer,5152.66,74.43,3.72
+Novgorod Oblast,2020,Beer,3010.92,50.79,2.54
+Pskov Oblast,2020,Beer,3223.73,52.63,2.63
+Saint Petersburg,2020,Beer,19025.92,34.09,1.70
+Arkhangelsk Oblast,2020,Beer,5258.48,51.87,2.59
+Adygea,2020,Beer,3597.35,73.78,3.69
+Kalmykia,2020,Beer,562.18,20.81,1.04
+Republic of Crimea,2020,Beer,11008.18,56.78,2.84
+Krasnodar Krai,2020,Beer,24548.73,42.37,2.12
+Astrakhan Oblast,2020,Beer,3523.14,35.95,1.80
+Volgograd Oblast,2020,Beer,8797.60,34.83,1.74
+Rostov Oblast,2020,Beer,12708.81,30.05,1.50
+Sevastopol,2020,Beer,2138.66,40.94,2.05
+Dagestan,2020,Beer,1588.24,5.06,0.25
+Ingushetia,2020,Beer,18.80,0.38,0.02
+Kabardino-Balkaria,2020,Beer,735.98,8.20,0.41
+Karachay-Cherkessia,2020,Beer,1233.60,26.23,1.31
+North Ossetia-Alania,2020,Beer,270.50,3.89,0.19
+Chechnya,2020,Beer,191.43,1.30,0.06
+Stavropol Krai,2020,Beer,6061.81,20.87,1.04
+Bashkortostan,2020,Beer,16703.91,40.61,2.03
+Mari El,2020,Beer,2838.95,41.54,2.08
+Mordovia,2020,Beer,3084.48,38.60,1.93
+Tatarstan,2020,Beer,18699.07,46.79,2.34
+Udmurtia,2020,Beer,13672.72,92.91,4.65
+Chuvashia,2020,Beer,4693.15,38.92,1.95
+Perm Krai,2020,Beer,13282.98,51.59,2.58
+Kirov Oblast,2020,Beer,7901.82,66.26,3.31
+Nizhny Novgorod Oblast,2020,Beer,14539.98,45.81,2.29
+Orenburg Oblast,2020,Beer,8253.90,43.48,2.17
+Penza Oblast,2020,Beer,6756.95,52.20,2.61
+Samara Oblast,2020,Beer,19456.62,60.68,3.03
+Saratov Oblast,2020,Beer,10259.17,41.40,2.07
+Ulyanovsk Oblast,2020,Beer,4980.36,40.83,2.04
+Kurgan Oblast,2020,Beer,4470.12,55.88,2.79
+Sverdlovsk Oblast,2020,Beer,29045.87,67.39,3.37
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Beer,11070.00,65.73,3.29
+Yamalo-Nenets Autonomous Okrug,2020,Beer,3346.79,65.61,3.28
+Chelyabinsk Oblast,2020,Beer,15509.05,44.71,2.24
+Tyumen Oblast,2020,Beer,7495.27,47.47,2.37
+Altai Republic,2020,Beer,859.73,40.69,2.03
+Tuva,2020,Beer,486.37,14.74,0.74
+Khakassia,2020,Beer,4354.85,80.91,4.05
+Altai Krai,2020,Beer,12979.06,58.36,2.92
+Krasnoyarsk Krai,2020,Beer,11986.64,41.74,2.09
+Irkutsk Oblast,2020,Beer,14070.00,58.71,2.94
+Kemerovo Oblast,2020,Beer,15323.46,57.87,2.89
+Novosibirsk Oblast,2020,Beer,16021.28,56.97,2.85
+Omsk Oblast,2020,Beer,6965.60,36.59,1.83
+Tomsk Oblast,2020,Beer,5749.62,53.50,2.67
+Buryatia,2020,Beer,3557.87,36.23,1.81
+Sakha (Yakutia),2020,Beer,3611.02,36.97,1.85
+Zabaykalsky Krai,2020,Beer,7696.27,75.08,3.75
+Kamchatka Krai,2020,Beer,2080.88,70.21,3.51
+Primorsky Krai,2020,Beer,10189.05,54.26,2.71
+Khabarovsk Krai,2020,Beer,9337.50,71.25,3.56
+Amur Oblast,2020,Beer,4928.68,62.97,3.15
+Magadan Oblast,2020,Beer,948.79,68.44,3.42
+Sakhalin Oblast,2020,Beer,3335.28,70.42,3.52
+Jewish Autonomous Oblast,2020,Beer,1177.83,76.13,3.81
+Chukotka Autonomous Okrug,2020,Beer,248.86,51.26,2.56
+Belgorod Oblast,2021,Beer,7212.12,46.67,2.33
+Bryansk Oblast,2021,Beer,5445.12,46.18,2.31
+Vladimir Oblast,2021,Beer,7326.73,53.91,2.70
+Voronezh Oblast,2021,Beer,8992.67,38.78,1.94
+Ivanovo Oblast,2021,Beer,4929.18,52.50,2.63
+Kaluga Oblast,2021,Beer,4931.16,46.70,2.33
+Kostroma Oblast,2021,Beer,3437.44,58.34,2.92
+Kursk Oblast,2021,Beer,4238.56,38.83,1.94
+Lipetsk Oblast,2021,Beer,5117.50,44.48,2.22
+Moscow Oblast,2021,Beer,49819.50,59.05,2.95
+Oryol Oblast,2021,Beer,2996.37,41.56,2.08
+Ryazan Oblast,2021,Beer,5884.03,52.99,2.65
+Smolensk Oblast,2021,Beer,4760.50,52.88,2.64
+Tambov Oblast,2021,Beer,4106.29,41.35,2.07
+Tver Oblast,2021,Beer,6492.63,52.28,2.61
+Tula Oblast,2021,Beer,5932.33,39.35,1.97
+Yaroslavl Oblast,2021,Beer,6622.79,54.21,2.71
+Moscow,2021,Beer,41839.62,32.24,1.61
+Republic of Karelia,2021,Beer,3715.08,68.61,3.43
+Komi Republic,2021,Beer,5017.83,66.87,3.34
+Nenets Autonomous Okrug,2021,Beer,309.98,74.58,3.73
+Vologda Oblast,2021,Beer,6436.03,55.96,2.80
+Kaliningrad Oblast,2021,Beer,4554.50,44.58,2.23
+Leningrad Oblast,2021,Beer,10421.04,52.70,2.64
+Murmansk Oblast,2021,Beer,5011.60,73.85,3.69
+Novgorod Oblast,2021,Beer,3240.36,55.08,2.75
+Pskov Oblast,2021,Beer,3213.01,53.10,2.66
+Saint Petersburg,2021,Beer,19198.19,34.35,1.72
+Arkhangelsk Oblast,2021,Beer,5219.09,52.42,2.62
+Adygea,2021,Beer,2869.82,58.52,2.93
+Kalmykia,2021,Beer,578.14,21.50,1.08
+Republic of Crimea,2021,Beer,10600.49,54.87,2.74
+Krasnodar Krai,2021,Beer,24115.60,41.47,2.07
+Astrakhan Oblast,2021,Beer,3680.69,37.98,1.90
+Volgograd Oblast,2021,Beer,9090.91,36.17,1.81
+Rostov Oblast,2021,Beer,13086.42,31.04,1.55
+Sevastopol,2021,Beer,2068.49,38.90,1.94
+Dagestan,2021,Beer,1697.54,5.36,0.27
+Ingushetia,2021,Beer,14.72,0.29,0.01
+Kabardino-Balkaria,2021,Beer,614.75,6.83,0.34
+Karachay-Cherkessia,2021,Beer,422.06,8.97,0.45
+North Ossetia-Alania,2021,Beer,412.31,5.97,0.30
+Chechnya,2021,Beer,166.46,1.11,0.06
+Stavropol Krai,2021,Beer,7827.56,26.95,1.35
+Bashkortostan,2021,Beer,18504.27,45.18,2.26
+Mari El,2021,Beer,3086.88,45.41,2.27
+Mordovia,2021,Beer,3191.16,40.46,2.02
+Tatarstan,2021,Beer,19491.98,48.76,2.44
+Udmurtia,2021,Beer,8370.25,57.29,2.86
+Chuvashia,2021,Beer,4507.81,37.73,1.89
+Perm Krai,2021,Beer,13189.75,51.71,2.59
+Kirov Oblast,2021,Beer,8159.61,69.57,3.48
+Nizhny Novgorod Oblast,2021,Beer,15394.47,48.96,2.45
+Orenburg Oblast,2021,Beer,8862.86,47.16,2.36
+Penza Oblast,2021,Beer,6584.09,51.49,2.57
+Samara Oblast,2021,Beer,19505.37,61.26,3.06
+Saratov Oblast,2021,Beer,12364.70,50.31,2.52
+Ulyanovsk Oblast,2021,Beer,5419.27,44.90,2.24
+Kurgan Oblast,2021,Beer,4850.72,61.53,3.08
+Sverdlovsk Oblast,2021,Beer,28651.13,66.79,3.34
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Beer,10091.18,59.42,2.97
+Yamalo-Nenets Autonomous Okrug,2021,Beer,3349.78,65.84,3.29
+Chelyabinsk Oblast,2021,Beer,17094.90,49.62,2.48
+Tyumen Oblast,2021,Beer,9030.05,56.81,2.84
+Altai Republic,2021,Beer,898.17,42.54,2.13
+Tuva,2021,Beer,970.72,29.09,1.45
+Khakassia,2021,Beer,3724.56,69.44,3.47
+Altai Krai,2021,Beer,11022.38,50.26,2.51
+Krasnoyarsk Krai,2021,Beer,12660.13,44.23,2.21
+Irkutsk Oblast,2021,Beer,14261.40,59.90,3.00
+Kemerovo Oblast,2021,Beer,14396.07,54.90,2.74
+Novosibirsk Oblast,2021,Beer,14913.66,53.24,2.66
+Omsk Oblast,2021,Beer,8178.86,43.55,2.18
+Tomsk Oblast,2021,Beer,5838.24,54.81,2.74
+Buryatia,2021,Beer,3731.59,38.04,1.90
+Sakha (Yakutia),2021,Beer,3330.74,33.74,1.69
+Zabaykalsky Krai,2021,Beer,4171.67,41.11,2.06
+Kamchatka Krai,2021,Beer,1925.21,65.65,3.28
+Primorsky Krai,2021,Beer,10024.46,53.95,2.70
+Khabarovsk Krai,2021,Beer,8411.35,64.95,3.25
+Amur Oblast,2021,Beer,4851.25,62.70,3.14
+Magadan Oblast,2021,Beer,899.72,65.51,3.28
+Sakhalin Oblast,2021,Beer,3167.78,67.50,3.38
+Jewish Autonomous Oblast,2021,Beer,1092.45,71.60,3.58
+Chukotka Autonomous Okrug,2021,Beer,202.48,42.55,2.13
+Belgorod Oblast,2022,Beer,7385.50,48.07,2.40
+Bryansk Oblast,2022,Beer,5305.60,45.56,2.28
+Vladimir Oblast,2022,Beer,7409.60,55.20,2.76
+Voronezh Oblast,2022,Beer,9008.07,39.12,1.96
+Ivanovo Oblast,2022,Beer,4854.00,52.53,2.63
+Kaluga Oblast,2022,Beer,4917.61,45.82,2.29
+Kostroma Oblast,2022,Beer,3509.66,60.72,3.04
+Kursk Oblast,2022,Beer,4419.42,40.99,2.05
+Lipetsk Oblast,2022,Beer,4915.11,43.19,2.16
+Moscow Oblast,2022,Beer,50725.53,59.38,2.97
+Oryol Oblast,2022,Beer,2876.03,40.51,2.03
+Ryazan Oblast,2022,Beer,5695.72,51.85,2.59
+Smolensk Oblast,2022,Beer,4741.68,53.46,2.67
+Tambov Oblast,2022,Beer,3490.69,35.65,1.78
+Tver Oblast,2022,Beer,6450.45,52.61,2.63
+Tula Oblast,2022,Beer,5739.08,38.35,1.92
+Yaroslavl Oblast,2022,Beer,6818.86,56.56,2.83
+Moscow,2022,Beer,39938.50,30.69,1.53
+Republic of Karelia,2022,Beer,3575.40,67.16,3.36
+Komi Republic,2022,Beer,5231.60,71.24,3.56
+Nenets Autonomous Okrug,2022,Beer,233.01,56.25,2.81
+Vologda Oblast,2022,Beer,6636.22,58.29,2.91
+Kaliningrad Oblast,2022,Beer,3951.27,38.33,1.92
+Leningrad Oblast,2022,Beer,11040.85,55.04,2.75
+Murmansk Oblast,2022,Beer,4942.28,74.29,3.71
+Novgorod Oblast,2022,Beer,3193.46,54.91,2.75
+Pskov Oblast,2022,Beer,3218.43,53.92,2.70
+Saint Petersburg,2022,Beer,19843.43,35.38,1.77
+Arkhangelsk Oblast,2022,Beer,5219.22,53.55,2.68
+Adygea,2022,Beer,2267.76,45.51,2.28
+Kalmykia,2022,Beer,610.67,22.92,1.15
+Republic of Crimea,2022,Beer,9561.44,49.51,2.48
+Krasnodar Krai,2022,Beer,24002.66,41.16,2.06
+Astrakhan Oblast,2022,Beer,3487.38,36.41,1.82
+Volgograd Oblast,2022,Beer,8904.49,35.72,1.79
+Rostov Oblast,2022,Beer,12012.51,28.65,1.43
+Sevastopol,2022,Beer,2135.54,39.01,1.95
+Dagestan,2022,Beer,1570.19,4.93,0.25
+Ingushetia,2022,Beer,18.37,0.36,0.02
+Kabardino-Balkaria,2022,Beer,549.67,6.08,0.30
+Karachay-Cherkessia,2022,Beer,396.75,8.46,0.42
+North Ossetia-Alania,2022,Beer,404.12,5.90,0.29
+Chechnya,2022,Beer,231.07,1.53,0.08
+Stavropol Krai,2022,Beer,6985.49,24.07,1.20
+Bashkortostan,2022,Beer,22125.14,54.07,2.70
+Mari El,2022,Beer,3141.62,46.45,2.32
+Mordovia,2022,Beer,3209.51,41.07,2.05
+Tatarstan,2022,Beer,20296.16,50.74,2.54
+Udmurtia,2022,Beer,7723.92,53.31,2.67
+Chuvashia,2022,Beer,4692.60,39.64,1.98
+Perm Krai,2022,Beer,13190.92,52.24,2.61
+Kirov Oblast,2022,Beer,8164.51,71.05,3.55
+Nizhny Novgorod Oblast,2022,Beer,15369.64,49.44,2.47
+Orenburg Oblast,2022,Beer,8573.98,46.20,2.31
+Penza Oblast,2022,Beer,6250.98,49.57,2.48
+Samara Oblast,2022,Beer,19148.59,60.51,3.03
+Saratov Oblast,2022,Beer,10029.55,41.26,2.06
+Ulyanovsk Oblast,2022,Beer,5463.61,45.85,2.29
+Kurgan Oblast,2022,Beer,4881.43,63.20,3.16
+Sverdlovsk Oblast,2022,Beer,28898.58,67.78,3.39
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Beer,9316.53,54.36,2.72
+Yamalo-Nenets Autonomous Okrug,2022,Beer,3347.95,65.49,3.27
+Chelyabinsk Oblast,2022,Beer,17298.68,50.56,2.53
+Tyumen Oblast,2022,Beer,9450.17,58.97,2.95
+Altai Republic,2022,Beer,918.86,43.59,2.18
+Tuva,2022,Beer,730.63,21.73,1.09
+Khakassia,2022,Beer,3776.94,70.86,3.54
+Altai Krai,2022,Beer,11789.46,54.71,2.74
+Krasnoyarsk Krai,2022,Beer,12785.00,44.76,2.24
+Irkutsk Oblast,2022,Beer,12471.12,52.77,2.64
+Kemerovo Oblast,2022,Beer,14406.85,55.58,2.78
+Novosibirsk Oblast,2022,Beer,14663.06,52.42,2.62
+Omsk Oblast,2022,Beer,7935.38,42.86,2.14
+Tomsk Oblast,2022,Beer,5767.64,54.27,2.71
+Buryatia,2022,Beer,3340.81,34.16,1.71
+Sakha (Yakutia),2022,Beer,3570.66,35.78,1.79
+Zabaykalsky Krai,2022,Beer,3646.10,36.44,1.82
+Kamchatka Krai,2022,Beer,1899.66,64.93,3.25
+Primorsky Krai,2022,Beer,10044.52,54.53,2.73
+Khabarovsk Krai,2022,Beer,8859.73,68.53,3.43
+Amur Oblast,2022,Beer,4924.28,64.49,3.22
+Magadan Oblast,2022,Beer,723.68,53.25,2.66
+Sakhalin Oblast,2022,Beer,3109.64,66.73,3.34
+Jewish Autonomous Oblast,2022,Beer,1097.28,73.36,3.67
+Chukotka Autonomous Okrug,2022,Beer,225.90,47.15,2.36
+Belgorod Oblast,2023,Beer,7367.83,48.65,2.43
+Bryansk Oblast,2023,Beer,5191.65,45.05,2.25
+Vladimir Oblast,2023,Beer,7699.86,58.09,2.90
+Voronezh Oblast,2023,Beer,9639.15,42.18,2.11
+Ivanovo Oblast,2023,Beer,4795.06,52.42,2.62
+Kaluga Oblast,2023,Beer,4888.33,45.65,2.28
+Kostroma Oblast,2023,Beer,3425.78,59.90,3.00
+Kursk Oblast,2023,Beer,4584.64,42.97,2.15
+Lipetsk Oblast,2023,Beer,5219.65,46.34,2.32
+Moscow Oblast,2023,Beer,49759.90,57.92,2.90
+Oryol Oblast,2023,Beer,2927.25,41.80,2.09
+Ryazan Oblast,2023,Beer,5602.21,51.45,2.57
+Smolensk Oblast,2023,Beer,4615.64,52.87,2.64
+Tambov Oblast,2023,Beer,3553.60,36.78,1.84
+Tver Oblast,2023,Beer,6300.38,52.02,2.60
+Tula Oblast,2023,Beer,5680.37,38.34,1.92
+Yaroslavl Oblast,2023,Beer,6643.07,55.61,2.78
+Moscow,2023,Beer,39598.15,30.22,1.51
+Republic of Karelia,2023,Beer,3397.38,64.36,3.22
+Komi Republic,2023,Beer,5478.00,75.41,3.77
+Nenets Autonomous Okrug,2023,Beer,353.22,85.35,4.27
+Vologda Oblast,2023,Beer,6507.68,57.65,2.88
+Kaliningrad Oblast,2023,Beer,3467.07,33.58,1.68
+Leningrad Oblast,2023,Beer,11553.60,57.09,2.85
+Murmansk Oblast,2023,Beer,4845.16,73.56,3.68
+Novgorod Oblast,2023,Beer,3229.48,56.07,2.80
+Pskov Oblast,2023,Beer,3222.43,54.82,2.74
+Saint Petersburg,2023,Beer,20813.84,37.17,1.86
+Arkhangelsk Oblast,2023,Beer,5390.97,55.91,2.80
+Adygea,2023,Beer,2346.50,47.12,2.36
+Kalmykia,2023,Beer,1340.37,50.68,2.53
+Republic of Crimea,2023,Beer,10818.54,56.44,2.82
+Krasnodar Krai,2023,Beer,27804.66,47.78,2.39
+Astrakhan Oblast,2023,Beer,3599.71,37.87,1.89
+Volgograd Oblast,2023,Beer,9217.04,37.32,1.87
+Rostov Oblast,2023,Beer,13647.67,32.77,1.64
+Sevastopol,2023,Beer,2119.37,37.96,1.90
+Dagestan,2023,Beer,1879.80,5.86,0.29
+Ingushetia,2023,Beer,0.00,0.00,0.00
+Kabardino-Balkaria,2023,Beer,638.71,7.07,0.35
+Karachay-Cherkessia,2023,Beer,381.23,8.14,0.41
+North Ossetia-Alania,2023,Beer,566.54,8.32,0.42
+Chechnya,2023,Beer,325.92,2.13,0.11
+Stavropol Krai,2023,Beer,7249.94,25.08,1.25
+Bashkortostan,2023,Beer,19313.98,47.37,2.37
+Mari El,2023,Beer,3213.99,47.80,2.39
+Mordovia,2023,Beer,3126.84,40.54,2.03
+Tatarstan,2023,Beer,20261.80,50.63,2.53
+Udmurtia,2023,Beer,8104.62,56.19,2.81
+Chuvashia,2023,Beer,4856.18,41.39,2.07
+Perm Krai,2023,Beer,13791.93,54.98,2.75
+Kirov Oblast,2023,Beer,8225.77,72.28,3.61
+Nizhny Novgorod Oblast,2023,Beer,15557.02,50.48,2.52
+Orenburg Oblast,2023,Beer,8784.52,47.71,2.39
+Penza Oblast,2023,Beer,6267.15,50.27,2.51
+Samara Oblast,2023,Beer,18842.41,59.96,3.00
+Saratov Oblast,2023,Beer,10213.64,42.47,2.12
+Ulyanovsk Oblast,2023,Beer,5047.04,42.74,2.14
+Kurgan Oblast,2023,Beer,5092.57,66.87,3.34
+Sverdlovsk Oblast,2023,Beer,30256.81,71.37,3.57
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Beer,9865.33,57.01,2.85
+Yamalo-Nenets Autonomous Okrug,2023,Beer,3272.60,63.87,3.19
+Chelyabinsk Oblast,2023,Beer,19006.74,55.78,2.79
+Tyumen Oblast,2023,Beer,9810.84,60.99,3.05
+Altai Republic,2023,Beer,1157.08,54.90,2.74
+Tuva,2023,Beer,1018.43,30.20,1.51
+Khakassia,2023,Beer,4357.12,82.17,4.11
+Altai Krai,2023,Beer,11984.28,56.24,2.81
+Krasnoyarsk Krai,2023,Beer,14240.09,50.04,2.50
+Irkutsk Oblast,2023,Beer,12609.74,53.79,2.69
+Kemerovo Oblast,2023,Beer,14677.31,57.15,2.86
+Novosibirsk Oblast,2023,Beer,15067.83,53.92,2.70
+Omsk Oblast,2023,Beer,8186.89,44.69,2.23
+Tomsk Oblast,2023,Beer,5859.33,55.69,2.78
+Buryatia,2023,Beer,3466.95,35.57,1.78
+Sakha (Yakutia),2023,Beer,4416.49,44.27,2.21
+Zabaykalsky Krai,2023,Beer,3992.86,40.23,2.01
+Kamchatka Krai,2023,Beer,2026.64,70.19,3.51
+Primorsky Krai,2023,Beer,10474.11,57.55,2.88
+Khabarovsk Krai,2023,Beer,7793.45,60.69,3.03
+Amur Oblast,2023,Beer,5555.20,73.46,3.67
+Magadan Oblast,2023,Beer,728.22,54.22,2.71
+Sakhalin Oblast,2023,Beer,3103.54,67.39,3.37
+Jewish Autonomous Oblast,2023,Beer,1222.60,82.91,4.15
+Chukotka Autonomous Okrug,2023,Beer,239.59,50.08,2.50
+Belgorod Oblast,2017,Vodka,547.23,3.52,1.41
+Bryansk Oblast,2017,Vodka,522.86,4.29,1.72
+Vladimir Oblast,2017,Vodka,941.86,6.73,2.69
+Voronezh Oblast,2017,Vodka,863.75,3.69,1.47
+Ivanovo Oblast,2017,Vodka,565.12,5.69,2.27
+Kaluga Oblast,2017,Vodka,650.69,6.21,2.48
+Kostroma Oblast,2017,Vodka,479.69,7.68,3.07
+Kursk Oblast,2017,Vodka,409.67,3.66,1.46
+Lipetsk Oblast,2017,Vodka,471.18,4.03,1.61
+Moscow Oblast,2017,Vodka,6058.75,7.61,3.04
+Oryol Oblast,2017,Vodka,289.57,3.85,1.54
+Ryazan Oblast,2017,Vodka,494.86,4.36,1.75
+Smolensk Oblast,2017,Vodka,597.03,6.35,2.54
+Tambov Oblast,2017,Vodka,313.91,3.02,1.21
+Tver Oblast,2017,Vodka,895.58,6.92,2.77
+Tula Oblast,2017,Vodka,643.38,4.19,1.68
+Yaroslavl Oblast,2017,Vodka,932.65,7.41,2.96
+Moscow,2017,Vodka,5971.20,4.78,1.91
+Republic of Karelia,2017,Vodka,651.57,11.12,4.45
+Komi Republic,2017,Vodka,921.92,11.36,4.54
+Nenets Autonomous Okrug,2017,Vodka,37.93,8.97,3.59
+Vologda Oblast,2017,Vodka,1016.25,8.59,3.44
+Kaliningrad Oblast,2017,Vodka,373.93,3.79,1.51
+Leningrad Oblast,2017,Vodka,1448.35,7.86,3.15
+Murmansk Oblast,2017,Vodka,645.29,8.91,3.56
+Novgorod Oblast,2017,Vodka,399.03,6.54,2.62
+Pskov Oblast,2017,Vodka,354.39,5.60,2.24
+Saint Petersburg,2017,Vodka,2680.40,4.96,1.98
+Arkhangelsk Oblast,2017,Vodka,1004.08,9.40,3.76
+Adygea,2017,Vodka,184.33,3.92,1.57
+Kalmykia,2017,Vodka,87.37,3.16,1.26
+Republic of Crimea,2017,Vodka,744.56,3.87,1.55
+Krasnodar Krai,2017,Vodka,1825.29,3.23,1.29
+Astrakhan Oblast,2017,Vodka,377.33,3.77,1.51
+Volgograd Oblast,2017,Vodka,747.59,2.92,1.17
+Rostov Oblast,2017,Vodka,1068.23,2.51,1.00
+Sevastopol,2017,Vodka,265.35,5.79,2.31
+Dagestan,2017,Vodka,236.57,0.77,0.31
+Ingushetia,2017,Vodka,10.33,0.22,0.09
+Kabardino-Balkaria,2017,Vodka,47.16,0.53,0.21
+Karachay-Cherkessia,2017,Vodka,36.12,0.77,0.31
+North Ossetia-Alania,2017,Vodka,19.17,0.27,0.11
+Chechnya,2017,Vodka,11.33,0.08,0.03
+Stavropol Krai,2017,Vodka,534.76,1.86,0.74
+Bashkortostan,2017,Vodka,2504.28,6.08,2.43
+Mari El,2017,Vodka,443.66,6.45,2.58
+Mordovia,2017,Vodka,471.97,5.80,2.32
+Tatarstan,2017,Vodka,2759.86,6.99,2.80
+Udmurtia,2017,Vodka,1278.91,8.54,3.42
+Chuvashia,2017,Vodka,823.33,6.71,2.68
+Perm Krai,2017,Vodka,1523.20,5.82,2.33
+Kirov Oblast,2017,Vodka,1075.49,8.65,3.46
+Nizhny Novgorod Oblast,2017,Vodka,1771.66,5.49,2.20
+Orenburg Oblast,2017,Vodka,642.54,3.30,1.32
+Penza Oblast,2017,Vodka,527.29,3.95,1.58
+Samara Oblast,2017,Vodka,1147.04,3.56,1.42
+Saratov Oblast,2017,Vodka,569.91,2.26,0.91
+Ulyanovsk Oblast,2017,Vodka,432.46,3.47,1.39
+Kurgan Oblast,2017,Vodka,233.51,2.79,1.12
+Sverdlovsk Oblast,2017,Vodka,2329.57,5.38,2.15
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Vodka,994.64,6.02,2.41
+Yamalo-Nenets Autonomous Okrug,2017,Vodka,394.58,7.70,3.08
+Chelyabinsk Oblast,2017,Vodka,1364.08,3.89,1.56
+Tyumen Oblast,2017,Vodka,704.21,4.68,1.87
+Altai Republic,2017,Vodka,96.12,4.56,1.82
+Tuva,2017,Vodka,57.84,1.81,0.72
+Khakassia,2017,Vodka,136.20,2.52,1.01
+Altai Krai,2017,Vodka,882.68,3.83,1.53
+Krasnoyarsk Krai,2017,Vodka,1316.34,4.57,1.83
+Irkutsk Oblast,2017,Vodka,1299.23,5.39,2.15
+Kemerovo Oblast,2017,Vodka,1395.19,5.16,2.07
+Novosibirsk Oblast,2017,Vodka,1042.73,3.74,1.50
+Omsk Oblast,2017,Vodka,488.61,2.50,1.00
+Tomsk Oblast,2017,Vodka,468.32,4.35,1.74
+Buryatia,2017,Vodka,671.53,6.84,2.74
+Sakha (Yakutia),2017,Vodka,681.92,7.06,2.82
+Zabaykalsky Krai,2017,Vodka,545.81,5.17,2.07
+Kamchatka Krai,2017,Vodka,295.29,9.73,3.89
+Primorsky Krai,2017,Vodka,1259.93,6.59,2.64
+Khabarovsk Krai,2017,Vodka,1232.17,9.27,3.71
+Amur Oblast,2017,Vodka,495.74,6.22,2.49
+Magadan Oblast,2017,Vodka,175.44,12.14,4.85
+Sakhalin Oblast,2017,Vodka,603.78,12.67,5.07
+Jewish Autonomous Oblast,2017,Vodka,125.33,7.75,3.10
+Chukotka Autonomous Okrug,2017,Vodka,53.72,11.05,4.42
+Belgorod Oblast,2018,Vodka,589.77,3.80,1.52
+Bryansk Oblast,2018,Vodka,521.50,4.32,1.73
+Vladimir Oblast,2018,Vodka,936.95,6.74,2.70
+Voronezh Oblast,2018,Vodka,902.39,3.85,1.54
+Ivanovo Oblast,2018,Vodka,574.66,5.86,2.34
+Kaluga Oblast,2018,Vodka,652.17,6.21,2.48
+Kostroma Oblast,2018,Vodka,484.33,7.87,3.15
+Kursk Oblast,2018,Vodka,407.97,3.67,1.47
+Lipetsk Oblast,2018,Vodka,483.94,4.15,1.66
+Moscow Oblast,2018,Vodka,6308.28,7.80,3.12
+Oryol Oblast,2018,Vodka,295.17,3.96,1.59
+Ryazan Oblast,2018,Vodka,511.80,4.53,1.81
+Smolensk Oblast,2018,Vodka,598.72,6.41,2.56
+Tambov Oblast,2018,Vodka,338.00,3.27,1.31
+Tver Oblast,2018,Vodka,902.65,7.05,2.82
+Tula Oblast,2018,Vodka,659.74,4.30,1.72
+Yaroslavl Oblast,2018,Vodka,954.34,7.62,3.05
+Moscow,2018,Vodka,5899.71,4.66,1.86
+Republic of Karelia,2018,Vodka,635.29,11.11,4.44
+Komi Republic,2018,Vodka,925.11,11.62,4.65
+Nenets Autonomous Okrug,2018,Vodka,40.52,9.64,3.85
+Vologda Oblast,2018,Vodka,1043.91,8.88,3.55
+Kaliningrad Oblast,2018,Vodka,417.22,4.19,1.67
+Leningrad Oblast,2018,Vodka,1494.28,7.99,3.19
+Murmansk Oblast,2018,Vodka,620.40,8.68,3.47
+Novgorod Oblast,2018,Vodka,408.78,6.77,2.71
+Pskov Oblast,2018,Vodka,354.40,5.66,2.27
+Saint Petersburg,2018,Vodka,2718.18,4.95,1.98
+Arkhangelsk Oblast,2018,Vodka,988.50,9.42,3.77
+Adygea,2018,Vodka,147.93,3.13,1.25
+Kalmykia,2018,Vodka,92.25,3.36,1.34
+Republic of Crimea,2018,Vodka,785.02,4.07,1.63
+Krasnodar Krai,2018,Vodka,1881.70,3.30,1.32
+Astrakhan Oblast,2018,Vodka,388.49,3.90,1.56
+Volgograd Oblast,2018,Vodka,775.07,3.04,1.22
+Rostov Oblast,2018,Vodka,1079.31,2.54,1.02
+Sevastopol,2018,Vodka,281.28,5.87,2.35
+Dagestan,2018,Vodka,255.01,0.83,0.33
+Ingushetia,2018,Vodka,14.44,0.30,0.12
+Kabardino-Balkaria,2018,Vodka,42.62,0.48,0.19
+Karachay-Cherkessia,2018,Vodka,40.37,0.86,0.34
+North Ossetia-Alania,2018,Vodka,21.87,0.31,0.12
+Chechnya,2018,Vodka,7.53,0.05,0.02
+Stavropol Krai,2018,Vodka,563.04,1.96,0.78
+Bashkortostan,2018,Vodka,2324.62,5.64,2.26
+Mari El,2018,Vodka,453.04,6.61,2.64
+Mordovia,2018,Vodka,450.28,5.55,2.22
+Tatarstan,2018,Vodka,2779.01,7.01,2.80
+Udmurtia,2018,Vodka,1282.17,8.60,3.44
+Chuvashia,2018,Vodka,832.26,6.81,2.73
+Perm Krai,2018,Vodka,1522.01,5.84,2.34
+Kirov Oblast,2018,Vodka,1039.03,8.46,3.38
+Nizhny Novgorod Oblast,2018,Vodka,2127.98,6.62,2.65
+Orenburg Oblast,2018,Vodka,718.58,3.72,1.49
+Penza Oblast,2018,Vodka,550.74,4.16,1.66
+Samara Oblast,2018,Vodka,1259.07,3.92,1.57
+Saratov Oblast,2018,Vodka,619.11,2.47,0.99
+Ulyanovsk Oblast,2018,Vodka,441.72,3.57,1.43
+Kurgan Oblast,2018,Vodka,264.51,3.21,1.28
+Sverdlovsk Oblast,2018,Vodka,2350.84,5.44,2.17
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Vodka,1015.24,6.11,2.44
+Yamalo-Nenets Autonomous Okrug,2018,Vodka,394.32,7.71,3.09
+Chelyabinsk Oblast,2018,Vodka,1463.23,4.19,1.67
+Tyumen Oblast,2018,Vodka,726.40,4.74,1.90
+Altai Republic,2018,Vodka,94.86,4.49,1.80
+Tuva,2018,Vodka,56.42,1.74,0.70
+Khakassia,2018,Vodka,154.82,2.86,1.15
+Altai Krai,2018,Vodka,904.88,3.97,1.59
+Krasnoyarsk Krai,2018,Vodka,1246.80,4.33,1.73
+Irkutsk Oblast,2018,Vodka,1338.97,5.56,2.22
+Kemerovo Oblast,2018,Vodka,1396.55,5.20,2.08
+Novosibirsk Oblast,2018,Vodka,1059.20,3.78,1.51
+Omsk Oblast,2018,Vodka,552.40,2.84,1.14
+Tomsk Oblast,2018,Vodka,461.96,4.30,1.72
+Buryatia,2018,Vodka,624.71,6.37,2.55
+Sakha (Yakutia),2018,Vodka,676.46,6.99,2.80
+Zabaykalsky Krai,2018,Vodka,508.10,4.86,1.94
+Kamchatka Krai,2018,Vodka,289.25,9.56,3.82
+Primorsky Krai,2018,Vodka,1281.93,6.75,2.70
+Khabarovsk Krai,2018,Vodka,1211.62,9.15,3.66
+Amur Oblast,2018,Vodka,512.77,6.47,2.59
+Magadan Oblast,2018,Vodka,173.66,12.15,4.86
+Sakhalin Oblast,2018,Vodka,604.97,12.65,5.06
+Jewish Autonomous Oblast,2018,Vodka,126.74,7.97,3.19
+Chukotka Autonomous Okrug,2018,Vodka,52.57,10.95,4.38
+Belgorod Oblast,2019,Vodka,584.03,3.77,1.51
+Bryansk Oblast,2019,Vodka,510.00,4.26,1.70
+Vladimir Oblast,2019,Vodka,933.88,6.77,2.71
+Voronezh Oblast,2019,Vodka,907.32,3.88,1.55
+Ivanovo Oblast,2019,Vodka,570.97,5.91,2.37
+Kaluga Oblast,2019,Vodka,651.97,6.19,2.48
+Kostroma Oblast,2019,Vodka,465.20,7.68,3.07
+Kursk Oblast,2019,Vodka,400.78,3.63,1.45
+Lipetsk Oblast,2019,Vodka,474.51,4.08,1.63
+Moscow Oblast,2019,Vodka,6288.95,7.64,3.06
+Oryol Oblast,2019,Vodka,289.05,3.92,1.57
+Ryazan Oblast,2019,Vodka,501.79,4.47,1.79
+Smolensk Oblast,2019,Vodka,590.04,6.37,2.55
+Tambov Oblast,2019,Vodka,339.87,3.35,1.34
+Tver Oblast,2019,Vodka,890.47,7.03,2.81
+Tula Oblast,2019,Vodka,659.10,4.32,1.73
+Yaroslavl Oblast,2019,Vodka,927.87,7.46,2.98
+Moscow,2019,Vodka,5656.75,4.41,1.76
+Republic of Karelia,2019,Vodka,610.13,10.91,4.36
+Komi Republic,2019,Vodka,907.82,11.65,4.66
+Nenets Autonomous Okrug,2019,Vodka,39.55,9.50,3.80
+Vologda Oblast,2019,Vodka,1036.65,8.88,3.55
+Kaliningrad Oblast,2019,Vodka,454.44,4.52,1.81
+Leningrad Oblast,2019,Vodka,1507.33,7.88,3.15
+Murmansk Oblast,2019,Vodka,604.44,8.59,3.43
+Novgorod Oblast,2019,Vodka,397.19,6.65,2.66
+Pskov Oblast,2019,Vodka,352.34,5.71,2.28
+Saint Petersburg,2019,Vodka,2841.30,5.12,2.05
+Arkhangelsk Oblast,2019,Vodka,953.49,9.26,3.70
+Adygea,2019,Vodka,139.50,2.93,1.17
+Kalmykia,2019,Vodka,98.73,3.63,1.45
+Republic of Crimea,2019,Vodka,796.33,4.12,1.65
+Krasnodar Krai,2019,Vodka,1872.12,3.25,1.30
+Astrakhan Oblast,2019,Vodka,389.48,3.93,1.57
+Volgograd Oblast,2019,Vodka,764.24,3.01,1.20
+Rostov Oblast,2019,Vodka,1086.43,2.57,1.03
+Sevastopol,2019,Vodka,276.79,5.54,2.22
+Dagestan,2019,Vodka,276.90,0.89,0.36
+Ingushetia,2019,Vodka,12.78,0.26,0.10
+Kabardino-Balkaria,2019,Vodka,38.53,0.43,0.17
+Karachay-Cherkessia,2019,Vodka,42.12,0.90,0.36
+North Ossetia-Alania,2019,Vodka,22.23,0.32,0.13
+Chechnya,2019,Vodka,18.11,0.12,0.05
+Stavropol Krai,2019,Vodka,582.85,2.02,0.81
+Bashkortostan,2019,Vodka,2339.44,5.68,2.27
+Mari El,2019,Vodka,441.96,6.46,2.58
+Mordovia,2019,Vodka,429.64,5.35,2.14
+Tatarstan,2019,Vodka,2722.62,6.84,2.73
+Udmurtia,2019,Vodka,1261.51,8.52,3.41
+Chuvashia,2019,Vodka,828.27,6.83,2.73
+Perm Krai,2019,Vodka,1529.14,5.91,2.36
+Kirov Oblast,2019,Vodka,987.88,8.17,3.27
+Nizhny Novgorod Oblast,2019,Vodka,2119.10,6.64,2.66
+Orenburg Oblast,2019,Vodka,732.27,3.83,1.53
+Penza Oblast,2019,Vodka,550.80,4.21,1.68
+Samara Oblast,2019,Vodka,1284.73,4.01,1.60
+Saratov Oblast,2019,Vodka,646.10,2.59,1.04
+Ulyanovsk Oblast,2019,Vodka,494.21,4.02,1.61
+Kurgan Oblast,2019,Vodka,251.90,3.11,1.24
+Sverdlovsk Oblast,2019,Vodka,2317.80,5.37,2.15
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Vodka,987.02,5.90,2.36
+Yamalo-Nenets Autonomous Okrug,2019,Vodka,388.69,7.61,3.04
+Chelyabinsk Oblast,2019,Vodka,1471.94,4.23,1.69
+Tyumen Oblast,2019,Vodka,720.82,4.63,1.85
+Altai Republic,2019,Vodka,99.77,4.73,1.89
+Tuva,2019,Vodka,62.55,1.91,0.77
+Khakassia,2019,Vodka,143.48,2.66,1.06
+Altai Krai,2019,Vodka,896.30,3.98,1.59
+Krasnoyarsk Krai,2019,Vodka,1258.74,4.37,1.75
+Irkutsk Oblast,2019,Vodka,1294.47,5.39,2.16
+Kemerovo Oblast,2019,Vodka,1367.36,5.13,2.05
+Novosibirsk Oblast,2019,Vodka,1051.08,3.75,1.50
+Omsk Oblast,2019,Vodka,571.84,2.97,1.19
+Tomsk Oblast,2019,Vodka,467.75,4.36,1.74
+Buryatia,2019,Vodka,582.63,5.95,2.38
+Sakha (Yakutia),2019,Vodka,651.42,6.71,2.68
+Zabaykalsky Krai,2019,Vodka,517.63,5.00,2.00
+Kamchatka Krai,2019,Vodka,284.52,9.49,3.79
+Primorsky Krai,2019,Vodka,1274.15,6.75,2.70
+Khabarovsk Krai,2019,Vodka,1182.52,8.98,3.59
+Amur Oblast,2019,Vodka,512.45,6.51,2.61
+Magadan Oblast,2019,Vodka,167.74,11.99,4.80
+Sakhalin Oblast,2019,Vodka,600.81,12.62,5.05
+Jewish Autonomous Oblast,2019,Vodka,123.61,7.89,3.16
+Chukotka Autonomous Okrug,2019,Vodka,54.93,11.42,4.57
+Belgorod Oblast,2020,Vodka,563.91,3.63,1.45
+Bryansk Oblast,2020,Vodka,509.17,4.28,1.71
+Vladimir Oblast,2020,Vodka,946.30,6.89,2.76
+Voronezh Oblast,2020,Vodka,920.78,3.94,1.58
+Ivanovo Oblast,2020,Vodka,567.79,5.95,2.38
+Kaluga Oblast,2020,Vodka,674.97,6.41,2.57
+Kostroma Oblast,2020,Vodka,458.76,7.67,3.07
+Kursk Oblast,2020,Vodka,402.78,3.66,1.47
+Lipetsk Oblast,2020,Vodka,489.03,4.22,1.69
+Moscow Oblast,2020,Vodka,6528.54,7.80,3.12
+Oryol Oblast,2020,Vodka,289.88,3.97,1.59
+Ryazan Oblast,2020,Vodka,509.49,4.55,1.82
+Smolensk Oblast,2020,Vodka,594.97,6.49,2.60
+Tambov Oblast,2020,Vodka,349.14,3.47,1.39
+Tver Oblast,2020,Vodka,907.83,7.22,2.89
+Tula Oblast,2020,Vodka,678.44,4.47,1.79
+Yaroslavl Oblast,2020,Vodka,938.22,7.59,3.04
+Moscow,2020,Vodka,5481.14,4.23,1.69
+Republic of Karelia,2020,Vodka,613.15,11.13,4.45
+Komi Republic,2020,Vodka,927.03,12.14,4.86
+Nenets Autonomous Okrug,2020,Vodka,41.16,9.89,3.96
+Vologda Oblast,2020,Vodka,1069.74,9.23,3.69
+Kaliningrad Oblast,2020,Vodka,593.63,5.85,2.34
+Leningrad Oblast,2020,Vodka,1568.26,8.04,3.22
+Murmansk Oblast,2020,Vodka,599.78,8.66,3.47
+Novgorod Oblast,2020,Vodka,385.68,6.51,2.60
+Pskov Oblast,2020,Vodka,366.70,5.99,2.39
+Saint Petersburg,2020,Vodka,2710.25,4.86,1.94
+Arkhangelsk Oblast,2020,Vodka,971.71,9.58,3.83
+Adygea,2020,Vodka,143.15,2.94,1.17
+Kalmykia,2020,Vodka,103.60,3.83,1.53
+Republic of Crimea,2020,Vodka,816.44,4.21,1.68
+Krasnodar Krai,2020,Vodka,1947.64,3.36,1.34
+Astrakhan Oblast,2020,Vodka,395.30,4.03,1.61
+Volgograd Oblast,2020,Vodka,771.11,3.05,1.22
+Rostov Oblast,2020,Vodka,1130.10,2.67,1.07
+Sevastopol,2020,Vodka,283.98,5.44,2.17
+Dagestan,2020,Vodka,321.17,1.02,0.41
+Ingushetia,2020,Vodka,14.67,0.30,0.12
+Kabardino-Balkaria,2020,Vodka,45.86,0.51,0.20
+Karachay-Cherkessia,2020,Vodka,49.53,1.05,0.42
+North Ossetia-Alania,2020,Vodka,30.82,0.44,0.18
+Chechnya,2020,Vodka,39.50,0.27,0.11
+Stavropol Krai,2020,Vodka,620.32,2.14,0.85
+Bashkortostan,2020,Vodka,2304.53,5.60,2.24
+Mari El,2020,Vodka,413.11,6.04,2.42
+Mordovia,2020,Vodka,422.90,5.29,2.12
+Tatarstan,2020,Vodka,2693.45,6.74,2.70
+Udmurtia,2020,Vodka,1262.65,8.58,3.43
+Chuvashia,2020,Vodka,815.73,6.76,2.71
+Perm Krai,2020,Vodka,1510.66,5.87,2.35
+Kirov Oblast,2020,Vodka,955.48,8.01,3.20
+Nizhny Novgorod Oblast,2020,Vodka,1736.35,5.47,2.19
+Orenburg Oblast,2020,Vodka,730.74,3.85,1.54
+Penza Oblast,2020,Vodka,548.59,4.24,1.70
+Samara Oblast,2020,Vodka,1306.94,4.08,1.63
+Saratov Oblast,2020,Vodka,667.03,2.69,1.08
+Ulyanovsk Oblast,2020,Vodka,496.41,4.07,1.63
+Kurgan Oblast,2020,Vodka,270.32,3.38,1.35
+Sverdlovsk Oblast,2020,Vodka,2319.63,5.38,2.15
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Vodka,1038.91,6.17,2.47
+Yamalo-Nenets Autonomous Okrug,2020,Vodka,416.60,8.17,3.27
+Chelyabinsk Oblast,2020,Vodka,1507.29,4.35,1.74
+Tyumen Oblast,2020,Vodka,745.83,4.72,1.89
+Altai Republic,2020,Vodka,102.79,4.86,1.95
+Tuva,2020,Vodka,43.25,1.31,0.52
+Khakassia,2020,Vodka,165.76,3.08,1.23
+Altai Krai,2020,Vodka,880.15,3.96,1.58
+Krasnoyarsk Krai,2020,Vodka,1261.51,4.39,1.76
+Irkutsk Oblast,2020,Vodka,1289.05,5.38,2.15
+Kemerovo Oblast,2020,Vodka,1358.56,5.13,2.05
+Novosibirsk Oblast,2020,Vodka,1068.03,3.80,1.52
+Omsk Oblast,2020,Vodka,584.31,3.07,1.23
+Tomsk Oblast,2020,Vodka,487.32,4.53,1.81
+Buryatia,2020,Vodka,568.01,5.78,2.31
+Sakha (Yakutia),2020,Vodka,647.43,6.63,2.65
+Zabaykalsky Krai,2020,Vodka,525.54,5.13,2.05
+Kamchatka Krai,2020,Vodka,290.99,9.82,3.93
+Primorsky Krai,2020,Vodka,1299.02,6.92,2.77
+Khabarovsk Krai,2020,Vodka,1177.32,8.98,3.59
+Amur Oblast,2020,Vodka,519.28,6.63,2.65
+Magadan Oblast,2020,Vodka,164.58,11.87,4.75
+Sakhalin Oblast,2020,Vodka,607.68,12.83,5.13
+Jewish Autonomous Oblast,2020,Vodka,123.53,7.98,3.19
+Chukotka Autonomous Okrug,2020,Vodka,53.41,11.00,4.40
+Belgorod Oblast,2021,Vodka,578.40,3.74,1.50
+Bryansk Oblast,2021,Vodka,518.68,4.40,1.76
+Vladimir Oblast,2021,Vodka,931.53,6.85,2.74
+Voronezh Oblast,2021,Vodka,922.59,3.98,1.59
+Ivanovo Oblast,2021,Vodka,560.60,5.97,2.39
+Kaluga Oblast,2021,Vodka,655.52,6.21,2.48
+Kostroma Oblast,2021,Vodka,440.93,7.48,2.99
+Kursk Oblast,2021,Vodka,411.16,3.77,1.51
+Lipetsk Oblast,2021,Vodka,481.57,4.19,1.67
+Moscow Oblast,2021,Vodka,6246.22,7.40,2.96
+Oryol Oblast,2021,Vodka,292.15,4.05,1.62
+Ryazan Oblast,2021,Vodka,497.22,4.48,1.79
+Smolensk Oblast,2021,Vodka,580.76,6.45,2.58
+Tambov Oblast,2021,Vodka,349.77,3.52,1.41
+Tver Oblast,2021,Vodka,875.18,7.05,2.82
+Tula Oblast,2021,Vodka,665.49,4.41,1.77
+Yaroslavl Oblast,2021,Vodka,908.76,7.44,2.98
+Moscow,2021,Vodka,5202.18,4.01,1.60
+Republic of Karelia,2021,Vodka,585.42,10.81,4.32
+Komi Republic,2021,Vodka,875.31,11.66,4.67
+Nenets Autonomous Okrug,2021,Vodka,39.51,9.51,3.80
+Vologda Oblast,2021,Vodka,1029.49,8.95,3.58
+Kaliningrad Oblast,2021,Vodka,551.71,5.40,2.16
+Leningrad Oblast,2021,Vodka,1509.55,7.63,3.05
+Murmansk Oblast,2021,Vodka,563.26,8.30,3.32
+Novgorod Oblast,2021,Vodka,379.21,6.45,2.58
+Pskov Oblast,2021,Vodka,357.44,5.91,2.36
+Saint Petersburg,2021,Vodka,2569.13,4.60,1.84
+Arkhangelsk Oblast,2021,Vodka,924.13,9.28,3.71
+Adygea,2021,Vodka,147.92,3.02,1.21
+Kalmykia,2021,Vodka,109.07,4.06,1.62
+Republic of Crimea,2021,Vodka,874.80,4.53,1.81
+Krasnodar Krai,2021,Vodka,2081.74,3.58,1.43
+Astrakhan Oblast,2021,Vodka,388.98,4.01,1.61
+Volgograd Oblast,2021,Vodka,777.81,3.09,1.24
+Rostov Oblast,2021,Vodka,1163.15,2.76,1.10
+Sevastopol,2021,Vodka,289.53,5.44,2.18
+Dagestan,2021,Vodka,360.81,1.14,0.46
+Ingushetia,2021,Vodka,20.24,0.40,0.16
+Kabardino-Balkaria,2021,Vodka,61.06,0.68,0.27
+Karachay-Cherkessia,2021,Vodka,57.09,1.21,0.49
+North Ossetia-Alania,2021,Vodka,52.38,0.76,0.30
+Chechnya,2021,Vodka,25.52,0.17,0.07
+Stavropol Krai,2021,Vodka,695.35,2.39,0.96
+Bashkortostan,2021,Vodka,2337.65,5.71,2.28
+Mari El,2021,Vodka,437.68,6.44,2.58
+Mordovia,2021,Vodka,418.55,5.31,2.12
+Tatarstan,2021,Vodka,2581.89,6.46,2.58
+Udmurtia,2021,Vodka,1245.55,8.53,3.41
+Chuvashia,2021,Vodka,812.32,6.80,2.72
+Perm Krai,2021,Vodka,1534.36,6.02,2.41
+Kirov Oblast,2021,Vodka,922.12,7.86,3.15
+Nizhny Novgorod Oblast,2021,Vodka,1694.35,5.39,2.16
+Orenburg Oblast,2021,Vodka,760.22,4.05,1.62
+Penza Oblast,2021,Vodka,543.38,4.25,1.70
+Samara Oblast,2021,Vodka,1276.01,4.01,1.60
+Saratov Oblast,2021,Vodka,687.48,2.80,1.12
+Ulyanovsk Oblast,2021,Vodka,490.77,4.07,1.63
+Kurgan Oblast,2021,Vodka,303.30,3.85,1.54
+Sverdlovsk Oblast,2021,Vodka,2365.31,5.51,2.21
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Vodka,1003.26,5.91,2.36
+Yamalo-Nenets Autonomous Okrug,2021,Vodka,395.15,7.77,3.11
+Chelyabinsk Oblast,2021,Vodka,1615.83,4.69,1.88
+Tyumen Oblast,2021,Vodka,762.15,4.80,1.92
+Altai Republic,2021,Vodka,117.72,5.58,2.23
+Tuva,2021,Vodka,80.28,2.41,0.96
+Khakassia,2021,Vodka,172.69,3.22,1.29
+Altai Krai,2021,Vodka,902.42,4.12,1.65
+Krasnoyarsk Krai,2021,Vodka,1427.87,4.99,2.00
+Irkutsk Oblast,2021,Vodka,1307.05,5.49,2.20
+Kemerovo Oblast,2021,Vodka,1339.31,5.11,2.04
+Novosibirsk Oblast,2021,Vodka,1101.73,3.93,1.57
+Omsk Oblast,2021,Vodka,617.17,3.29,1.31
+Tomsk Oblast,2021,Vodka,492.64,4.62,1.85
+Buryatia,2021,Vodka,599.76,6.11,2.45
+Sakha (Yakutia),2021,Vodka,651.67,6.60,2.64
+Zabaykalsky Krai,2021,Vodka,542.62,5.35,2.14
+Kamchatka Krai,2021,Vodka,281.51,9.60,3.84
+Primorsky Krai,2021,Vodka,1313.80,7.07,2.83
+Khabarovsk Krai,2021,Vodka,1163.96,8.99,3.59
+Amur Oblast,2021,Vodka,568.28,7.35,2.94
+Magadan Oblast,2021,Vodka,158.21,11.52,4.61
+Sakhalin Oblast,2021,Vodka,584.71,12.46,4.98
+Jewish Autonomous Oblast,2021,Vodka,125.30,8.21,3.28
+Chukotka Autonomous Okrug,2021,Vodka,52.09,10.95,4.38
+Belgorod Oblast,2022,Vodka,645.06,4.20,1.68
+Bryansk Oblast,2022,Vodka,565.76,4.86,1.94
+Vladimir Oblast,2022,Vodka,986.41,7.35,2.94
+Voronezh Oblast,2022,Vodka,1011.18,4.39,1.76
+Ivanovo Oblast,2022,Vodka,595.35,6.44,2.58
+Kaluga Oblast,2022,Vodka,685.68,6.39,2.56
+Kostroma Oblast,2022,Vodka,460.21,7.96,3.18
+Kursk Oblast,2022,Vodka,459.18,4.26,1.70
+Lipetsk Oblast,2022,Vodka,512.62,4.50,1.80
+Moscow Oblast,2022,Vodka,6584.25,7.71,3.08
+Oryol Oblast,2022,Vodka,314.83,4.43,1.77
+Ryazan Oblast,2022,Vodka,531.30,4.84,1.93
+Smolensk Oblast,2022,Vodka,612.68,6.91,2.76
+Tambov Oblast,2022,Vodka,381.78,3.90,1.56
+Tver Oblast,2022,Vodka,917.57,7.48,2.99
+Tula Oblast,2022,Vodka,715.08,4.78,1.91
+Yaroslavl Oblast,2022,Vodka,950.01,7.88,3.15
+Moscow,2022,Vodka,5345.03,4.11,1.64
+Republic of Karelia,2022,Vodka,615.12,11.55,4.62
+Komi Republic,2022,Vodka,866.21,11.80,4.72
+Nenets Autonomous Okrug,2022,Vodka,40.86,9.86,3.95
+Vologda Oblast,2022,Vodka,1060.35,9.31,3.73
+Kaliningrad Oblast,2022,Vodka,611.67,5.93,2.37
+Leningrad Oblast,2022,Vodka,1631.95,8.14,3.25
+Murmansk Oblast,2022,Vodka,576.29,8.66,3.47
+Novgorod Oblast,2022,Vodka,406.31,6.99,2.79
+Pskov Oblast,2022,Vodka,395.83,6.63,2.65
+Saint Petersburg,2022,Vodka,2752.56,4.91,1.96
+Arkhangelsk Oblast,2022,Vodka,944.39,9.69,3.88
+Adygea,2022,Vodka,162.97,3.27,1.31
+Kalmykia,2022,Vodka,116.12,4.36,1.74
+Republic of Crimea,2022,Vodka,951.35,4.93,1.97
+Krasnodar Krai,2022,Vodka,2274.67,3.90,1.56
+Astrakhan Oblast,2022,Vodka,408.73,4.27,1.71
+Volgograd Oblast,2022,Vodka,858.52,3.44,1.38
+Rostov Oblast,2022,Vodka,1287.70,3.07,1.23
+Sevastopol,2022,Vodka,300.11,5.48,2.19
+Dagestan,2022,Vodka,365.39,1.15,0.46
+Ingushetia,2022,Vodka,24.78,0.48,0.19
+Kabardino-Balkaria,2022,Vodka,71.55,0.79,0.32
+Karachay-Cherkessia,2022,Vodka,72.45,1.54,0.62
+North Ossetia-Alania,2022,Vodka,57.05,0.83,0.33
+Chechnya,2022,Vodka,15.02,0.10,0.04
+Stavropol Krai,2022,Vodka,769.54,2.65,1.06
+Bashkortostan,2022,Vodka,2453.73,6.00,2.40
+Mari El,2022,Vodka,460.23,6.80,2.72
+Mordovia,2022,Vodka,437.73,5.60,2.24
+Tatarstan,2022,Vodka,2709.32,6.77,2.71
+Udmurtia,2022,Vodka,1252.66,8.65,3.46
+Chuvashia,2022,Vodka,856.56,7.24,2.89
+Perm Krai,2022,Vodka,1575.05,6.24,2.49
+Kirov Oblast,2022,Vodka,938.95,8.17,3.27
+Nizhny Novgorod Oblast,2022,Vodka,1797.62,5.78,2.31
+Orenburg Oblast,2022,Vodka,874.46,4.71,1.88
+Penza Oblast,2022,Vodka,597.63,4.74,1.90
+Samara Oblast,2022,Vodka,1364.66,4.31,1.73
+Saratov Oblast,2022,Vodka,755.59,3.11,1.24
+Ulyanovsk Oblast,2022,Vodka,520.19,4.37,1.75
+Kurgan Oblast,2022,Vodka,337.95,4.38,1.75
+Sverdlovsk Oblast,2022,Vodka,2522.23,5.92,2.37
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Vodka,1028.06,6.00,2.40
+Yamalo-Nenets Autonomous Okrug,2022,Vodka,403.69,7.90,3.16
+Chelyabinsk Oblast,2022,Vodka,1690.96,4.94,1.98
+Tyumen Oblast,2022,Vodka,844.51,5.27,2.11
+Altai Republic,2022,Vodka,129.63,6.15,2.46
+Tuva,2022,Vodka,88.08,2.62,1.05
+Khakassia,2022,Vodka,210.26,3.94,1.58
+Altai Krai,2022,Vodka,951.64,4.42,1.77
+Krasnoyarsk Krai,2022,Vodka,1530.75,5.36,2.14
+Irkutsk Oblast,2022,Vodka,1384.43,5.86,2.34
+Kemerovo Oblast,2022,Vodka,1382.70,5.33,2.13
+Novosibirsk Oblast,2022,Vodka,1179.57,4.22,1.69
+Omsk Oblast,2022,Vodka,684.65,3.70,1.48
+Tomsk Oblast,2022,Vodka,521.70,4.91,1.96
+Buryatia,2022,Vodka,634.40,6.49,2.59
+Sakha (Yakutia),2022,Vodka,683.31,6.85,2.74
+Zabaykalsky Krai,2022,Vodka,600.61,6.00,2.40
+Kamchatka Krai,2022,Vodka,291.15,9.95,3.98
+Primorsky Krai,2022,Vodka,1379.07,7.49,2.99
+Khabarovsk Krai,2022,Vodka,1157.93,8.96,3.58
+Amur Oblast,2022,Vodka,614.27,8.04,3.22
+Magadan Oblast,2022,Vodka,155.58,11.45,4.58
+Sakhalin Oblast,2022,Vodka,583.19,12.51,5.01
+Jewish Autonomous Oblast,2022,Vodka,130.59,8.73,3.49
+Chukotka Autonomous Okrug,2022,Vodka,51.59,10.77,4.31
+Belgorod Oblast,2023,Vodka,609.65,4.03,1.61
+Bryansk Oblast,2023,Vodka,573.07,4.97,1.99
+Vladimir Oblast,2023,Vodka,957.52,7.22,2.89
+Voronezh Oblast,2023,Vodka,1040.86,4.55,1.82
+Ivanovo Oblast,2023,Vodka,593.84,6.49,2.60
+Kaluga Oblast,2023,Vodka,666.22,6.22,2.49
+Kostroma Oblast,2023,Vodka,446.95,7.82,3.13
+Kursk Oblast,2023,Vodka,465.99,4.37,1.75
+Lipetsk Oblast,2023,Vodka,530.65,4.71,1.88
+Moscow Oblast,2023,Vodka,6423.38,7.48,2.99
+Oryol Oblast,2023,Vodka,317.04,4.53,1.81
+Ryazan Oblast,2023,Vodka,524.44,4.82,1.93
+Smolensk Oblast,2023,Vodka,601.86,6.89,2.76
+Tambov Oblast,2023,Vodka,391.91,4.06,1.62
+Tver Oblast,2023,Vodka,907.69,7.49,3.00
+Tula Oblast,2023,Vodka,717.91,4.85,1.94
+Yaroslavl Oblast,2023,Vodka,944.95,7.91,3.16
+Moscow,2023,Vodka,5105.69,3.90,1.56
+Republic of Karelia,2023,Vodka,598.01,11.33,4.53
+Komi Republic,2023,Vodka,813.04,11.19,4.48
+Nenets Autonomous Okrug,2023,Vodka,40.63,9.82,3.93
+Vologda Oblast,2023,Vodka,1018.20,9.02,3.61
+Kaliningrad Oblast,2023,Vodka,605.45,5.86,2.35
+Leningrad Oblast,2023,Vodka,1600.53,7.91,3.16
+Murmansk Oblast,2023,Vodka,550.58,8.36,3.34
+Novgorod Oblast,2023,Vodka,409.96,7.12,2.85
+Pskov Oblast,2023,Vodka,390.82,6.65,2.66
+Saint Petersburg,2023,Vodka,2715.92,4.85,1.94
+Arkhangelsk Oblast,2023,Vodka,910.33,9.44,3.78
+Adygea,2023,Vodka,169.46,3.40,1.36
+Kalmykia,2023,Vodka,120.39,4.55,1.82
+Republic of Crimea,2023,Vodka,1012.27,5.28,2.11
+Krasnodar Krai,2023,Vodka,2468.31,4.24,1.70
+Astrakhan Oblast,2023,Vodka,416.87,4.39,1.75
+Volgograd Oblast,2023,Vodka,876.20,3.55,1.42
+Rostov Oblast,2023,Vodka,1399.92,3.36,1.34
+Sevastopol,2023,Vodka,294.01,5.27,2.11
+Dagestan,2023,Vodka,353.94,1.10,0.44
+Ingushetia,2023,Vodka,26.96,0.52,0.21
+Kabardino-Balkaria,2023,Vodka,86.63,0.96,0.38
+Karachay-Cherkessia,2023,Vodka,78.51,1.68,0.67
+North Ossetia-Alania,2023,Vodka,65.71,0.97,0.39
+Chechnya,2023,Vodka,8.18,0.05,0.02
+Stavropol Krai,2023,Vodka,825.01,2.85,1.14
+Bashkortostan,2023,Vodka,2465.70,6.05,2.42
+Mari El,2023,Vodka,459.98,6.84,2.74
+Mordovia,2023,Vodka,428.86,5.56,2.22
+Tatarstan,2023,Vodka,2694.11,6.73,2.69
+Udmurtia,2023,Vodka,1228.96,8.52,3.41
+Chuvashia,2023,Vodka,847.46,7.22,2.89
+Perm Krai,2023,Vodka,1550.15,6.18,2.47
+Kirov Oblast,2023,Vodka,911.17,8.01,3.20
+Nizhny Novgorod Oblast,2023,Vodka,1772.60,5.75,2.30
+Orenburg Oblast,2023,Vodka,916.06,4.97,1.99
+Penza Oblast,2023,Vodka,599.71,4.81,1.92
+Samara Oblast,2023,Vodka,1383.85,4.40,1.76
+Saratov Oblast,2023,Vodka,779.82,3.24,1.30
+Ulyanovsk Oblast,2023,Vodka,519.36,4.40,1.76
+Kurgan Oblast,2023,Vodka,340.30,4.47,1.79
+Sverdlovsk Oblast,2023,Vodka,2482.48,5.86,2.34
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Vodka,981.56,5.67,2.27
+Yamalo-Nenets Autonomous Okrug,2023,Vodka,386.81,7.55,3.02
+Chelyabinsk Oblast,2023,Vodka,1734.45,5.09,2.04
+Tyumen Oblast,2023,Vodka,832.68,5.18,2.07
+Altai Republic,2023,Vodka,137.80,6.54,2.62
+Tuva,2023,Vodka,101.90,3.02,1.21
+Khakassia,2023,Vodka,220.03,4.15,1.66
+Altai Krai,2023,Vodka,963.20,4.52,1.81
+Krasnoyarsk Krai,2023,Vodka,1473.47,5.18,2.07
+Irkutsk Oblast,2023,Vodka,1393.71,5.94,2.38
+Kemerovo Oblast,2023,Vodka,1380.30,5.37,2.15
+Novosibirsk Oblast,2023,Vodka,1188.67,4.25,1.70
+Omsk Oblast,2023,Vodka,689.25,3.76,1.50
+Tomsk Oblast,2023,Vodka,518.54,4.93,1.97
+Buryatia,2023,Vodka,659.10,6.76,2.71
+Sakha (Yakutia),2023,Vodka,676.50,6.78,2.71
+Zabaykalsky Krai,2023,Vodka,635.28,6.40,2.56
+Kamchatka Krai,2023,Vodka,278.58,9.65,3.86
+Primorsky Krai,2023,Vodka,1361.76,7.48,2.99
+Khabarovsk Krai,2023,Vodka,1137.05,8.85,3.54
+Amur Oblast,2023,Vodka,618.15,8.17,3.27
+Magadan Oblast,2023,Vodka,148.03,11.02,4.41
+Sakhalin Oblast,2023,Vodka,562.21,12.21,4.88
+Jewish Autonomous Oblast,2023,Vodka,128.05,8.68,3.47
+Chukotka Autonomous Okrug,2023,Vodka,50.06,10.46,4.19
+Belgorod Oblast,2017,Sparkling wine,121.72,0.78,0.09
+Bryansk Oblast,2017,Sparkling wine,100.84,0.83,0.09
+Vladimir Oblast,2017,Sparkling wine,126.90,0.91,0.10
+Voronezh Oblast,2017,Sparkling wine,244.35,1.04,0.11
+Ivanovo Oblast,2017,Sparkling wine,82.59,0.83,0.09
+Kaluga Oblast,2017,Sparkling wine,130.29,1.24,0.14
+Kostroma Oblast,2017,Sparkling wine,53.08,0.85,0.09
+Kursk Oblast,2017,Sparkling wine,110.33,0.99,0.11
+Lipetsk Oblast,2017,Sparkling wine,105.04,0.90,0.10
+Moscow Oblast,2017,Sparkling wine,1575.17,1.98,0.22
+Oryol Oblast,2017,Sparkling wine,84.46,1.12,0.12
+Ryazan Oblast,2017,Sparkling wine,119.79,1.06,0.12
+Smolensk Oblast,2017,Sparkling wine,122.94,1.31,0.14
+Tambov Oblast,2017,Sparkling wine,66.13,0.64,0.07
+Tver Oblast,2017,Sparkling wine,158.20,1.22,0.13
+Tula Oblast,2017,Sparkling wine,131.72,0.86,0.09
+Yaroslavl Oblast,2017,Sparkling wine,155.31,1.23,0.14
+Moscow,2017,Sparkling wine,2337.14,1.87,0.21
+Republic of Karelia,2017,Sparkling wine,83.45,1.42,0.16
+Komi Republic,2017,Sparkling wine,117.75,1.45,0.16
+Nenets Autonomous Okrug,2017,Sparkling wine,9.77,2.31,0.25
+Vologda Oblast,2017,Sparkling wine,108.79,0.92,0.10
+Kaliningrad Oblast,2017,Sparkling wine,90.66,0.92,0.10
+Leningrad Oblast,2017,Sparkling wine,298.35,1.62,0.18
+Murmansk Oblast,2017,Sparkling wine,174.00,2.40,0.26
+Novgorod Oblast,2017,Sparkling wine,67.31,1.10,0.12
+Pskov Oblast,2017,Sparkling wine,85.21,1.35,0.15
+Saint Petersburg,2017,Sparkling wine,1099.75,2.03,0.22
+Arkhangelsk Oblast,2017,Sparkling wine,169.84,1.59,0.17
+Adygea,2017,Sparkling wine,46.84,1.00,0.11
+Kalmykia,2017,Sparkling wine,6.09,0.22,0.02
+Republic of Crimea,2017,Sparkling wine,288.02,1.50,0.16
+Krasnodar Krai,2017,Sparkling wine,822.27,1.46,0.16
+Astrakhan Oblast,2017,Sparkling wine,58.11,0.58,0.06
+Volgograd Oblast,2017,Sparkling wine,251.91,0.98,0.11
+Rostov Oblast,2017,Sparkling wine,403.26,0.95,0.10
+Sevastopol,2017,Sparkling wine,129.29,2.82,0.31
+Dagestan,2017,Sparkling wine,29.14,0.10,0.01
+Ingushetia,2017,Sparkling wine,0.10,0.00,0.00
+Kabardino-Balkaria,2017,Sparkling wine,15.78,0.18,0.02
+Karachay-Cherkessia,2017,Sparkling wine,11.19,0.24,0.03
+North Ossetia-Alania,2017,Sparkling wine,23.66,0.34,0.04
+Chechnya,2017,Sparkling wine,0.36,0.00,0.00
+Stavropol Krai,2017,Sparkling wine,221.28,0.77,0.08
+Bashkortostan,2017,Sparkling wine,271.66,0.66,0.07
+Mari El,2017,Sparkling wine,34.49,0.50,0.06
+Mordovia,2017,Sparkling wine,44.29,0.54,0.06
+Tatarstan,2017,Sparkling wine,213.45,0.54,0.06
+Udmurtia,2017,Sparkling wine,110.54,0.74,0.08
+Chuvashia,2017,Sparkling wine,56.29,0.46,0.05
+Perm Krai,2017,Sparkling wine,192.91,0.74,0.08
+Kirov Oblast,2017,Sparkling wine,114.36,0.92,0.10
+Nizhny Novgorod Oblast,2017,Sparkling wine,331.57,1.03,0.11
+Orenburg Oblast,2017,Sparkling wine,146.22,0.75,0.08
+Penza Oblast,2017,Sparkling wine,74.17,0.56,0.06
+Samara Oblast,2017,Sparkling wine,301.10,0.93,0.10
+Saratov Oblast,2017,Sparkling wine,166.21,0.66,0.07
+Ulyanovsk Oblast,2017,Sparkling wine,101.22,0.81,0.09
+Kurgan Oblast,2017,Sparkling wine,67.42,0.81,0.09
+Sverdlovsk Oblast,2017,Sparkling wine,517.32,1.20,0.13
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Sparkling wine,254.88,1.54,0.17
+Yamalo-Nenets Autonomous Okrug,2017,Sparkling wine,92.02,1.80,0.20
+Chelyabinsk Oblast,2017,Sparkling wine,363.65,1.04,0.11
+Tyumen Oblast,2017,Sparkling wine,162.66,1.08,0.12
+Altai Republic,2017,Sparkling wine,7.11,0.34,0.04
+Tuva,2017,Sparkling wine,10.99,0.34,0.04
+Khakassia,2017,Sparkling wine,40.25,0.75,0.08
+Altai Krai,2017,Sparkling wine,127.00,0.55,0.06
+Krasnoyarsk Krai,2017,Sparkling wine,361.03,1.25,0.14
+Irkutsk Oblast,2017,Sparkling wine,233.43,0.97,0.11
+Kemerovo Oblast,2017,Sparkling wine,212.73,0.79,0.09
+Novosibirsk Oblast,2017,Sparkling wine,268.63,0.96,0.11
+Omsk Oblast,2017,Sparkling wine,179.51,0.92,0.10
+Tomsk Oblast,2017,Sparkling wine,117.57,1.09,0.12
+Buryatia,2017,Sparkling wine,43.67,0.44,0.05
+Sakha (Yakutia),2017,Sparkling wine,124.66,1.29,0.14
+Zabaykalsky Krai,2017,Sparkling wine,51.64,0.49,0.05
+Kamchatka Krai,2017,Sparkling wine,94.54,3.11,0.34
+Primorsky Krai,2017,Sparkling wine,307.84,1.61,0.18
+Khabarovsk Krai,2017,Sparkling wine,307.68,2.31,0.25
+Amur Oblast,2017,Sparkling wine,84.21,1.06,0.12
+Magadan Oblast,2017,Sparkling wine,44.53,3.08,0.34
+Sakhalin Oblast,2017,Sparkling wine,160.20,3.36,0.37
+Jewish Autonomous Oblast,2017,Sparkling wine,17.72,1.10,0.12
+Chukotka Autonomous Okrug,2017,Sparkling wine,9.82,2.02,0.22
+Belgorod Oblast,2018,Sparkling wine,118.61,0.76,0.08
+Bryansk Oblast,2018,Sparkling wine,99.01,0.82,0.09
+Vladimir Oblast,2018,Sparkling wine,130.19,0.94,0.10
+Voronezh Oblast,2018,Sparkling wine,242.28,1.03,0.11
+Ivanovo Oblast,2018,Sparkling wine,85.61,0.87,0.10
+Kaluga Oblast,2018,Sparkling wine,129.99,1.24,0.14
+Kostroma Oblast,2018,Sparkling wine,52.42,0.85,0.09
+Kursk Oblast,2018,Sparkling wine,106.99,0.96,0.11
+Lipetsk Oblast,2018,Sparkling wine,103.86,0.89,0.10
+Moscow Oblast,2018,Sparkling wine,1661.73,2.05,0.23
+Oryol Oblast,2018,Sparkling wine,81.26,1.09,0.12
+Ryazan Oblast,2018,Sparkling wine,119.12,1.05,0.12
+Smolensk Oblast,2018,Sparkling wine,120.52,1.29,0.14
+Tambov Oblast,2018,Sparkling wine,68.14,0.66,0.07
+Tver Oblast,2018,Sparkling wine,157.68,1.23,0.14
+Tula Oblast,2018,Sparkling wine,133.63,0.87,0.10
+Yaroslavl Oblast,2018,Sparkling wine,157.25,1.26,0.14
+Moscow,2018,Sparkling wine,2416.11,1.91,0.21
+Republic of Karelia,2018,Sparkling wine,78.60,1.37,0.15
+Komi Republic,2018,Sparkling wine,114.74,1.44,0.16
+Nenets Autonomous Okrug,2018,Sparkling wine,9.16,2.18,0.24
+Vologda Oblast,2018,Sparkling wine,107.94,0.92,0.10
+Kaliningrad Oblast,2018,Sparkling wine,106.69,1.07,0.12
+Leningrad Oblast,2018,Sparkling wine,297.61,1.59,0.17
+Murmansk Oblast,2018,Sparkling wine,147.64,2.07,0.23
+Novgorod Oblast,2018,Sparkling wine,65.75,1.09,0.12
+Pskov Oblast,2018,Sparkling wine,81.56,1.30,0.14
+Saint Petersburg,2018,Sparkling wine,1110.85,2.02,0.22
+Arkhangelsk Oblast,2018,Sparkling wine,164.48,1.57,0.17
+Adygea,2018,Sparkling wine,40.83,0.86,0.10
+Kalmykia,2018,Sparkling wine,5.91,0.22,0.02
+Republic of Crimea,2018,Sparkling wine,309.11,1.60,0.18
+Krasnodar Krai,2018,Sparkling wine,835.21,1.47,0.16
+Astrakhan Oblast,2018,Sparkling wine,55.74,0.56,0.06
+Volgograd Oblast,2018,Sparkling wine,240.18,0.94,0.10
+Rostov Oblast,2018,Sparkling wine,405.66,0.96,0.11
+Sevastopol,2018,Sparkling wine,141.04,2.94,0.32
+Dagestan,2018,Sparkling wine,27.57,0.09,0.01
+Ingushetia,2018,Sparkling wine,0.17,0.00,0.00
+Kabardino-Balkaria,2018,Sparkling wine,15.92,0.18,0.02
+Karachay-Cherkessia,2018,Sparkling wine,9.97,0.21,0.02
+North Ossetia-Alania,2018,Sparkling wine,22.85,0.33,0.04
+Chechnya,2018,Sparkling wine,0.35,0.00,0.00
+Stavropol Krai,2018,Sparkling wine,217.59,0.76,0.08
+Bashkortostan,2018,Sparkling wine,278.87,0.68,0.07
+Mari El,2018,Sparkling wine,36.55,0.53,0.06
+Mordovia,2018,Sparkling wine,46.45,0.57,0.06
+Tatarstan,2018,Sparkling wine,227.17,0.57,0.06
+Udmurtia,2018,Sparkling wine,109.31,0.73,0.08
+Chuvashia,2018,Sparkling wine,58.60,0.48,0.05
+Perm Krai,2018,Sparkling wine,199.72,0.77,0.08
+Kirov Oblast,2018,Sparkling wine,117.76,0.96,0.11
+Nizhny Novgorod Oblast,2018,Sparkling wine,353.00,1.10,0.12
+Orenburg Oblast,2018,Sparkling wine,142.49,0.74,0.08
+Penza Oblast,2018,Sparkling wine,79.71,0.60,0.07
+Samara Oblast,2018,Sparkling wine,305.05,0.95,0.10
+Saratov Oblast,2018,Sparkling wine,167.90,0.67,0.07
+Ulyanovsk Oblast,2018,Sparkling wine,98.23,0.79,0.09
+Kurgan Oblast,2018,Sparkling wine,65.68,0.80,0.09
+Sverdlovsk Oblast,2018,Sparkling wine,514.89,1.19,0.13
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Sparkling wine,242.91,1.46,0.16
+Yamalo-Nenets Autonomous Okrug,2018,Sparkling wine,86.67,1.70,0.19
+Chelyabinsk Oblast,2018,Sparkling wine,363.45,1.04,0.11
+Tyumen Oblast,2018,Sparkling wine,163.56,1.07,0.12
+Altai Republic,2018,Sparkling wine,6.78,0.32,0.04
+Tuva,2018,Sparkling wine,11.46,0.35,0.04
+Khakassia,2018,Sparkling wine,43.84,0.81,0.09
+Altai Krai,2018,Sparkling wine,120.98,0.53,0.06
+Krasnoyarsk Krai,2018,Sparkling wine,342.79,1.19,0.13
+Irkutsk Oblast,2018,Sparkling wine,234.72,0.97,0.11
+Kemerovo Oblast,2018,Sparkling wine,204.40,0.76,0.08
+Novosibirsk Oblast,2018,Sparkling wine,255.96,0.91,0.10
+Omsk Oblast,2018,Sparkling wine,177.35,0.91,0.10
+Tomsk Oblast,2018,Sparkling wine,104.86,0.98,0.11
+Buryatia,2018,Sparkling wine,41.86,0.43,0.05
+Sakha (Yakutia),2018,Sparkling wine,119.24,1.23,0.14
+Zabaykalsky Krai,2018,Sparkling wine,43.90,0.42,0.05
+Kamchatka Krai,2018,Sparkling wine,84.23,2.78,0.31
+Primorsky Krai,2018,Sparkling wine,295.93,1.56,0.17
+Khabarovsk Krai,2018,Sparkling wine,283.08,2.14,0.24
+Amur Oblast,2018,Sparkling wine,81.31,1.03,0.11
+Magadan Oblast,2018,Sparkling wine,36.96,2.59,0.28
+Sakhalin Oblast,2018,Sparkling wine,135.73,2.84,0.31
+Jewish Autonomous Oblast,2018,Sparkling wine,15.13,0.95,0.10
+Chukotka Autonomous Okrug,2018,Sparkling wine,8.45,1.76,0.19
+Belgorod Oblast,2019,Sparkling wine,113.39,0.73,0.08
+Bryansk Oblast,2019,Sparkling wine,97.87,0.82,0.09
+Vladimir Oblast,2019,Sparkling wine,130.06,0.94,0.10
+Voronezh Oblast,2019,Sparkling wine,241.06,1.03,0.11
+Ivanovo Oblast,2019,Sparkling wine,83.81,0.87,0.10
+Kaluga Oblast,2019,Sparkling wine,131.11,1.24,0.14
+Kostroma Oblast,2019,Sparkling wine,50.98,0.84,0.09
+Kursk Oblast,2019,Sparkling wine,107.06,0.97,0.11
+Lipetsk Oblast,2019,Sparkling wine,101.39,0.87,0.10
+Moscow Oblast,2019,Sparkling wine,1713.50,2.08,0.23
+Oryol Oblast,2019,Sparkling wine,78.38,1.06,0.12
+Ryazan Oblast,2019,Sparkling wine,117.23,1.04,0.11
+Smolensk Oblast,2019,Sparkling wine,117.75,1.27,0.14
+Tambov Oblast,2019,Sparkling wine,66.54,0.66,0.07
+Tver Oblast,2019,Sparkling wine,154.21,1.22,0.13
+Tula Oblast,2019,Sparkling wine,133.97,0.88,0.10
+Yaroslavl Oblast,2019,Sparkling wine,161.84,1.30,0.14
+Moscow,2019,Sparkling wine,2437.84,1.90,0.21
+Republic of Karelia,2019,Sparkling wine,76.06,1.36,0.15
+Komi Republic,2019,Sparkling wine,110.69,1.42,0.16
+Nenets Autonomous Okrug,2019,Sparkling wine,7.90,1.90,0.21
+Vologda Oblast,2019,Sparkling wine,105.87,0.91,0.10
+Kaliningrad Oblast,2019,Sparkling wine,118.67,1.18,0.13
+Leningrad Oblast,2019,Sparkling wine,301.89,1.58,0.17
+Murmansk Oblast,2019,Sparkling wine,136.09,1.93,0.21
+Novgorod Oblast,2019,Sparkling wine,64.51,1.08,0.12
+Pskov Oblast,2019,Sparkling wine,81.45,1.32,0.15
+Saint Petersburg,2019,Sparkling wine,1119.48,2.02,0.22
+Arkhangelsk Oblast,2019,Sparkling wine,158.59,1.54,0.17
+Adygea,2019,Sparkling wine,39.80,0.84,0.09
+Kalmykia,2019,Sparkling wine,6.18,0.23,0.03
+Republic of Crimea,2019,Sparkling wine,318.11,1.65,0.18
+Krasnodar Krai,2019,Sparkling wine,863.38,1.50,0.17
+Astrakhan Oblast,2019,Sparkling wine,55.77,0.56,0.06
+Volgograd Oblast,2019,Sparkling wine,242.36,0.95,0.11
+Rostov Oblast,2019,Sparkling wine,416.01,0.98,0.11
+Sevastopol,2019,Sparkling wine,140.57,2.81,0.31
+Dagestan,2019,Sparkling wine,29.42,0.09,0.01
+Ingushetia,2019,Sparkling wine,0.16,0.00,0.00
+Kabardino-Balkaria,2019,Sparkling wine,14.73,0.17,0.02
+Karachay-Cherkessia,2019,Sparkling wine,9.64,0.21,0.02
+North Ossetia-Alania,2019,Sparkling wine,22.83,0.33,0.04
+Chechnya,2019,Sparkling wine,0.43,0.00,0.00
+Stavropol Krai,2019,Sparkling wine,220.40,0.76,0.08
+Bashkortostan,2019,Sparkling wine,282.84,0.69,0.08
+Mari El,2019,Sparkling wine,37.19,0.54,0.06
+Mordovia,2019,Sparkling wine,45.33,0.56,0.06
+Tatarstan,2019,Sparkling wine,237.89,0.60,0.07
+Udmurtia,2019,Sparkling wine,105.42,0.71,0.08
+Chuvashia,2019,Sparkling wine,58.51,0.48,0.05
+Perm Krai,2019,Sparkling wine,203.55,0.79,0.09
+Kirov Oblast,2019,Sparkling wine,119.61,0.99,0.11
+Nizhny Novgorod Oblast,2019,Sparkling wine,499.91,1.57,0.17
+Orenburg Oblast,2019,Sparkling wine,140.94,0.74,0.08
+Penza Oblast,2019,Sparkling wine,82.98,0.63,0.07
+Samara Oblast,2019,Sparkling wine,318.53,0.99,0.11
+Saratov Oblast,2019,Sparkling wine,171.54,0.69,0.08
+Ulyanovsk Oblast,2019,Sparkling wine,95.92,0.78,0.09
+Kurgan Oblast,2019,Sparkling wine,63.97,0.79,0.09
+Sverdlovsk Oblast,2019,Sparkling wine,522.97,1.21,0.13
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Sparkling wine,232.79,1.39,0.15
+Yamalo-Nenets Autonomous Okrug,2019,Sparkling wine,84.38,1.65,0.18
+Chelyabinsk Oblast,2019,Sparkling wine,368.22,1.06,0.12
+Tyumen Oblast,2019,Sparkling wine,169.20,1.09,0.12
+Altai Republic,2019,Sparkling wine,7.39,0.35,0.04
+Tuva,2019,Sparkling wine,11.91,0.36,0.04
+Khakassia,2019,Sparkling wine,44.37,0.82,0.09
+Altai Krai,2019,Sparkling wine,120.89,0.54,0.06
+Krasnoyarsk Krai,2019,Sparkling wine,339.26,1.18,0.13
+Irkutsk Oblast,2019,Sparkling wine,231.62,0.96,0.11
+Kemerovo Oblast,2019,Sparkling wine,207.54,0.78,0.09
+Novosibirsk Oblast,2019,Sparkling wine,261.76,0.93,0.10
+Omsk Oblast,2019,Sparkling wine,179.37,0.93,0.10
+Tomsk Oblast,2019,Sparkling wine,106.43,0.99,0.11
+Buryatia,2019,Sparkling wine,37.32,0.38,0.04
+Sakha (Yakutia),2019,Sparkling wine,109.21,1.12,0.12
+Zabaykalsky Krai,2019,Sparkling wine,44.31,0.43,0.05
+Kamchatka Krai,2019,Sparkling wine,71.98,2.40,0.26
+Primorsky Krai,2019,Sparkling wine,290.66,1.54,0.17
+Khabarovsk Krai,2019,Sparkling wine,263.19,2.00,0.22
+Amur Oblast,2019,Sparkling wine,78.11,0.99,0.11
+Magadan Oblast,2019,Sparkling wine,32.37,2.31,0.25
+Sakhalin Oblast,2019,Sparkling wine,122.70,2.58,0.28
+Jewish Autonomous Oblast,2019,Sparkling wine,14.07,0.90,0.10
+Chukotka Autonomous Okrug,2019,Sparkling wine,7.93,1.65,0.18
+Belgorod Oblast,2020,Sparkling wine,124.90,0.80,0.09
+Bryansk Oblast,2020,Sparkling wine,103.76,0.87,0.10
+Vladimir Oblast,2020,Sparkling wine,142.04,1.03,0.11
+Voronezh Oblast,2020,Sparkling wine,255.71,1.09,0.12
+Ivanovo Oblast,2020,Sparkling wine,87.53,0.92,0.10
+Kaluga Oblast,2020,Sparkling wine,142.69,1.36,0.15
+Kostroma Oblast,2020,Sparkling wine,54.68,0.91,0.10
+Kursk Oblast,2020,Sparkling wine,114.78,1.04,0.11
+Lipetsk Oblast,2020,Sparkling wine,108.63,0.94,0.10
+Moscow Oblast,2020,Sparkling wine,1875.02,2.24,0.25
+Oryol Oblast,2020,Sparkling wine,82.99,1.14,0.13
+Ryazan Oblast,2020,Sparkling wine,124.54,1.11,0.12
+Smolensk Oblast,2020,Sparkling wine,120.99,1.32,0.15
+Tambov Oblast,2020,Sparkling wine,67.23,0.67,0.07
+Tver Oblast,2020,Sparkling wine,165.82,1.32,0.15
+Tula Oblast,2020,Sparkling wine,146.22,0.96,0.11
+Yaroslavl Oblast,2020,Sparkling wine,168.81,1.37,0.15
+Moscow,2020,Sparkling wine,2406.05,1.86,0.20
+Republic of Karelia,2020,Sparkling wine,76.54,1.39,0.15
+Komi Republic,2020,Sparkling wine,114.96,1.51,0.17
+Nenets Autonomous Okrug,2020,Sparkling wine,8.11,1.95,0.21
+Vologda Oblast,2020,Sparkling wine,112.50,0.97,0.11
+Kaliningrad Oblast,2020,Sparkling wine,143.55,1.41,0.16
+Leningrad Oblast,2020,Sparkling wine,328.49,1.68,0.19
+Murmansk Oblast,2020,Sparkling wine,137.54,1.99,0.22
+Novgorod Oblast,2020,Sparkling wine,66.41,1.12,0.12
+Pskov Oblast,2020,Sparkling wine,84.07,1.37,0.15
+Saint Petersburg,2020,Sparkling wine,1132.65,2.03,0.22
+Arkhangelsk Oblast,2020,Sparkling wine,161.67,1.59,0.18
+Adygea,2020,Sparkling wine,40.86,0.84,0.09
+Kalmykia,2020,Sparkling wine,6.50,0.24,0.03
+Republic of Crimea,2020,Sparkling wine,349.00,1.80,0.20
+Krasnodar Krai,2020,Sparkling wine,962.00,1.66,0.18
+Astrakhan Oblast,2020,Sparkling wine,60.23,0.61,0.07
+Volgograd Oblast,2020,Sparkling wine,253.39,1.00,0.11
+Rostov Oblast,2020,Sparkling wine,451.79,1.07,0.12
+Sevastopol,2020,Sparkling wine,157.25,3.01,0.33
+Dagestan,2020,Sparkling wine,27.99,0.09,0.01
+Ingushetia,2020,Sparkling wine,0.20,0.00,0.00
+Kabardino-Balkaria,2020,Sparkling wine,15.30,0.17,0.02
+Karachay-Cherkessia,2020,Sparkling wine,10.05,0.21,0.02
+North Ossetia-Alania,2020,Sparkling wine,28.58,0.41,0.05
+Chechnya,2020,Sparkling wine,0.66,0.00,0.00
+Stavropol Krai,2020,Sparkling wine,231.05,0.80,0.09
+Bashkortostan,2020,Sparkling wine,298.77,0.73,0.08
+Mari El,2020,Sparkling wine,38.39,0.56,0.06
+Mordovia,2020,Sparkling wine,45.99,0.58,0.06
+Tatarstan,2020,Sparkling wine,261.99,0.66,0.07
+Udmurtia,2020,Sparkling wine,111.61,0.76,0.08
+Chuvashia,2020,Sparkling wine,62.73,0.52,0.06
+Perm Krai,2020,Sparkling wine,219.94,0.85,0.09
+Kirov Oblast,2020,Sparkling wine,126.12,1.06,0.12
+Nizhny Novgorod Oblast,2020,Sparkling wine,375.93,1.18,0.13
+Orenburg Oblast,2020,Sparkling wine,155.91,0.82,0.09
+Penza Oblast,2020,Sparkling wine,88.65,0.68,0.08
+Samara Oblast,2020,Sparkling wine,349.42,1.09,0.12
+Saratov Oblast,2020,Sparkling wine,185.40,0.75,0.08
+Ulyanovsk Oblast,2020,Sparkling wine,104.72,0.86,0.09
+Kurgan Oblast,2020,Sparkling wine,66.35,0.83,0.09
+Sverdlovsk Oblast,2020,Sparkling wine,546.77,1.27,0.14
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Sparkling wine,246.60,1.46,0.16
+Yamalo-Nenets Autonomous Okrug,2020,Sparkling wine,88.07,1.73,0.19
+Chelyabinsk Oblast,2020,Sparkling wine,386.10,1.11,0.12
+Tyumen Oblast,2020,Sparkling wine,180.82,1.15,0.13
+Altai Republic,2020,Sparkling wine,7.75,0.37,0.04
+Tuva,2020,Sparkling wine,7.22,0.22,0.02
+Khakassia,2020,Sparkling wine,43.71,0.81,0.09
+Altai Krai,2020,Sparkling wine,128.16,0.58,0.06
+Krasnoyarsk Krai,2020,Sparkling wine,338.88,1.18,0.13
+Irkutsk Oblast,2020,Sparkling wine,239.98,1.00,0.11
+Kemerovo Oblast,2020,Sparkling wine,214.02,0.81,0.09
+Novosibirsk Oblast,2020,Sparkling wine,275.84,0.98,0.11
+Omsk Oblast,2020,Sparkling wine,186.42,0.98,0.11
+Tomsk Oblast,2020,Sparkling wine,111.46,1.04,0.11
+Buryatia,2020,Sparkling wine,33.73,0.34,0.04
+Sakha (Yakutia),2020,Sparkling wine,100.60,1.03,0.11
+Zabaykalsky Krai,2020,Sparkling wine,43.29,0.42,0.05
+Kamchatka Krai,2020,Sparkling wine,70.47,2.38,0.26
+Primorsky Krai,2020,Sparkling wine,309.18,1.65,0.18
+Khabarovsk Krai,2020,Sparkling wine,261.07,1.99,0.22
+Amur Oblast,2020,Sparkling wine,81.31,1.04,0.11
+Magadan Oblast,2020,Sparkling wine,33.96,2.45,0.27
+Sakhalin Oblast,2020,Sparkling wine,122.19,2.58,0.28
+Jewish Autonomous Oblast,2020,Sparkling wine,14.07,0.91,0.10
+Chukotka Autonomous Okrug,2020,Sparkling wine,7.53,1.55,0.17
+Belgorod Oblast,2021,Sparkling wine,143.97,0.93,0.10
+Bryansk Oblast,2021,Sparkling wine,113.43,0.96,0.11
+Vladimir Oblast,2021,Sparkling wine,155.19,1.14,0.13
+Voronezh Oblast,2021,Sparkling wine,277.94,1.20,0.13
+Ivanovo Oblast,2021,Sparkling wine,96.04,1.02,0.11
+Kaluga Oblast,2021,Sparkling wine,152.59,1.45,0.16
+Kostroma Oblast,2021,Sparkling wine,59.54,1.01,0.11
+Kursk Oblast,2021,Sparkling wine,120.65,1.11,0.12
+Lipetsk Oblast,2021,Sparkling wine,115.04,1.00,0.11
+Moscow Oblast,2021,Sparkling wine,2019.60,2.39,0.26
+Oryol Oblast,2021,Sparkling wine,90.31,1.25,0.14
+Ryazan Oblast,2021,Sparkling wine,134.63,1.21,0.13
+Smolensk Oblast,2021,Sparkling wine,127.62,1.42,0.16
+Tambov Oblast,2021,Sparkling wine,70.08,0.71,0.08
+Tver Oblast,2021,Sparkling wine,177.65,1.43,0.16
+Tula Oblast,2021,Sparkling wine,157.05,1.04,0.11
+Yaroslavl Oblast,2021,Sparkling wine,181.31,1.48,0.16
+Moscow,2021,Sparkling wine,2736.56,2.11,0.23
+Republic of Karelia,2021,Sparkling wine,83.28,1.54,0.17
+Komi Republic,2021,Sparkling wine,119.30,1.59,0.17
+Nenets Autonomous Okrug,2021,Sparkling wine,7.65,1.84,0.20
+Vologda Oblast,2021,Sparkling wine,122.63,1.07,0.12
+Kaliningrad Oblast,2021,Sparkling wine,168.41,1.65,0.18
+Leningrad Oblast,2021,Sparkling wine,356.78,1.80,0.20
+Murmansk Oblast,2021,Sparkling wine,136.53,2.01,0.22
+Novgorod Oblast,2021,Sparkling wine,71.44,1.21,0.13
+Pskov Oblast,2021,Sparkling wine,88.54,1.46,0.16
+Saint Petersburg,2021,Sparkling wine,1288.04,2.30,0.25
+Arkhangelsk Oblast,2021,Sparkling wine,164.87,1.66,0.18
+Adygea,2021,Sparkling wine,43.82,0.89,0.10
+Kalmykia,2021,Sparkling wine,6.60,0.25,0.03
+Republic of Crimea,2021,Sparkling wine,412.94,2.14,0.24
+Krasnodar Krai,2021,Sparkling wine,1099.41,1.89,0.21
+Astrakhan Oblast,2021,Sparkling wine,63.63,0.66,0.07
+Volgograd Oblast,2021,Sparkling wine,260.98,1.04,0.11
+Rostov Oblast,2021,Sparkling wine,484.47,1.15,0.13
+Sevastopol,2021,Sparkling wine,170.68,3.21,0.35
+Dagestan,2021,Sparkling wine,32.33,0.10,0.01
+Ingushetia,2021,Sparkling wine,0.26,0.01,0.00
+Kabardino-Balkaria,2021,Sparkling wine,14.83,0.16,0.02
+Karachay-Cherkessia,2021,Sparkling wine,10.70,0.23,0.03
+North Ossetia-Alania,2021,Sparkling wine,27.85,0.40,0.04
+Chechnya,2021,Sparkling wine,0.56,0.00,0.00
+Stavropol Krai,2021,Sparkling wine,245.35,0.84,0.09
+Bashkortostan,2021,Sparkling wine,310.70,0.76,0.08
+Mari El,2021,Sparkling wine,43.63,0.64,0.07
+Mordovia,2021,Sparkling wine,50.28,0.64,0.07
+Tatarstan,2021,Sparkling wine,284.24,0.71,0.08
+Udmurtia,2021,Sparkling wine,119.85,0.82,0.09
+Chuvashia,2021,Sparkling wine,68.70,0.57,0.06
+Perm Krai,2021,Sparkling wine,237.90,0.93,0.10
+Kirov Oblast,2021,Sparkling wine,132.21,1.13,0.12
+Nizhny Novgorod Oblast,2021,Sparkling wine,418.20,1.33,0.15
+Orenburg Oblast,2021,Sparkling wine,165.87,0.88,0.10
+Penza Oblast,2021,Sparkling wine,95.36,0.75,0.08
+Samara Oblast,2021,Sparkling wine,370.47,1.16,0.13
+Saratov Oblast,2021,Sparkling wine,193.46,0.79,0.09
+Ulyanovsk Oblast,2021,Sparkling wine,112.83,0.93,0.10
+Kurgan Oblast,2021,Sparkling wine,67.25,0.85,0.09
+Sverdlovsk Oblast,2021,Sparkling wine,583.23,1.36,0.15
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Sparkling wine,237.71,1.40,0.15
+Yamalo-Nenets Autonomous Okrug,2021,Sparkling wine,86.03,1.69,0.19
+Chelyabinsk Oblast,2021,Sparkling wine,406.88,1.18,0.13
+Tyumen Oblast,2021,Sparkling wine,188.61,1.19,0.13
+Altai Republic,2021,Sparkling wine,9.61,0.46,0.05
+Tuva,2021,Sparkling wine,8.85,0.27,0.03
+Khakassia,2021,Sparkling wine,46.66,0.87,0.10
+Altai Krai,2021,Sparkling wine,138.56,0.63,0.07
+Krasnoyarsk Krai,2021,Sparkling wine,367.47,1.28,0.14
+Irkutsk Oblast,2021,Sparkling wine,254.88,1.07,0.12
+Kemerovo Oblast,2021,Sparkling wine,223.37,0.85,0.09
+Novosibirsk Oblast,2021,Sparkling wine,308.38,1.10,0.12
+Omsk Oblast,2021,Sparkling wine,195.19,1.04,0.11
+Tomsk Oblast,2021,Sparkling wine,117.03,1.10,0.12
+Buryatia,2021,Sparkling wine,33.79,0.34,0.04
+Sakha (Yakutia),2021,Sparkling wine,99.98,1.01,0.11
+Zabaykalsky Krai,2021,Sparkling wine,44.83,0.44,0.05
+Kamchatka Krai,2021,Sparkling wine,66.66,2.27,0.25
+Primorsky Krai,2021,Sparkling wine,328.40,1.77,0.19
+Khabarovsk Krai,2021,Sparkling wine,260.47,2.01,0.22
+Amur Oblast,2021,Sparkling wine,85.00,1.10,0.12
+Magadan Oblast,2021,Sparkling wine,29.52,2.15,0.24
+Sakhalin Oblast,2021,Sparkling wine,119.90,2.56,0.28
+Jewish Autonomous Oblast,2021,Sparkling wine,13.96,0.92,0.10
+Chukotka Autonomous Okrug,2021,Sparkling wine,6.93,1.46,0.16
+Belgorod Oblast,2022,Sparkling wine,156.18,1.02,0.11
+Bryansk Oblast,2022,Sparkling wine,119.71,1.03,0.11
+Vladimir Oblast,2022,Sparkling wine,168.50,1.26,0.14
+Voronezh Oblast,2022,Sparkling wine,297.90,1.29,0.14
+Ivanovo Oblast,2022,Sparkling wine,104.79,1.13,0.12
+Kaluga Oblast,2022,Sparkling wine,163.73,1.53,0.17
+Kostroma Oblast,2022,Sparkling wine,65.79,1.14,0.13
+Kursk Oblast,2022,Sparkling wine,126.54,1.17,0.13
+Lipetsk Oblast,2022,Sparkling wine,122.77,1.08,0.12
+Moscow Oblast,2022,Sparkling wine,2212.11,2.59,0.28
+Oryol Oblast,2022,Sparkling wine,95.32,1.34,0.15
+Ryazan Oblast,2022,Sparkling wine,145.74,1.33,0.15
+Smolensk Oblast,2022,Sparkling wine,135.37,1.53,0.17
+Tambov Oblast,2022,Sparkling wine,76.14,0.78,0.09
+Tver Oblast,2022,Sparkling wine,193.50,1.58,0.17
+Tula Oblast,2022,Sparkling wine,172.03,1.15,0.13
+Yaroslavl Oblast,2022,Sparkling wine,200.31,1.66,0.18
+Moscow,2022,Sparkling wine,3000.31,2.31,0.25
+Republic of Karelia,2022,Sparkling wine,93.36,1.75,0.19
+Komi Republic,2022,Sparkling wine,130.81,1.78,0.20
+Nenets Autonomous Okrug,2022,Sparkling wine,7.88,1.90,0.21
+Vologda Oblast,2022,Sparkling wine,137.68,1.21,0.13
+Kaliningrad Oblast,2022,Sparkling wine,190.71,1.85,0.20
+Leningrad Oblast,2022,Sparkling wine,403.29,2.01,0.22
+Murmansk Oblast,2022,Sparkling wine,149.92,2.25,0.25
+Novgorod Oblast,2022,Sparkling wine,78.78,1.35,0.15
+Pskov Oblast,2022,Sparkling wine,97.18,1.63,0.18
+Saint Petersburg,2022,Sparkling wine,1422.67,2.54,0.28
+Arkhangelsk Oblast,2022,Sparkling wine,177.66,1.82,0.20
+Adygea,2022,Sparkling wine,47.76,0.96,0.11
+Kalmykia,2022,Sparkling wine,7.23,0.27,0.03
+Republic of Crimea,2022,Sparkling wine,407.12,2.11,0.23
+Krasnodar Krai,2022,Sparkling wine,1200.43,2.06,0.23
+Astrakhan Oblast,2022,Sparkling wine,67.66,0.71,0.08
+Volgograd Oblast,2022,Sparkling wine,280.87,1.13,0.12
+Rostov Oblast,2022,Sparkling wine,546.93,1.30,0.14
+Sevastopol,2022,Sparkling wine,162.98,2.98,0.33
+Dagestan,2022,Sparkling wine,41.70,0.13,0.01
+Ingushetia,2022,Sparkling wine,0.34,0.01,0.00
+Kabardino-Balkaria,2022,Sparkling wine,15.12,0.17,0.02
+Karachay-Cherkessia,2022,Sparkling wine,11.93,0.25,0.03
+North Ossetia-Alania,2022,Sparkling wine,28.31,0.41,0.05
+Chechnya,2022,Sparkling wine,0.68,0.00,0.00
+Stavropol Krai,2022,Sparkling wine,261.20,0.90,0.10
+Bashkortostan,2022,Sparkling wine,323.80,0.79,0.09
+Mari El,2022,Sparkling wine,47.70,0.71,0.08
+Mordovia,2022,Sparkling wine,54.06,0.69,0.08
+Tatarstan,2022,Sparkling wine,317.42,0.79,0.09
+Udmurtia,2022,Sparkling wine,130.48,0.90,0.10
+Chuvashia,2022,Sparkling wine,76.24,0.64,0.07
+Perm Krai,2022,Sparkling wine,262.53,1.04,0.11
+Kirov Oblast,2022,Sparkling wine,142.56,1.24,0.14
+Nizhny Novgorod Oblast,2022,Sparkling wine,456.80,1.47,0.16
+Orenburg Oblast,2022,Sparkling wine,173.16,0.93,0.10
+Penza Oblast,2022,Sparkling wine,105.00,0.83,0.09
+Samara Oblast,2022,Sparkling wine,394.18,1.25,0.14
+Saratov Oblast,2022,Sparkling wine,208.87,0.86,0.09
+Ulyanovsk Oblast,2022,Sparkling wine,119.28,1.00,0.11
+Kurgan Oblast,2022,Sparkling wine,68.61,0.89,0.10
+Sverdlovsk Oblast,2022,Sparkling wine,630.05,1.48,0.16
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Sparkling wine,237.17,1.38,0.15
+Yamalo-Nenets Autonomous Okrug,2022,Sparkling wine,87.34,1.71,0.19
+Chelyabinsk Oblast,2022,Sparkling wine,426.86,1.25,0.14
+Tyumen Oblast,2022,Sparkling wine,203.78,1.27,0.14
+Altai Republic,2022,Sparkling wine,12.77,0.61,0.07
+Tuva,2022,Sparkling wine,9.31,0.28,0.03
+Khakassia,2022,Sparkling wine,51.19,0.96,0.11
+Altai Krai,2022,Sparkling wine,153.37,0.71,0.08
+Krasnoyarsk Krai,2022,Sparkling wine,397.58,1.39,0.15
+Irkutsk Oblast,2022,Sparkling wine,278.81,1.18,0.13
+Kemerovo Oblast,2022,Sparkling wine,240.10,0.93,0.10
+Novosibirsk Oblast,2022,Sparkling wine,341.26,1.22,0.13
+Omsk Oblast,2022,Sparkling wine,205.31,1.11,0.12
+Tomsk Oblast,2022,Sparkling wine,124.58,1.17,0.13
+Buryatia,2022,Sparkling wine,38.07,0.39,0.04
+Sakha (Yakutia),2022,Sparkling wine,98.85,0.99,0.11
+Zabaykalsky Krai,2022,Sparkling wine,48.37,0.48,0.05
+Kamchatka Krai,2022,Sparkling wine,68.65,2.35,0.26
+Primorsky Krai,2022,Sparkling wine,351.96,1.91,0.21
+Khabarovsk Krai,2022,Sparkling wine,264.96,2.05,0.23
+Amur Oblast,2022,Sparkling wine,94.47,1.24,0.14
+Magadan Oblast,2022,Sparkling wine,29.71,2.19,0.24
+Sakhalin Oblast,2022,Sparkling wine,118.79,2.55,0.28
+Jewish Autonomous Oblast,2022,Sparkling wine,14.30,0.96,0.11
+Chukotka Autonomous Okrug,2022,Sparkling wine,7.08,1.48,0.16
+Belgorod Oblast,2023,Sparkling wine,172.86,1.14,0.13
+Bryansk Oblast,2023,Sparkling wine,128.64,1.12,0.12
+Vladimir Oblast,2023,Sparkling wine,180.55,1.36,0.15
+Voronezh Oblast,2023,Sparkling wine,329.38,1.44,0.16
+Ivanovo Oblast,2023,Sparkling wine,111.35,1.22,0.13
+Kaluga Oblast,2023,Sparkling wine,172.74,1.61,0.18
+Kostroma Oblast,2023,Sparkling wine,69.28,1.21,0.13
+Kursk Oblast,2023,Sparkling wine,132.17,1.24,0.14
+Lipetsk Oblast,2023,Sparkling wine,134.31,1.19,0.13
+Moscow Oblast,2023,Sparkling wine,2383.90,2.77,0.31
+Oryol Oblast,2023,Sparkling wine,100.40,1.43,0.16
+Ryazan Oblast,2023,Sparkling wine,156.32,1.44,0.16
+Smolensk Oblast,2023,Sparkling wine,144.52,1.66,0.18
+Tambov Oblast,2023,Sparkling wine,82.02,0.85,0.09
+Tver Oblast,2023,Sparkling wine,203.04,1.68,0.18
+Tula Oblast,2023,Sparkling wine,187.69,1.27,0.14
+Yaroslavl Oblast,2023,Sparkling wine,215.07,1.80,0.20
+Moscow,2023,Sparkling wine,3270.67,2.50,0.27
+Republic of Karelia,2023,Sparkling wine,99.90,1.89,0.21
+Komi Republic,2023,Sparkling wine,131.57,1.81,0.20
+Nenets Autonomous Okrug,2023,Sparkling wine,8.11,1.96,0.22
+Vologda Oblast,2023,Sparkling wine,145.41,1.29,0.14
+Kaliningrad Oblast,2023,Sparkling wine,222.68,2.16,0.24
+Leningrad Oblast,2023,Sparkling wine,444.29,2.20,0.24
+Murmansk Oblast,2023,Sparkling wine,162.54,2.47,0.27
+Novgorod Oblast,2023,Sparkling wine,81.88,1.42,0.16
+Pskov Oblast,2023,Sparkling wine,103.39,1.76,0.19
+Saint Petersburg,2023,Sparkling wine,1576.39,2.81,0.31
+Arkhangelsk Oblast,2023,Sparkling wine,182.77,1.90,0.21
+Adygea,2023,Sparkling wine,54.54,1.10,0.12
+Kalmykia,2023,Sparkling wine,8.06,0.30,0.03
+Republic of Crimea,2023,Sparkling wine,431.04,2.25,0.25
+Krasnodar Krai,2023,Sparkling wine,1441.60,2.48,0.27
+Astrakhan Oblast,2023,Sparkling wine,71.95,0.76,0.08
+Volgograd Oblast,2023,Sparkling wine,296.19,1.20,0.13
+Rostov Oblast,2023,Sparkling wine,639.97,1.54,0.17
+Sevastopol,2023,Sparkling wine,175.17,3.14,0.35
+Dagestan,2023,Sparkling wine,43.56,0.14,0.01
+Ingushetia,2023,Sparkling wine,0.37,0.01,0.00
+Kabardino-Balkaria,2023,Sparkling wine,16.70,0.18,0.02
+Karachay-Cherkessia,2023,Sparkling wine,12.61,0.27,0.03
+North Ossetia-Alania,2023,Sparkling wine,29.87,0.44,0.05
+Chechnya,2023,Sparkling wine,0.72,0.00,0.00
+Stavropol Krai,2023,Sparkling wine,296.27,1.02,0.11
+Bashkortostan,2023,Sparkling wine,344.92,0.85,0.09
+Mari El,2023,Sparkling wine,51.85,0.77,0.08
+Mordovia,2023,Sparkling wine,58.90,0.76,0.08
+Tatarstan,2023,Sparkling wine,354.92,0.89,0.10
+Udmurtia,2023,Sparkling wine,142.12,0.99,0.11
+Chuvashia,2023,Sparkling wine,84.42,0.72,0.08
+Perm Krai,2023,Sparkling wine,290.18,1.16,0.13
+Kirov Oblast,2023,Sparkling wine,151.41,1.33,0.15
+Nizhny Novgorod Oblast,2023,Sparkling wine,504.78,1.64,0.18
+Orenburg Oblast,2023,Sparkling wine,186.31,1.01,0.11
+Penza Oblast,2023,Sparkling wine,114.35,0.92,0.10
+Samara Oblast,2023,Sparkling wine,430.64,1.37,0.15
+Saratov Oblast,2023,Sparkling wine,227.65,0.95,0.10
+Ulyanovsk Oblast,2023,Sparkling wine,126.50,1.07,0.12
+Kurgan Oblast,2023,Sparkling wine,69.54,0.91,0.10
+Sverdlovsk Oblast,2023,Sparkling wine,686.04,1.62,0.18
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Sparkling wine,247.02,1.43,0.16
+Yamalo-Nenets Autonomous Okrug,2023,Sparkling wine,91.38,1.78,0.20
+Chelyabinsk Oblast,2023,Sparkling wine,458.16,1.34,0.15
+Tyumen Oblast,2023,Sparkling wine,225.28,1.40,0.15
+Altai Republic,2023,Sparkling wine,16.15,0.77,0.08
+Tuva,2023,Sparkling wine,9.09,0.27,0.03
+Khakassia,2023,Sparkling wine,56.19,1.06,0.12
+Altai Krai,2023,Sparkling wine,171.52,0.80,0.09
+Krasnoyarsk Krai,2023,Sparkling wine,425.03,1.49,0.16
+Irkutsk Oblast,2023,Sparkling wine,292.78,1.25,0.14
+Kemerovo Oblast,2023,Sparkling wine,259.78,1.01,0.11
+Novosibirsk Oblast,2023,Sparkling wine,374.84,1.34,0.15
+Omsk Oblast,2023,Sparkling wine,214.44,1.17,0.13
+Tomsk Oblast,2023,Sparkling wine,131.29,1.25,0.14
+Buryatia,2023,Sparkling wine,42.16,0.43,0.05
+Sakha (Yakutia),2023,Sparkling wine,101.59,1.02,0.11
+Zabaykalsky Krai,2023,Sparkling wine,52.70,0.53,0.06
+Kamchatka Krai,2023,Sparkling wine,74.50,2.58,0.28
+Primorsky Krai,2023,Sparkling wine,378.15,2.08,0.23
+Khabarovsk Krai,2023,Sparkling wine,280.09,2.18,0.24
+Amur Oblast,2023,Sparkling wine,98.38,1.30,0.14
+Magadan Oblast,2023,Sparkling wine,31.48,2.34,0.26
+Sakhalin Oblast,2023,Sparkling wine,123.05,2.67,0.29
+Jewish Autonomous Oblast,2023,Sparkling wine,14.82,1.00,0.11
+Chukotka Autonomous Okrug,2023,Sparkling wine,6.95,1.45,0.16
+Belgorod Oblast,2017,Brandy,47.66,0.31,0.12
+Bryansk Oblast,2017,Brandy,55.96,0.46,0.18
+Vladimir Oblast,2017,Brandy,109.35,0.78,0.31
+Voronezh Oblast,2017,Brandy,140.81,0.60,0.24
+Ivanovo Oblast,2017,Brandy,59.43,0.60,0.24
+Kaluga Oblast,2017,Brandy,90.02,0.86,0.34
+Kostroma Oblast,2017,Brandy,37.55,0.60,0.24
+Kursk Oblast,2017,Brandy,55.76,0.50,0.20
+Lipetsk Oblast,2017,Brandy,59.69,0.51,0.20
+Moscow Oblast,2017,Brandy,1108.95,1.39,0.56
+Oryol Oblast,2017,Brandy,43.85,0.58,0.23
+Ryazan Oblast,2017,Brandy,69.35,0.61,0.24
+Smolensk Oblast,2017,Brandy,83.35,0.89,0.35
+Tambov Oblast,2017,Brandy,41.24,0.40,0.16
+Tver Oblast,2017,Brandy,105.96,0.82,0.33
+Tula Oblast,2017,Brandy,98.73,0.64,0.26
+Yaroslavl Oblast,2017,Brandy,129.81,1.03,0.41
+Moscow,2017,Brandy,1312.56,1.05,0.42
+Republic of Karelia,2017,Brandy,80.66,1.38,0.55
+Komi Republic,2017,Brandy,87.86,1.08,0.43
+Nenets Autonomous Okrug,2017,Brandy,4.37,1.03,0.41
+Vologda Oblast,2017,Brandy,86.26,0.73,0.29
+Kaliningrad Oblast,2017,Brandy,75.75,0.77,0.31
+Leningrad Oblast,2017,Brandy,268.04,1.46,0.58
+Murmansk Oblast,2017,Brandy,137.33,1.90,0.76
+Novgorod Oblast,2017,Brandy,61.23,1.00,0.40
+Pskov Oblast,2017,Brandy,52.18,0.82,0.33
+Saint Petersburg,2017,Brandy,742.90,1.37,0.55
+Arkhangelsk Oblast,2017,Brandy,103.88,0.97,0.39
+Adygea,2017,Brandy,26.22,0.56,0.22
+Kalmykia,2017,Brandy,10.37,0.37,0.15
+Republic of Crimea,2017,Brandy,169.64,0.88,0.35
+Krasnodar Krai,2017,Brandy,420.88,0.74,0.30
+Astrakhan Oblast,2017,Brandy,54.98,0.55,0.22
+Volgograd Oblast,2017,Brandy,134.65,0.53,0.21
+Rostov Oblast,2017,Brandy,230.81,0.54,0.22
+Sevastopol,2017,Brandy,53.21,1.16,0.46
+Dagestan,2017,Brandy,59.70,0.20,0.08
+Ingushetia,2017,Brandy,0.70,0.01,0.01
+Kabardino-Balkaria,2017,Brandy,12.11,0.14,0.05
+Karachay-Cherkessia,2017,Brandy,8.42,0.18,0.07
+North Ossetia-Alania,2017,Brandy,7.02,0.10,0.04
+Chechnya,2017,Brandy,0.97,0.01,0.00
+Stavropol Krai,2017,Brandy,125.03,0.44,0.17
+Bashkortostan,2017,Brandy,170.67,0.41,0.17
+Mari El,2017,Brandy,39.40,0.57,0.23
+Mordovia,2017,Brandy,27.34,0.34,0.13
+Tatarstan,2017,Brandy,232.73,0.59,0.24
+Udmurtia,2017,Brandy,87.81,0.59,0.23
+Chuvashia,2017,Brandy,56.58,0.46,0.18
+Perm Krai,2017,Brandy,196.94,0.75,0.30
+Kirov Oblast,2017,Brandy,74.46,0.60,0.24
+Nizhny Novgorod Oblast,2017,Brandy,234.91,0.73,0.29
+Orenburg Oblast,2017,Brandy,68.83,0.35,0.14
+Penza Oblast,2017,Brandy,48.77,0.37,0.15
+Samara Oblast,2017,Brandy,192.94,0.60,0.24
+Saratov Oblast,2017,Brandy,105.84,0.42,0.17
+Ulyanovsk Oblast,2017,Brandy,59.13,0.47,0.19
+Kurgan Oblast,2017,Brandy,30.77,0.37,0.15
+Sverdlovsk Oblast,2017,Brandy,341.41,0.79,0.32
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Brandy,176.87,1.07,0.43
+Yamalo-Nenets Autonomous Okrug,2017,Brandy,71.00,1.39,0.55
+Chelyabinsk Oblast,2017,Brandy,193.37,0.55,0.22
+Tyumen Oblast,2017,Brandy,86.27,0.57,0.23
+Altai Republic,2017,Brandy,5.36,0.25,0.10
+Tuva,2017,Brandy,5.52,0.17,0.07
+Khakassia,2017,Brandy,17.28,0.32,0.13
+Altai Krai,2017,Brandy,65.23,0.28,0.11
+Krasnoyarsk Krai,2017,Brandy,178.12,0.62,0.25
+Irkutsk Oblast,2017,Brandy,103.93,0.43,0.17
+Kemerovo Oblast,2017,Brandy,134.09,0.50,0.20
+Novosibirsk Oblast,2017,Brandy,148.11,0.53,0.21
+Omsk Oblast,2017,Brandy,78.73,0.40,0.16
+Tomsk Oblast,2017,Brandy,69.20,0.64,0.26
+Buryatia,2017,Brandy,23.49,0.24,0.10
+Sakha (Yakutia),2017,Brandy,51.62,0.53,0.21
+Zabaykalsky Krai,2017,Brandy,24.21,0.23,0.09
+Kamchatka Krai,2017,Brandy,44.35,1.46,0.58
+Primorsky Krai,2017,Brandy,167.23,0.88,0.35
+Khabarovsk Krai,2017,Brandy,124.10,0.93,0.37
+Amur Oblast,2017,Brandy,40.24,0.50,0.20
+Magadan Oblast,2017,Brandy,23.16,1.60,0.64
+Sakhalin Oblast,2017,Brandy,61.96,1.30,0.52
+Jewish Autonomous Oblast,2017,Brandy,7.46,0.46,0.18
+Chukotka Autonomous Okrug,2017,Brandy,6.66,1.37,0.55
+Belgorod Oblast,2018,Brandy,50.95,0.33,0.13
+Bryansk Oblast,2018,Brandy,62.30,0.52,0.21
+Vladimir Oblast,2018,Brandy,120.12,0.86,0.35
+Voronezh Oblast,2018,Brandy,156.67,0.67,0.27
+Ivanovo Oblast,2018,Brandy,67.09,0.68,0.27
+Kaluga Oblast,2018,Brandy,98.22,0.93,0.37
+Kostroma Oblast,2018,Brandy,44.54,0.72,0.29
+Kursk Oblast,2018,Brandy,63.04,0.57,0.23
+Lipetsk Oblast,2018,Brandy,64.54,0.55,0.22
+Moscow Oblast,2018,Brandy,1220.43,1.51,0.60
+Oryol Oblast,2018,Brandy,48.56,0.65,0.26
+Ryazan Oblast,2018,Brandy,75.07,0.66,0.27
+Smolensk Oblast,2018,Brandy,90.48,0.97,0.39
+Tambov Oblast,2018,Brandy,45.64,0.44,0.18
+Tver Oblast,2018,Brandy,116.78,0.91,0.36
+Tula Oblast,2018,Brandy,108.03,0.70,0.28
+Yaroslavl Oblast,2018,Brandy,139.66,1.12,0.45
+Moscow,2018,Brandy,1385.09,1.09,0.44
+Republic of Karelia,2018,Brandy,82.20,1.44,0.57
+Komi Republic,2018,Brandy,92.03,1.16,0.46
+Nenets Autonomous Okrug,2018,Brandy,4.49,1.07,0.43
+Vologda Oblast,2018,Brandy,97.08,0.83,0.33
+Kaliningrad Oblast,2018,Brandy,86.41,0.87,0.35
+Leningrad Oblast,2018,Brandy,289.36,1.55,0.62
+Murmansk Oblast,2018,Brandy,138.44,1.94,0.77
+Novgorod Oblast,2018,Brandy,64.93,1.08,0.43
+Pskov Oblast,2018,Brandy,55.06,0.88,0.35
+Saint Petersburg,2018,Brandy,782.44,1.42,0.57
+Arkhangelsk Oblast,2018,Brandy,112.46,1.07,0.43
+Adygea,2018,Brandy,25.81,0.55,0.22
+Kalmykia,2018,Brandy,11.10,0.40,0.16
+Republic of Crimea,2018,Brandy,189.35,0.98,0.39
+Krasnodar Krai,2018,Brandy,449.89,0.79,0.32
+Astrakhan Oblast,2018,Brandy,58.79,0.59,0.24
+Volgograd Oblast,2018,Brandy,142.33,0.56,0.22
+Rostov Oblast,2018,Brandy,245.85,0.58,0.23
+Sevastopol,2018,Brandy,58.83,1.23,0.49
+Dagestan,2018,Brandy,61.66,0.20,0.08
+Ingushetia,2018,Brandy,1.14,0.02,0.01
+Kabardino-Balkaria,2018,Brandy,13.10,0.15,0.06
+Karachay-Cherkessia,2018,Brandy,8.68,0.18,0.07
+North Ossetia-Alania,2018,Brandy,7.82,0.11,0.04
+Chechnya,2018,Brandy,0.73,0.01,0.00
+Stavropol Krai,2018,Brandy,130.51,0.45,0.18
+Bashkortostan,2018,Brandy,205.40,0.50,0.20
+Mari El,2018,Brandy,43.88,0.64,0.26
+Mordovia,2018,Brandy,31.36,0.39,0.15
+Tatarstan,2018,Brandy,286.80,0.72,0.29
+Udmurtia,2018,Brandy,98.17,0.66,0.26
+Chuvashia,2018,Brandy,60.25,0.49,0.20
+Perm Krai,2018,Brandy,206.53,0.79,0.32
+Kirov Oblast,2018,Brandy,83.88,0.68,0.27
+Nizhny Novgorod Oblast,2018,Brandy,255.27,0.79,0.32
+Orenburg Oblast,2018,Brandy,76.86,0.40,0.16
+Penza Oblast,2018,Brandy,56.19,0.42,0.17
+Samara Oblast,2018,Brandy,221.01,0.69,0.28
+Saratov Oblast,2018,Brandy,118.84,0.47,0.19
+Ulyanovsk Oblast,2018,Brandy,62.82,0.51,0.20
+Kurgan Oblast,2018,Brandy,36.18,0.44,0.18
+Sverdlovsk Oblast,2018,Brandy,373.31,0.86,0.35
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Brandy,192.26,1.16,0.46
+Yamalo-Nenets Autonomous Okrug,2018,Brandy,76.55,1.50,0.60
+Chelyabinsk Oblast,2018,Brandy,216.23,0.62,0.25
+Tyumen Oblast,2018,Brandy,98.33,0.64,0.26
+Altai Republic,2018,Brandy,5.99,0.28,0.11
+Tuva,2018,Brandy,5.43,0.17,0.07
+Khakassia,2018,Brandy,20.85,0.39,0.15
+Altai Krai,2018,Brandy,79.97,0.35,0.14
+Krasnoyarsk Krai,2018,Brandy,192.43,0.67,0.27
+Irkutsk Oblast,2018,Brandy,119.06,0.49,0.20
+Kemerovo Oblast,2018,Brandy,156.67,0.58,0.23
+Novosibirsk Oblast,2018,Brandy,165.97,0.59,0.24
+Omsk Oblast,2018,Brandy,90.65,0.47,0.19
+Tomsk Oblast,2018,Brandy,75.75,0.70,0.28
+Buryatia,2018,Brandy,27.58,0.28,0.11
+Sakha (Yakutia),2018,Brandy,57.41,0.59,0.24
+Zabaykalsky Krai,2018,Brandy,26.66,0.25,0.10
+Kamchatka Krai,2018,Brandy,47.01,1.55,0.62
+Primorsky Krai,2018,Brandy,180.60,0.95,0.38
+Khabarovsk Krai,2018,Brandy,137.73,1.04,0.42
+Amur Oblast,2018,Brandy,48.09,0.61,0.24
+Magadan Oblast,2018,Brandy,24.82,1.74,0.69
+Sakhalin Oblast,2018,Brandy,65.25,1.36,0.55
+Jewish Autonomous Oblast,2018,Brandy,8.56,0.54,0.22
+Chukotka Autonomous Okrug,2018,Brandy,7.10,1.48,0.59
+Belgorod Oblast,2019,Brandy,54.25,0.35,0.14
+Bryansk Oblast,2019,Brandy,66.65,0.56,0.22
+Vladimir Oblast,2019,Brandy,127.51,0.92,0.37
+Voronezh Oblast,2019,Brandy,163.16,0.70,0.28
+Ivanovo Oblast,2019,Brandy,69.57,0.72,0.29
+Kaluga Oblast,2019,Brandy,103.73,0.98,0.39
+Kostroma Oblast,2019,Brandy,46.93,0.77,0.31
+Kursk Oblast,2019,Brandy,66.35,0.60,0.24
+Lipetsk Oblast,2019,Brandy,68.07,0.59,0.23
+Moscow Oblast,2019,Brandy,1275.61,1.55,0.62
+Oryol Oblast,2019,Brandy,50.21,0.68,0.27
+Ryazan Oblast,2019,Brandy,79.10,0.70,0.28
+Smolensk Oblast,2019,Brandy,94.80,1.02,0.41
+Tambov Oblast,2019,Brandy,48.66,0.48,0.19
+Tver Oblast,2019,Brandy,123.33,0.97,0.39
+Tula Oblast,2019,Brandy,113.33,0.74,0.30
+Yaroslavl Oblast,2019,Brandy,143.70,1.16,0.46
+Moscow,2019,Brandy,1394.68,1.09,0.43
+Republic of Karelia,2019,Brandy,85.87,1.53,0.61
+Komi Republic,2019,Brandy,96.33,1.24,0.49
+Nenets Autonomous Okrug,2019,Brandy,4.74,1.14,0.46
+Vologda Oblast,2019,Brandy,105.32,0.90,0.36
+Kaliningrad Oblast,2019,Brandy,93.03,0.93,0.37
+Leningrad Oblast,2019,Brandy,305.81,1.60,0.64
+Murmansk Oblast,2019,Brandy,146.19,2.08,0.83
+Novgorod Oblast,2019,Brandy,65.24,1.09,0.44
+Pskov Oblast,2019,Brandy,58.93,0.95,0.38
+Saint Petersburg,2019,Brandy,789.13,1.42,0.57
+Arkhangelsk Oblast,2019,Brandy,118.61,1.15,0.46
+Adygea,2019,Brandy,25.20,0.53,0.21
+Kalmykia,2019,Brandy,11.78,0.43,0.17
+Republic of Crimea,2019,Brandy,198.65,1.03,0.41
+Krasnodar Krai,2019,Brandy,467.73,0.81,0.33
+Astrakhan Oblast,2019,Brandy,59.66,0.60,0.24
+Volgograd Oblast,2019,Brandy,145.27,0.57,0.23
+Rostov Oblast,2019,Brandy,250.94,0.59,0.24
+Sevastopol,2019,Brandy,63.34,1.27,0.51
+Dagestan,2019,Brandy,66.82,0.21,0.09
+Ingushetia,2019,Brandy,1.20,0.02,0.01
+Kabardino-Balkaria,2019,Brandy,14.90,0.17,0.07
+Karachay-Cherkessia,2019,Brandy,8.54,0.18,0.07
+North Ossetia-Alania,2019,Brandy,8.15,0.12,0.05
+Chechnya,2019,Brandy,1.31,0.01,0.00
+Stavropol Krai,2019,Brandy,134.50,0.47,0.19
+Bashkortostan,2019,Brandy,219.24,0.53,0.21
+Mari El,2019,Brandy,46.27,0.68,0.27
+Mordovia,2019,Brandy,33.32,0.41,0.17
+Tatarstan,2019,Brandy,305.76,0.77,0.31
+Udmurtia,2019,Brandy,105.04,0.71,0.28
+Chuvashia,2019,Brandy,64.77,0.53,0.21
+Perm Krai,2019,Brandy,213.09,0.82,0.33
+Kirov Oblast,2019,Brandy,88.12,0.73,0.29
+Nizhny Novgorod Oblast,2019,Brandy,266.96,0.84,0.33
+Orenburg Oblast,2019,Brandy,81.04,0.42,0.17
+Penza Oblast,2019,Brandy,60.98,0.47,0.19
+Samara Oblast,2019,Brandy,235.61,0.73,0.29
+Saratov Oblast,2019,Brandy,124.10,0.50,0.20
+Ulyanovsk Oblast,2019,Brandy,74.38,0.61,0.24
+Kurgan Oblast,2019,Brandy,34.68,0.43,0.17
+Sverdlovsk Oblast,2019,Brandy,384.00,0.89,0.36
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Brandy,193.21,1.16,0.46
+Yamalo-Nenets Autonomous Okrug,2019,Brandy,78.88,1.54,0.62
+Chelyabinsk Oblast,2019,Brandy,222.91,0.64,0.26
+Tyumen Oblast,2019,Brandy,103.12,0.66,0.27
+Altai Republic,2019,Brandy,7.36,0.35,0.14
+Tuva,2019,Brandy,5.91,0.18,0.07
+Khakassia,2019,Brandy,23.11,0.43,0.17
+Altai Krai,2019,Brandy,80.54,0.36,0.14
+Krasnoyarsk Krai,2019,Brandy,213.57,0.74,0.30
+Irkutsk Oblast,2019,Brandy,127.62,0.53,0.21
+Kemerovo Oblast,2019,Brandy,173.46,0.65,0.26
+Novosibirsk Oblast,2019,Brandy,174.14,0.62,0.25
+Omsk Oblast,2019,Brandy,95.63,0.50,0.20
+Tomsk Oblast,2019,Brandy,81.57,0.76,0.30
+Buryatia,2019,Brandy,29.36,0.30,0.12
+Sakha (Yakutia),2019,Brandy,59.11,0.61,0.24
+Zabaykalsky Krai,2019,Brandy,28.76,0.28,0.11
+Kamchatka Krai,2019,Brandy,47.80,1.59,0.64
+Primorsky Krai,2019,Brandy,188.66,1.00,0.40
+Khabarovsk Krai,2019,Brandy,143.38,1.09,0.44
+Amur Oblast,2019,Brandy,52.05,0.66,0.26
+Magadan Oblast,2019,Brandy,24.77,1.77,0.71
+Sakhalin Oblast,2019,Brandy,69.01,1.45,0.58
+Jewish Autonomous Oblast,2019,Brandy,9.37,0.60,0.24
+Chukotka Autonomous Okrug,2019,Brandy,7.86,1.63,0.65
+Belgorod Oblast,2020,Brandy,61.26,0.39,0.16
+Bryansk Oblast,2020,Brandy,67.34,0.57,0.23
+Vladimir Oblast,2020,Brandy,126.75,0.92,0.37
+Voronezh Oblast,2020,Brandy,163.03,0.70,0.28
+Ivanovo Oblast,2020,Brandy,67.27,0.71,0.28
+Kaluga Oblast,2020,Brandy,105.71,1.00,0.40
+Kostroma Oblast,2020,Brandy,46.66,0.78,0.31
+Kursk Oblast,2020,Brandy,68.64,0.62,0.25
+Lipetsk Oblast,2020,Brandy,71.31,0.61,0.25
+Moscow Oblast,2020,Brandy,1293.32,1.54,0.62
+Oryol Oblast,2020,Brandy,50.55,0.69,0.28
+Ryazan Oblast,2020,Brandy,79.25,0.71,0.28
+Smolensk Oblast,2020,Brandy,93.13,1.02,0.41
+Tambov Oblast,2020,Brandy,49.20,0.49,0.20
+Tver Oblast,2020,Brandy,124.58,0.99,0.40
+Tula Oblast,2020,Brandy,113.62,0.75,0.30
+Yaroslavl Oblast,2020,Brandy,138.34,1.12,0.45
+Moscow,2020,Brandy,1293.24,1.00,0.40
+Republic of Karelia,2020,Brandy,83.92,1.52,0.61
+Komi Republic,2020,Brandy,95.62,1.25,0.50
+Nenets Autonomous Okrug,2020,Brandy,4.81,1.16,0.46
+Vologda Oblast,2020,Brandy,107.39,0.93,0.37
+Kaliningrad Oblast,2020,Brandy,95.87,0.94,0.38
+Leningrad Oblast,2020,Brandy,307.84,1.58,0.63
+Murmansk Oblast,2020,Brandy,139.56,2.02,0.81
+Novgorod Oblast,2020,Brandy,62.62,1.06,0.42
+Pskov Oblast,2020,Brandy,58.67,0.96,0.38
+Saint Petersburg,2020,Brandy,736.13,1.32,0.53
+Arkhangelsk Oblast,2020,Brandy,117.99,1.16,0.47
+Adygea,2020,Brandy,24.39,0.50,0.20
+Kalmykia,2020,Brandy,10.19,0.38,0.15
+Republic of Crimea,2020,Brandy,201.12,1.04,0.41
+Krasnodar Krai,2020,Brandy,453.87,0.78,0.31
+Astrakhan Oblast,2020,Brandy,56.69,0.58,0.23
+Volgograd Oblast,2020,Brandy,137.39,0.54,0.22
+Rostov Oblast,2020,Brandy,246.65,0.58,0.23
+Sevastopol,2020,Brandy,66.96,1.28,0.51
+Dagestan,2020,Brandy,64.56,0.21,0.08
+Ingushetia,2020,Brandy,1.28,0.03,0.01
+Kabardino-Balkaria,2020,Brandy,15.39,0.17,0.07
+Karachay-Cherkessia,2020,Brandy,8.75,0.19,0.07
+North Ossetia-Alania,2020,Brandy,9.30,0.13,0.05
+Chechnya,2020,Brandy,2.61,0.02,0.01
+Stavropol Krai,2020,Brandy,122.74,0.42,0.17
+Bashkortostan,2020,Brandy,221.26,0.54,0.22
+Mari El,2020,Brandy,42.04,0.62,0.25
+Mordovia,2020,Brandy,32.98,0.41,0.17
+Tatarstan,2020,Brandy,300.66,0.75,0.30
+Udmurtia,2020,Brandy,106.01,0.72,0.29
+Chuvashia,2020,Brandy,62.97,0.52,0.21
+Perm Krai,2020,Brandy,204.77,0.80,0.32
+Kirov Oblast,2020,Brandy,85.55,0.72,0.29
+Nizhny Novgorod Oblast,2020,Brandy,258.80,0.82,0.33
+Orenburg Oblast,2020,Brandy,82.06,0.43,0.17
+Penza Oblast,2020,Brandy,61.04,0.47,0.19
+Samara Oblast,2020,Brandy,232.50,0.73,0.29
+Saratov Oblast,2020,Brandy,122.54,0.49,0.20
+Ulyanovsk Oblast,2020,Brandy,74.51,0.61,0.24
+Kurgan Oblast,2020,Brandy,34.35,0.43,0.17
+Sverdlovsk Oblast,2020,Brandy,368.40,0.85,0.34
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Brandy,195.11,1.16,0.46
+Yamalo-Nenets Autonomous Okrug,2020,Brandy,85.06,1.67,0.67
+Chelyabinsk Oblast,2020,Brandy,218.55,0.63,0.25
+Tyumen Oblast,2020,Brandy,102.37,0.65,0.26
+Altai Republic,2020,Brandy,7.82,0.37,0.15
+Tuva,2020,Brandy,3.58,0.11,0.04
+Khakassia,2020,Brandy,25.14,0.47,0.19
+Altai Krai,2020,Brandy,83.83,0.38,0.15
+Krasnoyarsk Krai,2020,Brandy,218.90,0.76,0.30
+Irkutsk Oblast,2020,Brandy,136.27,0.57,0.23
+Kemerovo Oblast,2020,Brandy,173.04,0.65,0.26
+Novosibirsk Oblast,2020,Brandy,178.02,0.63,0.25
+Omsk Oblast,2020,Brandy,94.79,0.50,0.20
+Tomsk Oblast,2020,Brandy,83.43,0.78,0.31
+Buryatia,2020,Brandy,32.08,0.33,0.13
+Sakha (Yakutia),2020,Brandy,57.76,0.59,0.24
+Zabaykalsky Krai,2020,Brandy,30.31,0.30,0.12
+Kamchatka Krai,2020,Brandy,50.18,1.69,0.68
+Primorsky Krai,2020,Brandy,189.58,1.01,0.40
+Khabarovsk Krai,2020,Brandy,140.46,1.07,0.43
+Amur Oblast,2020,Brandy,54.33,0.69,0.28
+Magadan Oblast,2020,Brandy,25.34,1.83,0.73
+Sakhalin Oblast,2020,Brandy,72.06,1.52,0.61
+Jewish Autonomous Oblast,2020,Brandy,9.16,0.59,0.24
+Chukotka Autonomous Okrug,2020,Brandy,8.07,1.66,0.66
+Belgorod Oblast,2021,Brandy,72.18,0.47,0.19
+Bryansk Oblast,2021,Brandy,71.12,0.60,0.24
+Vladimir Oblast,2021,Brandy,127.44,0.94,0.38
+Voronezh Oblast,2021,Brandy,169.42,0.73,0.29
+Ivanovo Oblast,2021,Brandy,68.68,0.73,0.29
+Kaluga Oblast,2021,Brandy,106.34,1.01,0.40
+Kostroma Oblast,2021,Brandy,48.07,0.82,0.33
+Kursk Oblast,2021,Brandy,72.10,0.66,0.26
+Lipetsk Oblast,2021,Brandy,73.53,0.64,0.26
+Moscow Oblast,2021,Brandy,1277.24,1.51,0.61
+Oryol Oblast,2021,Brandy,52.67,0.73,0.29
+Ryazan Oblast,2021,Brandy,80.70,0.73,0.29
+Smolensk Oblast,2021,Brandy,92.09,1.02,0.41
+Tambov Oblast,2021,Brandy,49.67,0.50,0.20
+Tver Oblast,2021,Brandy,124.81,1.01,0.40
+Tula Oblast,2021,Brandy,115.21,0.76,0.31
+Yaroslavl Oblast,2021,Brandy,136.57,1.12,0.45
+Moscow,2021,Brandy,1296.20,1.00,0.40
+Republic of Karelia,2021,Brandy,83.82,1.55,0.62
+Komi Republic,2021,Brandy,91.66,1.22,0.49
+Nenets Autonomous Okrug,2021,Brandy,4.62,1.11,0.44
+Vologda Oblast,2021,Brandy,104.75,0.91,0.36
+Kaliningrad Oblast,2021,Brandy,108.29,1.06,0.42
+Leningrad Oblast,2021,Brandy,307.68,1.56,0.62
+Murmansk Oblast,2021,Brandy,130.80,1.93,0.77
+Novgorod Oblast,2021,Brandy,63.51,1.08,0.43
+Pskov Oblast,2021,Brandy,60.25,1.00,0.40
+Saint Petersburg,2021,Brandy,733.45,1.31,0.52
+Arkhangelsk Oblast,2021,Brandy,111.56,1.12,0.45
+Adygea,2021,Brandy,26.38,0.54,0.22
+Kalmykia,2021,Brandy,10.76,0.40,0.16
+Republic of Crimea,2021,Brandy,237.98,1.23,0.49
+Krasnodar Krai,2021,Brandy,516.03,0.89,0.35
+Astrakhan Oblast,2021,Brandy,56.03,0.58,0.23
+Volgograd Oblast,2021,Brandy,138.18,0.55,0.22
+Rostov Oblast,2021,Brandy,255.82,0.61,0.24
+Sevastopol,2021,Brandy,76.13,1.43,0.57
+Dagestan,2021,Brandy,76.40,0.24,0.10
+Ingushetia,2021,Brandy,1.94,0.04,0.02
+Kabardino-Balkaria,2021,Brandy,17.99,0.20,0.08
+Karachay-Cherkessia,2021,Brandy,9.65,0.21,0.08
+North Ossetia-Alania,2021,Brandy,12.27,0.18,0.07
+Chechnya,2021,Brandy,2.31,0.02,0.01
+Stavropol Krai,2021,Brandy,142.31,0.49,0.20
+Bashkortostan,2021,Brandy,236.52,0.58,0.23
+Mari El,2021,Brandy,46.69,0.69,0.27
+Mordovia,2021,Brandy,34.51,0.44,0.18
+Tatarstan,2021,Brandy,310.28,0.78,0.31
+Udmurtia,2021,Brandy,110.85,0.76,0.30
+Chuvashia,2021,Brandy,66.30,0.55,0.22
+Perm Krai,2021,Brandy,211.55,0.83,0.33
+Kirov Oblast,2021,Brandy,88.62,0.76,0.30
+Nizhny Novgorod Oblast,2021,Brandy,262.36,0.83,0.33
+Orenburg Oblast,2021,Brandy,86.14,0.46,0.18
+Penza Oblast,2021,Brandy,61.95,0.48,0.19
+Samara Oblast,2021,Brandy,235.41,0.74,0.30
+Saratov Oblast,2021,Brandy,126.14,0.51,0.21
+Ulyanovsk Oblast,2021,Brandy,79.04,0.65,0.26
+Kurgan Oblast,2021,Brandy,37.02,0.47,0.19
+Sverdlovsk Oblast,2021,Brandy,376.47,0.88,0.35
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Brandy,190.53,1.12,0.45
+Yamalo-Nenets Autonomous Okrug,2021,Brandy,83.60,1.64,0.66
+Chelyabinsk Oblast,2021,Brandy,228.05,0.66,0.26
+Tyumen Oblast,2021,Brandy,106.65,0.67,0.27
+Altai Republic,2021,Brandy,10.07,0.48,0.19
+Tuva,2021,Brandy,6.25,0.19,0.07
+Khakassia,2021,Brandy,28.83,0.54,0.21
+Altai Krai,2021,Brandy,96.06,0.44,0.18
+Krasnoyarsk Krai,2021,Brandy,249.29,0.87,0.35
+Irkutsk Oblast,2021,Brandy,151.48,0.64,0.25
+Kemerovo Oblast,2021,Brandy,183.73,0.70,0.28
+Novosibirsk Oblast,2021,Brandy,194.47,0.69,0.28
+Omsk Oblast,2021,Brandy,101.51,0.54,0.22
+Tomsk Oblast,2021,Brandy,85.54,0.80,0.32
+Buryatia,2021,Brandy,40.15,0.41,0.16
+Sakha (Yakutia),2021,Brandy,62.52,0.63,0.25
+Zabaykalsky Krai,2021,Brandy,33.10,0.33,0.13
+Kamchatka Krai,2021,Brandy,50.28,1.71,0.69
+Primorsky Krai,2021,Brandy,197.40,1.06,0.42
+Khabarovsk Krai,2021,Brandy,141.20,1.09,0.44
+Amur Oblast,2021,Brandy,60.60,0.78,0.31
+Magadan Oblast,2021,Brandy,25.25,1.84,0.74
+Sakhalin Oblast,2021,Brandy,70.49,1.50,0.60
+Jewish Autonomous Oblast,2021,Brandy,9.86,0.65,0.26
+Chukotka Autonomous Okrug,2021,Brandy,8.02,1.68,0.67
+Belgorod Oblast,2022,Brandy,86.55,0.56,0.23
+Bryansk Oblast,2022,Brandy,77.41,0.66,0.27
+Vladimir Oblast,2022,Brandy,133.97,1.00,0.40
+Voronezh Oblast,2022,Brandy,186.43,0.81,0.32
+Ivanovo Oblast,2022,Brandy,70.88,0.77,0.31
+Kaluga Oblast,2022,Brandy,110.94,1.03,0.41
+Kostroma Oblast,2022,Brandy,50.99,0.88,0.35
+Kursk Oblast,2022,Brandy,80.92,0.75,0.30
+Lipetsk Oblast,2022,Brandy,79.82,0.70,0.28
+Moscow Oblast,2022,Brandy,1342.15,1.57,0.63
+Oryol Oblast,2022,Brandy,55.34,0.78,0.31
+Ryazan Oblast,2022,Brandy,85.72,0.78,0.31
+Smolensk Oblast,2022,Brandy,95.60,1.08,0.43
+Tambov Oblast,2022,Brandy,53.17,0.54,0.22
+Tver Oblast,2022,Brandy,130.97,1.07,0.43
+Tula Oblast,2022,Brandy,121.39,0.81,0.32
+Yaroslavl Oblast,2022,Brandy,140.72,1.17,0.47
+Moscow,2022,Brandy,1352.35,1.04,0.42
+Republic of Karelia,2022,Brandy,87.34,1.64,0.66
+Komi Republic,2022,Brandy,88.81,1.21,0.48
+Nenets Autonomous Okrug,2022,Brandy,4.64,1.12,0.45
+Vologda Oblast,2022,Brandy,105.75,0.93,0.37
+Kaliningrad Oblast,2022,Brandy,117.51,1.14,0.46
+Leningrad Oblast,2022,Brandy,326.86,1.63,0.65
+Murmansk Oblast,2022,Brandy,131.77,1.98,0.79
+Novgorod Oblast,2022,Brandy,65.91,1.13,0.45
+Pskov Oblast,2022,Brandy,62.20,1.04,0.42
+Saint Petersburg,2022,Brandy,777.82,1.39,0.55
+Arkhangelsk Oblast,2022,Brandy,110.29,1.13,0.45
+Adygea,2022,Brandy,28.69,0.58,0.23
+Kalmykia,2022,Brandy,11.24,0.42,0.17
+Republic of Crimea,2022,Brandy,222.17,1.15,0.46
+Krasnodar Krai,2022,Brandy,552.40,0.95,0.38
+Astrakhan Oblast,2022,Brandy,57.94,0.60,0.24
+Volgograd Oblast,2022,Brandy,150.20,0.60,0.24
+Rostov Oblast,2022,Brandy,282.87,0.67,0.27
+Sevastopol,2022,Brandy,73.60,1.34,0.54
+Dagestan,2022,Brandy,98.13,0.31,0.12
+Ingushetia,2022,Brandy,2.55,0.05,0.02
+Kabardino-Balkaria,2022,Brandy,19.77,0.22,0.09
+Karachay-Cherkessia,2022,Brandy,10.87,0.23,0.09
+North Ossetia-Alania,2022,Brandy,13.53,0.20,0.08
+Chechnya,2022,Brandy,1.65,0.01,0.00
+Stavropol Krai,2022,Brandy,154.41,0.53,0.21
+Bashkortostan,2022,Brandy,258.96,0.63,0.25
+Mari El,2022,Brandy,49.87,0.74,0.29
+Mordovia,2022,Brandy,37.51,0.48,0.19
+Tatarstan,2022,Brandy,350.63,0.88,0.35
+Udmurtia,2022,Brandy,117.14,0.81,0.32
+Chuvashia,2022,Brandy,73.20,0.62,0.25
+Perm Krai,2022,Brandy,214.78,0.85,0.34
+Kirov Oblast,2022,Brandy,93.27,0.81,0.32
+Nizhny Novgorod Oblast,2022,Brandy,279.61,0.90,0.36
+Orenburg Oblast,2022,Brandy,92.78,0.50,0.20
+Penza Oblast,2022,Brandy,69.00,0.55,0.22
+Samara Oblast,2022,Brandy,256.36,0.81,0.32
+Saratov Oblast,2022,Brandy,135.19,0.56,0.22
+Ulyanovsk Oblast,2022,Brandy,83.99,0.70,0.28
+Kurgan Oblast,2022,Brandy,38.85,0.50,0.20
+Sverdlovsk Oblast,2022,Brandy,390.10,0.91,0.37
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Brandy,190.59,1.11,0.44
+Yamalo-Nenets Autonomous Okrug,2022,Brandy,83.76,1.64,0.66
+Chelyabinsk Oblast,2022,Brandy,241.81,0.71,0.28
+Tyumen Oblast,2022,Brandy,115.08,0.72,0.29
+Altai Republic,2022,Brandy,11.79,0.56,0.22
+Tuva,2022,Brandy,5.76,0.17,0.07
+Khakassia,2022,Brandy,32.17,0.60,0.24
+Altai Krai,2022,Brandy,104.54,0.49,0.19
+Krasnoyarsk Krai,2022,Brandy,270.29,0.95,0.38
+Irkutsk Oblast,2022,Brandy,163.38,0.69,0.28
+Kemerovo Oblast,2022,Brandy,193.32,0.75,0.30
+Novosibirsk Oblast,2022,Brandy,207.76,0.74,0.30
+Omsk Oblast,2022,Brandy,107.99,0.58,0.23
+Tomsk Oblast,2022,Brandy,87.96,0.83,0.33
+Buryatia,2022,Brandy,39.95,0.41,0.16
+Sakha (Yakutia),2022,Brandy,63.01,0.63,0.25
+Zabaykalsky Krai,2022,Brandy,33.76,0.34,0.13
+Kamchatka Krai,2022,Brandy,47.65,1.63,0.65
+Primorsky Krai,2022,Brandy,185.40,1.01,0.40
+Khabarovsk Krai,2022,Brandy,132.47,1.02,0.41
+Amur Oblast,2022,Brandy,62.83,0.82,0.33
+Magadan Oblast,2022,Brandy,23.74,1.75,0.70
+Sakhalin Oblast,2022,Brandy,63.31,1.36,0.54
+Jewish Autonomous Oblast,2022,Brandy,9.64,0.64,0.26
+Chukotka Autonomous Okrug,2022,Brandy,7.23,1.51,0.60
+Belgorod Oblast,2023,Brandy,97.35,0.64,0.26
+Bryansk Oblast,2023,Brandy,87.74,0.76,0.30
+Vladimir Oblast,2023,Brandy,147.69,1.11,0.45
+Voronezh Oblast,2023,Brandy,221.45,0.97,0.39
+Ivanovo Oblast,2023,Brandy,80.62,0.88,0.35
+Kaluga Oblast,2023,Brandy,118.65,1.11,0.44
+Kostroma Oblast,2023,Brandy,57.07,1.00,0.40
+Kursk Oblast,2023,Brandy,94.20,0.88,0.35
+Lipetsk Oblast,2023,Brandy,93.04,0.83,0.33
+Moscow Oblast,2023,Brandy,1440.45,1.68,0.67
+Oryol Oblast,2023,Brandy,62.08,0.89,0.35
+Ryazan Oblast,2023,Brandy,96.27,0.88,0.35
+Smolensk Oblast,2023,Brandy,104.15,1.19,0.48
+Tambov Oblast,2023,Brandy,62.80,0.65,0.26
+Tver Oblast,2023,Brandy,141.70,1.17,0.47
+Tula Oblast,2023,Brandy,135.19,0.91,0.37
+Yaroslavl Oblast,2023,Brandy,154.42,1.29,0.52
+Moscow,2023,Brandy,1408.79,1.08,0.43
+Republic of Karelia,2023,Brandy,93.10,1.76,0.71
+Komi Republic,2023,Brandy,90.60,1.25,0.50
+Nenets Autonomous Okrug,2023,Brandy,4.70,1.14,0.45
+Vologda Oblast,2023,Brandy,112.57,1.00,0.40
+Kaliningrad Oblast,2023,Brandy,126.19,1.22,0.49
+Leningrad Oblast,2023,Brandy,346.51,1.71,0.68
+Murmansk Oblast,2023,Brandy,134.04,2.03,0.81
+Novgorod Oblast,2023,Brandy,71.42,1.24,0.50
+Pskov Oblast,2023,Brandy,67.17,1.14,0.46
+Saint Petersburg,2023,Brandy,820.02,1.46,0.59
+Arkhangelsk Oblast,2023,Brandy,116.81,1.21,0.48
+Adygea,2023,Brandy,32.17,0.65,0.26
+Kalmykia,2023,Brandy,12.27,0.46,0.19
+Republic of Crimea,2023,Brandy,248.73,1.30,0.52
+Krasnodar Krai,2023,Brandy,641.88,1.10,0.44
+Astrakhan Oblast,2023,Brandy,63.17,0.66,0.27
+Volgograd Oblast,2023,Brandy,171.31,0.69,0.28
+Rostov Oblast,2023,Brandy,345.53,0.83,0.33
+Sevastopol,2023,Brandy,77.20,1.38,0.55
+Dagestan,2023,Brandy,104.76,0.33,0.13
+Ingushetia,2023,Brandy,2.92,0.06,0.02
+Kabardino-Balkaria,2023,Brandy,23.80,0.26,0.11
+Karachay-Cherkessia,2023,Brandy,11.57,0.25,0.10
+North Ossetia-Alania,2023,Brandy,15.99,0.23,0.09
+Chechnya,2023,Brandy,1.29,0.01,0.00
+Stavropol Krai,2023,Brandy,175.85,0.61,0.24
+Bashkortostan,2023,Brandy,296.93,0.73,0.29
+Mari El,2023,Brandy,56.28,0.84,0.33
+Mordovia,2023,Brandy,42.47,0.55,0.22
+Tatarstan,2023,Brandy,381.90,0.95,0.38
+Udmurtia,2023,Brandy,132.18,0.92,0.37
+Chuvashia,2023,Brandy,85.40,0.73,0.29
+Perm Krai,2023,Brandy,235.69,0.94,0.38
+Kirov Oblast,2023,Brandy,104.37,0.92,0.37
+Nizhny Novgorod Oblast,2023,Brandy,314.60,1.02,0.41
+Orenburg Oblast,2023,Brandy,105.94,0.58,0.23
+Penza Oblast,2023,Brandy,79.63,0.64,0.26
+Samara Oblast,2023,Brandy,287.09,0.91,0.37
+Saratov Oblast,2023,Brandy,149.34,0.62,0.25
+Ulyanovsk Oblast,2023,Brandy,94.96,0.80,0.32
+Kurgan Oblast,2023,Brandy,44.55,0.59,0.23
+Sverdlovsk Oblast,2023,Brandy,427.73,1.01,0.40
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Brandy,196.25,1.13,0.45
+Yamalo-Nenets Autonomous Okrug,2023,Brandy,84.41,1.65,0.66
+Chelyabinsk Oblast,2023,Brandy,273.92,0.80,0.32
+Tyumen Oblast,2023,Brandy,125.95,0.78,0.31
+Altai Republic,2023,Brandy,14.48,0.69,0.27
+Tuva,2023,Brandy,6.91,0.20,0.08
+Khakassia,2023,Brandy,36.38,0.69,0.27
+Altai Krai,2023,Brandy,119.94,0.56,0.23
+Krasnoyarsk Krai,2023,Brandy,289.38,1.02,0.41
+Irkutsk Oblast,2023,Brandy,180.19,0.77,0.31
+Kemerovo Oblast,2023,Brandy,214.08,0.83,0.33
+Novosibirsk Oblast,2023,Brandy,229.85,0.82,0.33
+Omsk Oblast,2023,Brandy,120.47,0.66,0.26
+Tomsk Oblast,2023,Brandy,93.68,0.89,0.36
+Buryatia,2023,Brandy,50.70,0.52,0.21
+Sakha (Yakutia),2023,Brandy,65.63,0.66,0.26
+Zabaykalsky Krai,2023,Brandy,40.54,0.41,0.16
+Kamchatka Krai,2023,Brandy,47.74,1.65,0.66
+Primorsky Krai,2023,Brandy,207.66,1.14,0.46
+Khabarovsk Krai,2023,Brandy,150.15,1.17,0.47
+Amur Oblast,2023,Brandy,68.37,0.90,0.36
+Magadan Oblast,2023,Brandy,23.12,1.72,0.69
+Sakhalin Oblast,2023,Brandy,64.10,1.39,0.56
+Jewish Autonomous Oblast,2023,Brandy,10.80,0.73,0.29
+Chukotka Autonomous Okrug,2023,Brandy,7.67,1.60,0.64
+Belgorod Oblast,2017,Ñider,235.98,1.52,0.08
+Bryansk Oblast,2017,Ñider,104.24,0.86,0.04
+Vladimir Oblast,2017,Ñider,223.59,1.60,0.08
+Voronezh Oblast,2017,Ñider,212.36,0.91,0.05
+Ivanovo Oblast,2017,Ñider,134.80,1.36,0.07
+Kaluga Oblast,2017,Ñider,82.62,0.79,0.04
+Kostroma Oblast,2017,Ñider,157.12,2.52,0.13
+Kursk Oblast,2017,Ñider,83.82,0.75,0.04
+Lipetsk Oblast,2017,Ñider,83.14,0.71,0.04
+Moscow Oblast,2017,Ñider,682.71,0.86,0.04
+Oryol Oblast,2017,Ñider,76.09,1.01,0.05
+Ryazan Oblast,2017,Ñider,134.83,1.19,0.06
+Smolensk Oblast,2017,Ñider,126.49,1.34,0.07
+Tambov Oblast,2017,Ñider,57.50,0.55,0.03
+Tver Oblast,2017,Ñider,225.86,1.74,0.09
+Tula Oblast,2017,Ñider,138.91,0.91,0.05
+Yaroslavl Oblast,2017,Ñider,133.34,1.06,0.05
+Moscow,2017,Ñider,1079.79,0.87,0.04
+Republic of Karelia,2017,Ñider,66.04,1.13,0.06
+Komi Republic,2017,Ñider,83.97,1.03,0.05
+Nenets Autonomous Okrug,2017,Ñider,4.83,1.14,0.06
+Vologda Oblast,2017,Ñider,123.40,1.04,0.05
+Kaliningrad Oblast,2017,Ñider,98.29,0.99,0.05
+Leningrad Oblast,2017,Ñider,210.55,1.14,0.06
+Murmansk Oblast,2017,Ñider,68.24,0.94,0.05
+Novgorod Oblast,2017,Ñider,101.11,1.66,0.08
+Pskov Oblast,2017,Ñider,147.04,2.32,0.12
+Saint Petersburg,2017,Ñider,581.83,1.08,0.05
+Arkhangelsk Oblast,2017,Ñider,122.65,1.15,0.06
+Adygea,2017,Ñider,72.64,1.55,0.08
+Kalmykia,2017,Ñider,6.30,0.23,0.01
+Republic of Crimea,2017,Ñider,208.55,1.08,0.05
+Krasnodar Krai,2017,Ñider,393.54,0.70,0.03
+Astrakhan Oblast,2017,Ñider,101.60,1.01,0.05
+Volgograd Oblast,2017,Ñider,281.56,1.10,0.06
+Rostov Oblast,2017,Ñider,339.40,0.80,0.04
+Sevastopol,2017,Ñider,69.34,1.51,0.08
+Dagestan,2017,Ñider,3.20,0.01,0.00
+Ingushetia,2017,Ñider,0.00,0.00,0.00
+Kabardino-Balkaria,2017,Ñider,3.30,0.04,0.00
+Karachay-Cherkessia,2017,Ñider,1.80,0.04,0.00
+North Ossetia-Alania,2017,Ñider,1.26,0.02,0.00
+Chechnya,2017,Ñider,0.02,0.00,0.00
+Stavropol Krai,2017,Ñider,126.18,0.44,0.02
+Bashkortostan,2017,Ñider,214.12,0.52,0.03
+Mari El,2017,Ñider,48.78,0.71,0.04
+Mordovia,2017,Ñider,69.02,0.85,0.04
+Tatarstan,2017,Ñider,262.70,0.67,0.03
+Udmurtia,2017,Ñider,147.16,0.98,0.05
+Chuvashia,2017,Ñider,40.02,0.33,0.02
+Perm Krai,2017,Ñider,197.36,0.75,0.04
+Kirov Oblast,2017,Ñider,106.43,0.86,0.04
+Nizhny Novgorod Oblast,2017,Ñider,226.69,0.70,0.04
+Orenburg Oblast,2017,Ñider,130.06,0.67,0.03
+Penza Oblast,2017,Ñider,149.52,1.12,0.06
+Samara Oblast,2017,Ñider,316.70,0.98,0.05
+Saratov Oblast,2017,Ñider,262.78,1.04,0.05
+Ulyanovsk Oblast,2017,Ñider,127.72,1.02,0.05
+Kurgan Oblast,2017,Ñider,78.10,0.93,0.05
+Sverdlovsk Oblast,2017,Ñider,403.34,0.93,0.05
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Ñider,126.89,0.77,0.04
+Yamalo-Nenets Autonomous Okrug,2017,Ñider,32.28,0.63,0.03
+Chelyabinsk Oblast,2017,Ñider,232.13,0.66,0.03
+Tyumen Oblast,2017,Ñider,97.79,0.65,0.03
+Altai Republic,2017,Ñider,12.13,0.58,0.03
+Tuva,2017,Ñider,0.36,0.01,0.00
+Khakassia,2017,Ñider,12.71,0.24,0.01
+Altai Krai,2017,Ñider,122.93,0.53,0.03
+Krasnoyarsk Krai,2017,Ñider,70.17,0.24,0.01
+Irkutsk Oblast,2017,Ñider,84.25,0.35,0.02
+Kemerovo Oblast,2017,Ñider,108.13,0.40,0.02
+Novosibirsk Oblast,2017,Ñider,154.74,0.55,0.03
+Omsk Oblast,2017,Ñider,80.70,0.41,0.02
+Tomsk Oblast,2017,Ñider,38.03,0.35,0.02
+Buryatia,2017,Ñider,18.66,0.19,0.01
+Sakha (Yakutia),2017,Ñider,46.39,0.48,0.02
+Zabaykalsky Krai,2017,Ñider,32.17,0.30,0.02
+Kamchatka Krai,2017,Ñider,29.45,0.97,0.05
+Primorsky Krai,2017,Ñider,51.52,0.27,0.01
+Khabarovsk Krai,2017,Ñider,92.03,0.69,0.03
+Amur Oblast,2017,Ñider,53.52,0.67,0.03
+Magadan Oblast,2017,Ñider,11.55,0.80,0.04
+Sakhalin Oblast,2017,Ñider,24.11,0.51,0.03
+Jewish Autonomous Oblast,2017,Ñider,9.05,0.56,0.03
+Chukotka Autonomous Okrug,2017,Ñider,0.73,0.15,0.01
+Belgorod Oblast,2018,Ñider,102.14,0.66,0.03
+Bryansk Oblast,2018,Ñider,53.77,0.45,0.02
+Vladimir Oblast,2018,Ñider,99.65,0.72,0.04
+Voronezh Oblast,2018,Ñider,99.32,0.42,0.02
+Ivanovo Oblast,2018,Ñider,47.92,0.49,0.02
+Kaluga Oblast,2018,Ñider,54.32,0.52,0.03
+Kostroma Oblast,2018,Ñider,26.73,0.43,0.02
+Kursk Oblast,2018,Ñider,39.76,0.36,0.02
+Lipetsk Oblast,2018,Ñider,39.14,0.34,0.02
+Moscow Oblast,2018,Ñider,549.75,0.68,0.03
+Oryol Oblast,2018,Ñider,29.77,0.40,0.02
+Ryazan Oblast,2018,Ñider,65.76,0.58,0.03
+Smolensk Oblast,2018,Ñider,53.04,0.57,0.03
+Tambov Oblast,2018,Ñider,28.41,0.28,0.01
+Tver Oblast,2018,Ñider,85.07,0.66,0.03
+Tula Oblast,2018,Ñider,70.73,0.46,0.02
+Yaroslavl Oblast,2018,Ñider,62.02,0.50,0.02
+Moscow,2018,Ñider,967.90,0.76,0.04
+Republic of Karelia,2018,Ñider,47.27,0.83,0.04
+Komi Republic,2018,Ñider,35.80,0.45,0.02
+Nenets Autonomous Okrug,2018,Ñider,1.06,0.25,0.01
+Vologda Oblast,2018,Ñider,62.73,0.53,0.03
+Kaliningrad Oblast,2018,Ñider,135.10,1.36,0.07
+Leningrad Oblast,2018,Ñider,150.14,0.80,0.04
+Murmansk Oblast,2018,Ñider,50.12,0.70,0.04
+Novgorod Oblast,2018,Ñider,49.72,0.82,0.04
+Pskov Oblast,2018,Ñider,76.96,1.23,0.06
+Saint Petersburg,2018,Ñider,527.45,0.96,0.05
+Arkhangelsk Oblast,2018,Ñider,42.04,0.40,0.02
+Adygea,2018,Ñider,21.21,0.45,0.02
+Kalmykia,2018,Ñider,1.37,0.05,0.00
+Republic of Crimea,2018,Ñider,120.17,0.62,0.03
+Krasnodar Krai,2018,Ñider,163.77,0.29,0.01
+Astrakhan Oblast,2018,Ñider,22.40,0.22,0.01
+Volgograd Oblast,2018,Ñider,61.53,0.24,0.01
+Rostov Oblast,2018,Ñider,117.74,0.28,0.01
+Sevastopol,2018,Ñider,45.28,0.94,0.05
+Dagestan,2018,Ñider,0.01,0.00,0.00
+Ingushetia,2018,Ñider,0.00,0.00,0.00
+Kabardino-Balkaria,2018,Ñider,1.56,0.02,0.00
+Karachay-Cherkessia,2018,Ñider,0.75,0.02,0.00
+North Ossetia-Alania,2018,Ñider,0.97,0.01,0.00
+Chechnya,2018,Ñider,0.04,0.00,0.00
+Stavropol Krai,2018,Ñider,36.80,0.13,0.01
+Bashkortostan,2018,Ñider,95.79,0.23,0.01
+Mari El,2018,Ñider,17.46,0.25,0.01
+Mordovia,2018,Ñider,18.69,0.23,0.01
+Tatarstan,2018,Ñider,98.93,0.25,0.01
+Udmurtia,2018,Ñider,72.25,0.48,0.02
+Chuvashia,2018,Ñider,23.39,0.19,0.01
+Perm Krai,2018,Ñider,97.06,0.37,0.02
+Kirov Oblast,2018,Ñider,49.15,0.40,0.02
+Nizhny Novgorod Oblast,2018,Ñider,176.04,0.55,0.03
+Orenburg Oblast,2018,Ñider,44.20,0.23,0.01
+Penza Oblast,2018,Ñider,64.53,0.49,0.02
+Samara Oblast,2018,Ñider,131.98,0.41,0.02
+Saratov Oblast,2018,Ñider,70.62,0.28,0.01
+Ulyanovsk Oblast,2018,Ñider,41.60,0.34,0.02
+Kurgan Oblast,2018,Ñider,35.83,0.43,0.02
+Sverdlovsk Oblast,2018,Ñider,178.80,0.41,0.02
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Ñider,59.80,0.36,0.02
+Yamalo-Nenets Autonomous Okrug,2018,Ñider,18.26,0.36,0.02
+Chelyabinsk Oblast,2018,Ñider,121.72,0.35,0.02
+Tyumen Oblast,2018,Ñider,69.88,0.46,0.02
+Altai Republic,2018,Ñider,2.42,0.11,0.01
+Tuva,2018,Ñider,0.62,0.02,0.00
+Khakassia,2018,Ñider,7.65,0.14,0.01
+Altai Krai,2018,Ñider,32.38,0.14,0.01
+Krasnoyarsk Krai,2018,Ñider,56.71,0.20,0.01
+Irkutsk Oblast,2018,Ñider,76.28,0.32,0.02
+Kemerovo Oblast,2018,Ñider,56.95,0.21,0.01
+Novosibirsk Oblast,2018,Ñider,127.45,0.46,0.02
+Omsk Oblast,2018,Ñider,48.47,0.25,0.01
+Tomsk Oblast,2018,Ñider,25.95,0.24,0.01
+Buryatia,2018,Ñider,22.14,0.23,0.01
+Sakha (Yakutia),2018,Ñider,21.23,0.22,0.01
+Zabaykalsky Krai,2018,Ñider,25.30,0.24,0.01
+Kamchatka Krai,2018,Ñider,13.56,0.45,0.02
+Primorsky Krai,2018,Ñider,393.09,2.07,0.10
+Khabarovsk Krai,2018,Ñider,99.80,0.75,0.04
+Amur Oblast,2018,Ñider,63.69,0.80,0.04
+Magadan Oblast,2018,Ñider,6.04,0.42,0.02
+Sakhalin Oblast,2018,Ñider,12.72,0.27,0.01
+Jewish Autonomous Oblast,2018,Ñider,4.53,0.28,0.01
+Chukotka Autonomous Okrug,2018,Ñider,0.54,0.11,0.01
+Belgorod Oblast,2019,Ñider,97.93,0.63,0.03
+Bryansk Oblast,2019,Ñider,51.36,0.43,0.02
+Vladimir Oblast,2019,Ñider,80.68,0.58,0.03
+Voronezh Oblast,2019,Ñider,99.12,0.42,0.02
+Ivanovo Oblast,2019,Ñider,35.03,0.36,0.02
+Kaluga Oblast,2019,Ñider,50.80,0.48,0.02
+Kostroma Oblast,2019,Ñider,16.89,0.28,0.01
+Kursk Oblast,2019,Ñider,38.98,0.35,0.02
+Lipetsk Oblast,2019,Ñider,39.84,0.34,0.02
+Moscow Oblast,2019,Ñider,557.79,0.68,0.03
+Oryol Oblast,2019,Ñider,29.34,0.40,0.02
+Ryazan Oblast,2019,Ñider,64.81,0.58,0.03
+Smolensk Oblast,2019,Ñider,47.57,0.51,0.03
+Tambov Oblast,2019,Ñider,31.03,0.31,0.02
+Tver Oblast,2019,Ñider,63.39,0.50,0.03
+Tula Oblast,2019,Ñider,73.59,0.48,0.02
+Yaroslavl Oblast,2019,Ñider,63.79,0.51,0.03
+Moscow,2019,Ñider,1007.20,0.79,0.04
+Republic of Karelia,2019,Ñider,49.87,0.89,0.04
+Komi Republic,2019,Ñider,30.34,0.39,0.02
+Nenets Autonomous Okrug,2019,Ñider,1.06,0.25,0.01
+Vologda Oblast,2019,Ñider,51.13,0.44,0.02
+Kaliningrad Oblast,2019,Ñider,105.65,1.05,0.05
+Leningrad Oblast,2019,Ñider,156.52,0.82,0.04
+Murmansk Oblast,2019,Ñider,48.93,0.70,0.03
+Novgorod Oblast,2019,Ñider,36.21,0.61,0.03
+Pskov Oblast,2019,Ñider,49.53,0.80,0.04
+Saint Petersburg,2019,Ñider,660.08,1.19,0.06
+Arkhangelsk Oblast,2019,Ñider,40.38,0.39,0.02
+Adygea,2019,Ñider,20.75,0.44,0.02
+Kalmykia,2019,Ñider,1.27,0.05,0.00
+Republic of Crimea,2019,Ñider,126.37,0.65,0.03
+Krasnodar Krai,2019,Ñider,167.05,0.29,0.01
+Astrakhan Oblast,2019,Ñider,19.91,0.20,0.01
+Volgograd Oblast,2019,Ñider,52.64,0.21,0.01
+Rostov Oblast,2019,Ñider,128.94,0.30,0.02
+Sevastopol,2019,Ñider,40.22,0.81,0.04
+Dagestan,2019,Ñider,0.00,0.00,0.00
+Ingushetia,2019,Ñider,0.00,0.00,0.00
+Kabardino-Balkaria,2019,Ñider,1.46,0.02,0.00
+Karachay-Cherkessia,2019,Ñider,0.98,0.02,0.00
+North Ossetia-Alania,2019,Ñider,2.24,0.03,0.00
+Chechnya,2019,Ñider,0.14,0.00,0.00
+Stavropol Krai,2019,Ñider,28.74,0.10,0.00
+Bashkortostan,2019,Ñider,89.81,0.22,0.01
+Mari El,2019,Ñider,16.73,0.24,0.01
+Mordovia,2019,Ñider,17.09,0.21,0.01
+Tatarstan,2019,Ñider,106.69,0.27,0.01
+Udmurtia,2019,Ñider,69.64,0.47,0.02
+Chuvashia,2019,Ñider,22.17,0.18,0.01
+Perm Krai,2019,Ñider,100.91,0.39,0.02
+Kirov Oblast,2019,Ñider,37.37,0.31,0.02
+Nizhny Novgorod Oblast,2019,Ñider,181.67,0.57,0.03
+Orenburg Oblast,2019,Ñider,32.20,0.17,0.01
+Penza Oblast,2019,Ñider,42.83,0.33,0.02
+Samara Oblast,2019,Ñider,128.26,0.40,0.02
+Saratov Oblast,2019,Ñider,70.71,0.28,0.01
+Ulyanovsk Oblast,2019,Ñider,39.01,0.32,0.02
+Kurgan Oblast,2019,Ñider,16.99,0.21,0.01
+Sverdlovsk Oblast,2019,Ñider,182.64,0.42,0.02
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Ñider,63.14,0.38,0.02
+Yamalo-Nenets Autonomous Okrug,2019,Ñider,20.36,0.40,0.02
+Chelyabinsk Oblast,2019,Ñider,129.36,0.37,0.02
+Tyumen Oblast,2019,Ñider,77.64,0.50,0.02
+Altai Republic,2019,Ñider,2.11,0.10,0.00
+Tuva,2019,Ñider,1.05,0.03,0.00
+Khakassia,2019,Ñider,7.27,0.13,0.01
+Altai Krai,2019,Ñider,37.24,0.17,0.01
+Krasnoyarsk Krai,2019,Ñider,63.02,0.22,0.01
+Irkutsk Oblast,2019,Ñider,93.16,0.39,0.02
+Kemerovo Oblast,2019,Ñider,68.07,0.26,0.01
+Novosibirsk Oblast,2019,Ñider,241.57,0.86,0.04
+Omsk Oblast,2019,Ñider,48.93,0.25,0.01
+Tomsk Oblast,2019,Ñider,24.61,0.23,0.01
+Buryatia,2019,Ñider,26.96,0.28,0.01
+Sakha (Yakutia),2019,Ñider,20.44,0.21,0.01
+Zabaykalsky Krai,2019,Ñider,17.32,0.17,0.01
+Kamchatka Krai,2019,Ñider,18.45,0.62,0.03
+Primorsky Krai,2019,Ñider,94.37,0.50,0.03
+Khabarovsk Krai,2019,Ñider,108.42,0.82,0.04
+Amur Oblast,2019,Ñider,50.94,0.65,0.03
+Magadan Oblast,2019,Ñider,3.88,0.28,0.01
+Sakhalin Oblast,2019,Ñider,23.21,0.49,0.02
+Jewish Autonomous Oblast,2019,Ñider,6.34,0.40,0.02
+Chukotka Autonomous Okrug,2019,Ñider,0.25,0.05,0.00
+Belgorod Oblast,2020,Ñider,135.95,0.88,0.04
+Bryansk Oblast,2020,Ñider,54.48,0.46,0.02
+Vladimir Oblast,2020,Ñider,74.28,0.54,0.03
+Voronezh Oblast,2020,Ñider,123.04,0.53,0.03
+Ivanovo Oblast,2020,Ñider,39.51,0.41,0.02
+Kaluga Oblast,2020,Ñider,56.83,0.54,0.03
+Kostroma Oblast,2020,Ñider,19.27,0.32,0.02
+Kursk Oblast,2020,Ñider,46.59,0.42,0.02
+Lipetsk Oblast,2020,Ñider,53.17,0.46,0.02
+Moscow Oblast,2020,Ñider,659.47,0.79,0.04
+Oryol Oblast,2020,Ñider,34.68,0.47,0.02
+Ryazan Oblast,2020,Ñider,74.60,0.67,0.03
+Smolensk Oblast,2020,Ñider,42.29,0.46,0.02
+Tambov Oblast,2020,Ñider,33.72,0.34,0.02
+Tver Oblast,2020,Ñider,71.76,0.57,0.03
+Tula Oblast,2020,Ñider,79.82,0.53,0.03
+Yaroslavl Oblast,2020,Ñider,76.22,0.62,0.03
+Moscow,2020,Ñider,964.56,0.75,0.04
+Republic of Karelia,2020,Ñider,50.89,0.92,0.05
+Komi Republic,2020,Ñider,34.35,0.45,0.02
+Nenets Autonomous Okrug,2020,Ñider,1.38,0.33,0.02
+Vologda Oblast,2020,Ñider,56.55,0.49,0.02
+Kaliningrad Oblast,2020,Ñider,181.22,1.78,0.09
+Leningrad Oblast,2020,Ñider,196.04,1.00,0.05
+Murmansk Oblast,2020,Ñider,59.47,0.86,0.04
+Novgorod Oblast,2020,Ñider,36.76,0.62,0.03
+Pskov Oblast,2020,Ñider,43.93,0.72,0.04
+Saint Petersburg,2020,Ñider,696.36,1.25,0.06
+Arkhangelsk Oblast,2020,Ñider,56.44,0.56,0.03
+Adygea,2020,Ñider,25.10,0.51,0.03
+Kalmykia,2020,Ñider,2.05,0.08,0.00
+Republic of Crimea,2020,Ñider,120.42,0.62,0.03
+Krasnodar Krai,2020,Ñider,206.07,0.36,0.02
+Astrakhan Oblast,2020,Ñider,23.28,0.24,0.01
+Volgograd Oblast,2020,Ñider,62.48,0.25,0.01
+Rostov Oblast,2020,Ñider,147.45,0.35,0.02
+Sevastopol,2020,Ñider,29.06,0.56,0.03
+Dagestan,2020,Ñider,1.33,0.00,0.00
+Ingushetia,2020,Ñider,0.00,0.00,0.00
+Kabardino-Balkaria,2020,Ñider,1.53,0.02,0.00
+Karachay-Cherkessia,2020,Ñider,1.02,0.02,0.00
+North Ossetia-Alania,2020,Ñider,1.77,0.03,0.00
+Chechnya,2020,Ñider,0.25,0.00,0.00
+Stavropol Krai,2020,Ñider,43.99,0.15,0.01
+Bashkortostan,2020,Ñider,104.01,0.25,0.01
+Mari El,2020,Ñider,17.90,0.26,0.01
+Mordovia,2020,Ñider,20.54,0.26,0.01
+Tatarstan,2020,Ñider,119.74,0.30,0.01
+Udmurtia,2020,Ñider,98.34,0.67,0.03
+Chuvashia,2020,Ñider,30.37,0.25,0.01
+Perm Krai,2020,Ñider,108.23,0.42,0.02
+Kirov Oblast,2020,Ñider,41.56,0.35,0.02
+Nizhny Novgorod Oblast,2020,Ñider,237.35,0.75,0.04
+Orenburg Oblast,2020,Ñider,37.94,0.20,0.01
+Penza Oblast,2020,Ñider,45.96,0.36,0.02
+Samara Oblast,2020,Ñider,156.83,0.49,0.02
+Saratov Oblast,2020,Ñider,87.51,0.35,0.02
+Ulyanovsk Oblast,2020,Ñider,35.27,0.29,0.01
+Kurgan Oblast,2020,Ñider,20.18,0.25,0.01
+Sverdlovsk Oblast,2020,Ñider,218.93,0.51,0.03
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Ñider,101.91,0.61,0.03
+Yamalo-Nenets Autonomous Okrug,2020,Ñider,24.24,0.48,0.02
+Chelyabinsk Oblast,2020,Ñider,167.82,0.48,0.02
+Tyumen Oblast,2020,Ñider,100.04,0.63,0.03
+Altai Republic,2020,Ñider,2.12,0.10,0.01
+Tuva,2020,Ñider,0.39,0.01,0.00
+Khakassia,2020,Ñider,9.31,0.17,0.01
+Altai Krai,2020,Ñider,35.24,0.16,0.01
+Krasnoyarsk Krai,2020,Ñider,68.76,0.24,0.01
+Irkutsk Oblast,2020,Ñider,98.19,0.41,0.02
+Kemerovo Oblast,2020,Ñider,80.38,0.30,0.02
+Novosibirsk Oblast,2020,Ñider,150.83,0.54,0.03
+Omsk Oblast,2020,Ñider,69.67,0.37,0.02
+Tomsk Oblast,2020,Ñider,33.11,0.31,0.02
+Buryatia,2020,Ñider,26.52,0.27,0.01
+Sakha (Yakutia),2020,Ñider,23.60,0.24,0.01
+Zabaykalsky Krai,2020,Ñider,14.18,0.14,0.01
+Kamchatka Krai,2020,Ñider,23.29,0.79,0.04
+Primorsky Krai,2020,Ñider,113.89,0.61,0.03
+Khabarovsk Krai,2020,Ñider,113.52,0.87,0.04
+Amur Oblast,2020,Ñider,43.21,0.55,0.03
+Magadan Oblast,2020,Ñider,3.56,0.26,0.01
+Sakhalin Oblast,2020,Ñider,28.67,0.61,0.03
+Jewish Autonomous Oblast,2020,Ñider,10.27,0.66,0.03
+Chukotka Autonomous Okrug,2020,Ñider,1.03,0.21,0.01
+Belgorod Oblast,2021,Ñider,141.24,0.91,0.05
+Bryansk Oblast,2021,Ñider,54.62,0.46,0.02
+Vladimir Oblast,2021,Ñider,80.18,0.59,0.03
+Voronezh Oblast,2021,Ñider,123.02,0.53,0.03
+Ivanovo Oblast,2021,Ñider,38.47,0.41,0.02
+Kaluga Oblast,2021,Ñider,59.82,0.57,0.03
+Kostroma Oblast,2021,Ñider,19.41,0.33,0.02
+Kursk Oblast,2021,Ñider,35.49,0.33,0.02
+Lipetsk Oblast,2021,Ñider,49.21,0.43,0.02
+Moscow Oblast,2021,Ñider,710.58,0.84,0.04
+Oryol Oblast,2021,Ñider,32.01,0.44,0.02
+Ryazan Oblast,2021,Ñider,89.80,0.81,0.04
+Smolensk Oblast,2021,Ñider,44.82,0.50,0.02
+Tambov Oblast,2021,Ñider,37.94,0.38,0.02
+Tver Oblast,2021,Ñider,67.93,0.55,0.03
+Tula Oblast,2021,Ñider,85.68,0.57,0.03
+Yaroslavl Oblast,2021,Ñider,82.47,0.68,0.03
+Moscow,2021,Ñider,2272.12,1.75,0.09
+Republic of Karelia,2021,Ñider,55.02,1.02,0.05
+Komi Republic,2021,Ñider,37.61,0.50,0.03
+Nenets Autonomous Okrug,2021,Ñider,2.59,0.62,0.03
+Vologda Oblast,2021,Ñider,61.70,0.54,0.03
+Kaliningrad Oblast,2021,Ñider,159.87,1.56,0.08
+Leningrad Oblast,2021,Ñider,219.04,1.11,0.06
+Murmansk Oblast,2021,Ñider,67.60,1.00,0.05
+Novgorod Oblast,2021,Ñider,53.56,0.91,0.05
+Pskov Oblast,2021,Ñider,41.12,0.68,0.03
+Saint Petersburg,2021,Ñider,691.08,1.24,0.06
+Arkhangelsk Oblast,2021,Ñider,68.83,0.69,0.03
+Adygea,2021,Ñider,19.70,0.40,0.02
+Kalmykia,2021,Ñider,1.47,0.05,0.00
+Republic of Crimea,2021,Ñider,145.12,0.75,0.04
+Krasnodar Krai,2021,Ñider,257.69,0.44,0.02
+Astrakhan Oblast,2021,Ñider,18.37,0.19,0.01
+Volgograd Oblast,2021,Ñider,53.48,0.21,0.01
+Rostov Oblast,2021,Ñider,156.50,0.37,0.02
+Sevastopol,2021,Ñider,32.78,0.62,0.03
+Dagestan,2021,Ñider,1.19,0.00,0.00
+Ingushetia,2021,Ñider,0.03,0.00,0.00
+Kabardino-Balkaria,2021,Ñider,2.99,0.03,0.00
+Karachay-Cherkessia,2021,Ñider,1.61,0.03,0.00
+North Ossetia-Alania,2021,Ñider,2.85,0.04,0.00
+Chechnya,2021,Ñider,2.29,0.02,0.00
+Stavropol Krai,2021,Ñider,60.16,0.21,0.01
+Bashkortostan,2021,Ñider,265.55,0.65,0.03
+Mari El,2021,Ñider,19.23,0.28,0.01
+Mordovia,2021,Ñider,19.96,0.25,0.01
+Tatarstan,2021,Ñider,138.84,0.35,0.02
+Udmurtia,2021,Ñider,56.00,0.38,0.02
+Chuvashia,2021,Ñider,25.86,0.22,0.01
+Perm Krai,2021,Ñider,105.15,0.41,0.02
+Kirov Oblast,2021,Ñider,38.02,0.32,0.02
+Nizhny Novgorod Oblast,2021,Ñider,248.92,0.79,0.04
+Orenburg Oblast,2021,Ñider,37.17,0.20,0.01
+Penza Oblast,2021,Ñider,43.73,0.34,0.02
+Samara Oblast,2021,Ñider,145.34,0.46,0.02
+Saratov Oblast,2021,Ñider,80.17,0.33,0.02
+Ulyanovsk Oblast,2021,Ñider,43.99,0.36,0.02
+Kurgan Oblast,2021,Ñider,16.73,0.21,0.01
+Sverdlovsk Oblast,2021,Ñider,202.98,0.47,0.02
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Ñider,78.55,0.46,0.02
+Yamalo-Nenets Autonomous Okrug,2021,Ñider,21.48,0.42,0.02
+Chelyabinsk Oblast,2021,Ñider,135.22,0.39,0.02
+Tyumen Oblast,2021,Ñider,123.25,0.78,0.04
+Altai Republic,2021,Ñider,3.73,0.18,0.01
+Tuva,2021,Ñider,1.23,0.04,0.00
+Khakassia,2021,Ñider,8.78,0.16,0.01
+Altai Krai,2021,Ñider,49.09,0.22,0.01
+Krasnoyarsk Krai,2021,Ñider,77.70,0.27,0.01
+Irkutsk Oblast,2021,Ñider,99.19,0.42,0.02
+Kemerovo Oblast,2021,Ñider,92.71,0.35,0.02
+Novosibirsk Oblast,2021,Ñider,198.54,0.71,0.04
+Omsk Oblast,2021,Ñider,74.56,0.40,0.02
+Tomsk Oblast,2021,Ñider,50.09,0.47,0.02
+Buryatia,2021,Ñider,26.61,0.27,0.01
+Sakha (Yakutia),2021,Ñider,42.09,0.43,0.02
+Zabaykalsky Krai,2021,Ñider,18.76,0.18,0.01
+Kamchatka Krai,2021,Ñider,20.45,0.70,0.03
+Primorsky Krai,2021,Ñider,145.73,0.78,0.04
+Khabarovsk Krai,2021,Ñider,110.19,0.85,0.04
+Amur Oblast,2021,Ñider,40.02,0.52,0.03
+Magadan Oblast,2021,Ñider,4.55,0.33,0.02
+Sakhalin Oblast,2021,Ñider,33.88,0.72,0.04
+Jewish Autonomous Oblast,2021,Ñider,9.65,0.63,0.03
+Chukotka Autonomous Okrug,2021,Ñider,0.83,0.17,0.01
+Belgorod Oblast,2022,Ñider,158.84,1.03,0.05
+Bryansk Oblast,2022,Ñider,53.47,0.46,0.02
+Vladimir Oblast,2022,Ñider,82.38,0.61,0.03
+Voronezh Oblast,2022,Ñider,123.35,0.54,0.03
+Ivanovo Oblast,2022,Ñider,40.32,0.44,0.02
+Kaluga Oblast,2022,Ñider,62.10,0.58,0.03
+Kostroma Oblast,2022,Ñider,23.49,0.41,0.02
+Kursk Oblast,2022,Ñider,42.40,0.39,0.02
+Lipetsk Oblast,2022,Ñider,46.00,0.40,0.02
+Moscow Oblast,2022,Ñider,795.19,0.93,0.05
+Oryol Oblast,2022,Ñider,31.47,0.44,0.02
+Ryazan Oblast,2022,Ñider,81.32,0.74,0.04
+Smolensk Oblast,2022,Ñider,45.77,0.52,0.03
+Tambov Oblast,2022,Ñider,30.17,0.31,0.02
+Tver Oblast,2022,Ñider,68.23,0.56,0.03
+Tula Oblast,2022,Ñider,79.27,0.53,0.03
+Yaroslavl Oblast,2022,Ñider,88.88,0.74,0.04
+Moscow,2022,Ñider,1052.54,0.81,0.04
+Republic of Karelia,2022,Ñider,51.68,0.97,0.05
+Komi Republic,2022,Ñider,41.97,0.57,0.03
+Nenets Autonomous Okrug,2022,Ñider,2.22,0.54,0.03
+Vologda Oblast,2022,Ñider,59.03,0.52,0.03
+Kaliningrad Oblast,2022,Ñider,141.05,1.37,0.07
+Leningrad Oblast,2022,Ñider,233.69,1.16,0.06
+Murmansk Oblast,2022,Ñider,67.03,1.01,0.05
+Novgorod Oblast,2022,Ñider,47.11,0.81,0.04
+Pskov Oblast,2022,Ñider,86.84,1.45,0.07
+Saint Petersburg,2022,Ñider,679.37,1.21,0.06
+Arkhangelsk Oblast,2022,Ñider,65.97,0.68,0.03
+Adygea,2022,Ñider,15.57,0.31,0.02
+Kalmykia,2022,Ñider,2.97,0.11,0.01
+Republic of Crimea,2022,Ñider,146.09,0.76,0.04
+Krasnodar Krai,2022,Ñider,290.07,0.50,0.02
+Astrakhan Oblast,2022,Ñider,19.13,0.20,0.01
+Volgograd Oblast,2022,Ñider,66.98,0.27,0.01
+Rostov Oblast,2022,Ñider,157.20,0.37,0.02
+Sevastopol,2022,Ñider,38.12,0.70,0.03
+Dagestan,2022,Ñider,5.07,0.02,0.00
+Ingushetia,2022,Ñider,0.05,0.00,0.00
+Kabardino-Balkaria,2022,Ñider,1.70,0.02,0.00
+Karachay-Cherkessia,2022,Ñider,1.69,0.04,0.00
+North Ossetia-Alania,2022,Ñider,2.78,0.04,0.00
+Chechnya,2022,Ñider,2.77,0.02,0.00
+Stavropol Krai,2022,Ñider,47.50,0.16,0.01
+Bashkortostan,2022,Ñider,118.57,0.29,0.01
+Mari El,2022,Ñider,26.38,0.39,0.02
+Mordovia,2022,Ñider,24.94,0.32,0.02
+Tatarstan,2022,Ñider,179.45,0.45,0.02
+Udmurtia,2022,Ñider,62.44,0.43,0.02
+Chuvashia,2022,Ñider,35.51,0.30,0.01
+Perm Krai,2022,Ñider,114.82,0.45,0.02
+Kirov Oblast,2022,Ñider,43.45,0.38,0.02
+Nizhny Novgorod Oblast,2022,Ñider,260.65,0.84,0.04
+Orenburg Oblast,2022,Ñider,44.56,0.24,0.01
+Penza Oblast,2022,Ñider,46.40,0.37,0.02
+Samara Oblast,2022,Ñider,140.12,0.44,0.02
+Saratov Oblast,2022,Ñider,89.41,0.37,0.02
+Ulyanovsk Oblast,2022,Ñider,66.36,0.56,0.03
+Kurgan Oblast,2022,Ñider,20.61,0.27,0.01
+Sverdlovsk Oblast,2022,Ñider,238.40,0.56,0.03
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Ñider,96.63,0.56,0.03
+Yamalo-Nenets Autonomous Okrug,2022,Ñider,23.96,0.47,0.02
+Chelyabinsk Oblast,2022,Ñider,165.65,0.48,0.02
+Tyumen Oblast,2022,Ñider,155.96,0.97,0.05
+Altai Republic,2022,Ñider,5.44,0.26,0.01
+Tuva,2022,Ñider,1.93,0.06,0.00
+Khakassia,2022,Ñider,11.73,0.22,0.01
+Altai Krai,2022,Ñider,62.21,0.29,0.01
+Krasnoyarsk Krai,2022,Ñider,89.65,0.31,0.02
+Irkutsk Oblast,2022,Ñider,100.55,0.43,0.02
+Kemerovo Oblast,2022,Ñider,107.19,0.41,0.02
+Novosibirsk Oblast,2022,Ñider,224.38,0.80,0.04
+Omsk Oblast,2022,Ñider,81.15,0.44,0.02
+Tomsk Oblast,2022,Ñider,59.86,0.56,0.03
+Buryatia,2022,Ñider,26.88,0.27,0.01
+Sakha (Yakutia),2022,Ñider,56.76,0.57,0.03
+Zabaykalsky Krai,2022,Ñider,20.66,0.21,0.01
+Kamchatka Krai,2022,Ñider,31.25,1.07,0.05
+Primorsky Krai,2022,Ñider,180.31,0.98,0.05
+Khabarovsk Krai,2022,Ñider,110.54,0.86,0.04
+Amur Oblast,2022,Ñider,37.75,0.49,0.02
+Magadan Oblast,2022,Ñider,6.81,0.50,0.03
+Sakhalin Oblast,2022,Ñider,47.32,1.02,0.05
+Jewish Autonomous Oblast,2022,Ñider,8.54,0.57,0.03
+Chukotka Autonomous Okrug,2022,Ñider,0.79,0.16,0.01
+Belgorod Oblast,2023,Ñider,181.98,1.20,0.06
+Bryansk Oblast,2023,Ñider,57.69,0.50,0.03
+Vladimir Oblast,2023,Ñider,118.62,0.89,0.04
+Voronezh Oblast,2023,Ñider,155.86,0.68,0.03
+Ivanovo Oblast,2023,Ñider,46.20,0.51,0.03
+Kaluga Oblast,2023,Ñider,75.11,0.70,0.04
+Kostroma Oblast,2023,Ñider,25.69,0.45,0.02
+Kursk Oblast,2023,Ñider,53.42,0.50,0.03
+Lipetsk Oblast,2023,Ñider,65.05,0.58,0.03
+Moscow Oblast,2023,Ñider,889.66,1.04,0.05
+Oryol Oblast,2023,Ñider,34.48,0.49,0.02
+Ryazan Oblast,2023,Ñider,96.34,0.88,0.04
+Smolensk Oblast,2023,Ñider,50.24,0.58,0.03
+Tambov Oblast,2023,Ñider,37.43,0.39,0.02
+Tver Oblast,2023,Ñider,77.22,0.64,0.03
+Tula Oblast,2023,Ñider,117.52,0.79,0.04
+Yaroslavl Oblast,2023,Ñider,115.68,0.97,0.05
+Moscow,2023,Ñider,1307.33,1.00,0.05
+Republic of Karelia,2023,Ñider,54.02,1.02,0.05
+Komi Republic,2023,Ñider,53.25,0.73,0.04
+Nenets Autonomous Okrug,2023,Ñider,1.60,0.39,0.02
+Vologda Oblast,2023,Ñider,61.95,0.55,0.03
+Kaliningrad Oblast,2023,Ñider,150.25,1.46,0.07
+Leningrad Oblast,2023,Ñider,327.91,1.62,0.08
+Murmansk Oblast,2023,Ñider,73.88,1.12,0.06
+Novgorod Oblast,2023,Ñider,55.13,0.96,0.05
+Pskov Oblast,2023,Ñider,70.35,1.20,0.06
+Saint Petersburg,2023,Ñider,842.81,1.51,0.08
+Arkhangelsk Oblast,2023,Ñider,81.74,0.85,0.04
+Adygea,2023,Ñider,21.08,0.42,0.02
+Kalmykia,2023,Ñider,16.08,0.61,0.03
+Republic of Crimea,2023,Ñider,147.74,0.77,0.04
+Krasnodar Krai,2023,Ñider,401.66,0.69,0.03
+Astrakhan Oblast,2023,Ñider,22.28,0.23,0.01
+Volgograd Oblast,2023,Ñider,86.38,0.35,0.02
+Rostov Oblast,2023,Ñider,264.94,0.64,0.03
+Sevastopol,2023,Ñider,31.95,0.57,0.03
+Dagestan,2023,Ñider,40.73,0.13,0.01
+Ingushetia,2023,Ñider,0.05,0.00,0.00
+Kabardino-Balkaria,2023,Ñider,2.12,0.02,0.00
+Karachay-Cherkessia,2023,Ñider,2.00,0.04,0.00
+North Ossetia-Alania,2023,Ñider,4.64,0.07,0.00
+Chechnya,2023,Ñider,4.06,0.03,0.00
+Stavropol Krai,2023,Ñider,59.02,0.20,0.01
+Bashkortostan,2023,Ñider,137.12,0.34,0.02
+Mari El,2023,Ñider,28.17,0.42,0.02
+Mordovia,2023,Ñider,25.06,0.32,0.02
+Tatarstan,2023,Ñider,190.67,0.48,0.02
+Udmurtia,2023,Ñider,66.87,0.46,0.02
+Chuvashia,2023,Ñider,36.40,0.31,0.02
+Perm Krai,2023,Ñider,136.16,0.54,0.03
+Kirov Oblast,2023,Ñider,48.26,0.42,0.02
+Nizhny Novgorod Oblast,2023,Ñider,271.54,0.88,0.04
+Orenburg Oblast,2023,Ñider,56.32,0.31,0.02
+Penza Oblast,2023,Ñider,45.64,0.37,0.02
+Samara Oblast,2023,Ñider,154.67,0.49,0.02
+Saratov Oblast,2023,Ñider,114.85,0.48,0.02
+Ulyanovsk Oblast,2023,Ñider,51.70,0.44,0.02
+Kurgan Oblast,2023,Ñider,26.80,0.35,0.02
+Sverdlovsk Oblast,2023,Ñider,309.86,0.73,0.04
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Ñider,126.97,0.73,0.04
+Yamalo-Nenets Autonomous Okrug,2023,Ñider,25.94,0.51,0.03
+Chelyabinsk Oblast,2023,Ñider,196.31,0.58,0.03
+Tyumen Oblast,2023,Ñider,172.32,1.07,0.05
+Altai Republic,2023,Ñider,5.65,0.27,0.01
+Tuva,2023,Ñider,1.75,0.05,0.00
+Khakassia,2023,Ñider,13.97,0.26,0.01
+Altai Krai,2023,Ñider,67.49,0.32,0.02
+Krasnoyarsk Krai,2023,Ñider,112.24,0.39,0.02
+Irkutsk Oblast,2023,Ñider,104.70,0.45,0.02
+Kemerovo Oblast,2023,Ñider,125.58,0.49,0.02
+Novosibirsk Oblast,2023,Ñider,253.05,0.91,0.05
+Omsk Oblast,2023,Ñider,85.52,0.47,0.02
+Tomsk Oblast,2023,Ñider,72.10,0.69,0.03
+Buryatia,2023,Ñider,24.39,0.25,0.01
+Sakha (Yakutia),2023,Ñider,67.31,0.67,0.03
+Zabaykalsky Krai,2023,Ñider,19.67,0.20,0.01
+Kamchatka Krai,2023,Ñider,24.33,0.84,0.04
+Primorsky Krai,2023,Ñider,187.80,1.03,0.05
+Khabarovsk Krai,2023,Ñider,156.91,1.22,0.06
+Amur Oblast,2023,Ñider,37.01,0.49,0.02
+Magadan Oblast,2023,Ñider,6.68,0.50,0.02
+Sakhalin Oblast,2023,Ñider,44.57,0.97,0.05
+Jewish Autonomous Oblast,2023,Ñider,9.19,0.62,0.03
+Chukotka Autonomous Okrug,2023,Ñider,1.43,0.30,0.01
+Belgorod Oblast,2017,Liqueurs,21.63,0.14,0.06
+Bryansk Oblast,2017,Liqueurs,84.56,0.69,0.28
+Vladimir Oblast,2017,Liqueurs,75.63,0.54,0.22
+Voronezh Oblast,2017,Liqueurs,75.90,0.32,0.13
+Ivanovo Oblast,2017,Liqueurs,61.06,0.61,0.25
+Kaluga Oblast,2017,Liqueurs,64.09,0.61,0.24
+Kostroma Oblast,2017,Liqueurs,38.79,0.62,0.25
+Kursk Oblast,2017,Liqueurs,29.76,0.27,0.11
+Lipetsk Oblast,2017,Liqueurs,41.03,0.35,0.14
+Moscow Oblast,2017,Liqueurs,490.84,0.62,0.25
+Oryol Oblast,2017,Liqueurs,22.26,0.30,0.12
+Ryazan Oblast,2017,Liqueurs,44.48,0.39,0.16
+Smolensk Oblast,2017,Liqueurs,42.98,0.46,0.18
+Tambov Oblast,2017,Liqueurs,28.30,0.27,0.11
+Tver Oblast,2017,Liqueurs,85.02,0.66,0.26
+Tula Oblast,2017,Liqueurs,66.35,0.43,0.17
+Yaroslavl Oblast,2017,Liqueurs,67.64,0.54,0.21
+Moscow,2017,Liqueurs,497.91,0.40,0.16
+Republic of Karelia,2017,Liqueurs,54.27,0.93,0.37
+Komi Republic,2017,Liqueurs,54.58,0.67,0.27
+Nenets Autonomous Okrug,2017,Liqueurs,1.31,0.31,0.12
+Vologda Oblast,2017,Liqueurs,80.81,0.68,0.27
+Kaliningrad Oblast,2017,Liqueurs,36.54,0.37,0.15
+Leningrad Oblast,2017,Liqueurs,128.09,0.70,0.28
+Murmansk Oblast,2017,Liqueurs,50.55,0.70,0.28
+Novgorod Oblast,2017,Liqueurs,34.94,0.57,0.23
+Pskov Oblast,2017,Liqueurs,27.95,0.44,0.18
+Saint Petersburg,2017,Liqueurs,265.91,0.49,0.20
+Arkhangelsk Oblast,2017,Liqueurs,71.07,0.67,0.27
+Adygea,2017,Liqueurs,9.84,0.21,0.08
+Kalmykia,2017,Liqueurs,1.88,0.07,0.03
+Republic of Crimea,2017,Liqueurs,29.50,0.15,0.06
+Krasnodar Krai,2017,Liqueurs,114.38,0.20,0.08
+Astrakhan Oblast,2017,Liqueurs,18.98,0.19,0.08
+Volgograd Oblast,2017,Liqueurs,58.88,0.23,0.09
+Rostov Oblast,2017,Liqueurs,75.34,0.18,0.07
+Sevastopol,2017,Liqueurs,11.68,0.25,0.10
+Dagestan,2017,Liqueurs,2.52,0.01,0.00
+Ingushetia,2017,Liqueurs,0.05,0.00,0.00
+Kabardino-Balkaria,2017,Liqueurs,1.29,0.01,0.01
+Karachay-Cherkessia,2017,Liqueurs,2.48,0.05,0.02
+North Ossetia-Alania,2017,Liqueurs,0.86,0.01,0.00
+Chechnya,2017,Liqueurs,0.30,0.00,0.00
+Stavropol Krai,2017,Liqueurs,46.26,0.16,0.06
+Bashkortostan,2017,Liqueurs,253.83,0.62,0.25
+Mari El,2017,Liqueurs,35.42,0.52,0.21
+Mordovia,2017,Liqueurs,22.52,0.28,0.11
+Tatarstan,2017,Liqueurs,203.94,0.52,0.21
+Udmurtia,2017,Liqueurs,71.21,0.48,0.19
+Chuvashia,2017,Liqueurs,98.09,0.80,0.32
+Perm Krai,2017,Liqueurs,105.25,0.40,0.16
+Kirov Oblast,2017,Liqueurs,57.17,0.46,0.18
+Nizhny Novgorod Oblast,2017,Liqueurs,185.67,0.58,0.23
+Orenburg Oblast,2017,Liqueurs,47.13,0.24,0.10
+Penza Oblast,2017,Liqueurs,85.08,0.64,0.26
+Samara Oblast,2017,Liqueurs,89.76,0.28,0.11
+Saratov Oblast,2017,Liqueurs,56.84,0.23,0.09
+Ulyanovsk Oblast,2017,Liqueurs,28.23,0.23,0.09
+Kurgan Oblast,2017,Liqueurs,22.45,0.27,0.11
+Sverdlovsk Oblast,2017,Liqueurs,184.85,0.43,0.17
+Khanty–Mansi Autonomous Okrug – Yugra,2017,Liqueurs,73.74,0.45,0.18
+Yamalo-Nenets Autonomous Okrug,2017,Liqueurs,27.42,0.53,0.21
+Chelyabinsk Oblast,2017,Liqueurs,131.28,0.37,0.15
+Tyumen Oblast,2017,Liqueurs,43.97,0.29,0.12
+Altai Republic,2017,Liqueurs,2.74,0.13,0.05
+Tuva,2017,Liqueurs,0.72,0.02,0.01
+Khakassia,2017,Liqueurs,8.34,0.15,0.06
+Altai Krai,2017,Liqueurs,45.30,0.20,0.08
+Krasnoyarsk Krai,2017,Liqueurs,77.60,0.27,0.11
+Irkutsk Oblast,2017,Liqueurs,112.81,0.47,0.19
+Kemerovo Oblast,2017,Liqueurs,84.23,0.31,0.12
+Novosibirsk Oblast,2017,Liqueurs,69.66,0.25,0.10
+Omsk Oblast,2017,Liqueurs,43.62,0.22,0.09
+Tomsk Oblast,2017,Liqueurs,34.05,0.32,0.13
+Buryatia,2017,Liqueurs,18.45,0.19,0.08
+Sakha (Yakutia),2017,Liqueurs,15.24,0.16,0.06
+Zabaykalsky Krai,2017,Liqueurs,24.78,0.23,0.09
+Kamchatka Krai,2017,Liqueurs,15.09,0.50,0.20
+Primorsky Krai,2017,Liqueurs,124.02,0.65,0.26
+Khabarovsk Krai,2017,Liqueurs,87.50,0.66,0.26
+Amur Oblast,2017,Liqueurs,25.80,0.32,0.13
+Magadan Oblast,2017,Liqueurs,6.19,0.43,0.17
+Sakhalin Oblast,2017,Liqueurs,26.28,0.55,0.22
+Jewish Autonomous Oblast,2017,Liqueurs,6.91,0.43,0.17
+Chukotka Autonomous Okrug,2017,Liqueurs,1.41,0.29,0.12
+Belgorod Oblast,2018,Liqueurs,27.58,0.18,0.07
+Bryansk Oblast,2018,Liqueurs,89.76,0.74,0.30
+Vladimir Oblast,2018,Liqueurs,87.73,0.63,0.25
+Voronezh Oblast,2018,Liqueurs,85.59,0.37,0.15
+Ivanovo Oblast,2018,Liqueurs,66.63,0.68,0.27
+Kaluga Oblast,2018,Liqueurs,69.19,0.66,0.26
+Kostroma Oblast,2018,Liqueurs,36.25,0.59,0.24
+Kursk Oblast,2018,Liqueurs,30.91,0.28,0.11
+Lipetsk Oblast,2018,Liqueurs,43.80,0.38,0.15
+Moscow Oblast,2018,Liqueurs,543.56,0.67,0.27
+Oryol Oblast,2018,Liqueurs,25.38,0.34,0.14
+Ryazan Oblast,2018,Liqueurs,50.14,0.44,0.18
+Smolensk Oblast,2018,Liqueurs,46.60,0.50,0.20
+Tambov Oblast,2018,Liqueurs,31.36,0.30,0.12
+Tver Oblast,2018,Liqueurs,94.33,0.74,0.29
+Tula Oblast,2018,Liqueurs,76.94,0.50,0.20
+Yaroslavl Oblast,2018,Liqueurs,71.54,0.57,0.23
+Moscow,2018,Liqueurs,543.12,0.43,0.17
+Republic of Karelia,2018,Liqueurs,55.55,0.97,0.39
+Komi Republic,2018,Liqueurs,65.16,0.82,0.33
+Nenets Autonomous Okrug,2018,Liqueurs,1.43,0.34,0.14
+Vologda Oblast,2018,Liqueurs,90.27,0.77,0.31
+Kaliningrad Oblast,2018,Liqueurs,42.72,0.43,0.17
+Leningrad Oblast,2018,Liqueurs,135.54,0.72,0.29
+Murmansk Oblast,2018,Liqueurs,54.95,0.77,0.31
+Novgorod Oblast,2018,Liqueurs,41.58,0.69,0.28
+Pskov Oblast,2018,Liqueurs,40.06,0.64,0.26
+Saint Petersburg,2018,Liqueurs,298.82,0.54,0.22
+Arkhangelsk Oblast,2018,Liqueurs,70.99,0.68,0.27
+Adygea,2018,Liqueurs,7.98,0.17,0.07
+Kalmykia,2018,Liqueurs,3.05,0.11,0.04
+Republic of Crimea,2018,Liqueurs,43.14,0.22,0.09
+Krasnodar Krai,2018,Liqueurs,126.90,0.22,0.09
+Astrakhan Oblast,2018,Liqueurs,21.42,0.21,0.09
+Volgograd Oblast,2018,Liqueurs,66.67,0.26,0.10
+Rostov Oblast,2018,Liqueurs,85.09,0.20,0.08
+Sevastopol,2018,Liqueurs,16.12,0.34,0.13
+Dagestan,2018,Liqueurs,3.19,0.01,0.00
+Ingushetia,2018,Liqueurs,0.18,0.00,0.00
+Kabardino-Balkaria,2018,Liqueurs,1.47,0.02,0.01
+Karachay-Cherkessia,2018,Liqueurs,3.15,0.07,0.03
+North Ossetia-Alania,2018,Liqueurs,1.17,0.02,0.01
+Chechnya,2018,Liqueurs,0.23,0.00,0.00
+Stavropol Krai,2018,Liqueurs,52.77,0.18,0.07
+Bashkortostan,2018,Liqueurs,260.02,0.63,0.25
+Mari El,2018,Liqueurs,45.21,0.66,0.26
+Mordovia,2018,Liqueurs,25.18,0.31,0.12
+Tatarstan,2018,Liqueurs,209.95,0.53,0.21
+Udmurtia,2018,Liqueurs,74.57,0.50,0.20
+Chuvashia,2018,Liqueurs,111.40,0.91,0.36
+Perm Krai,2018,Liqueurs,115.99,0.45,0.18
+Kirov Oblast,2018,Liqueurs,61.26,0.50,0.20
+Nizhny Novgorod Oblast,2018,Liqueurs,479.89,1.49,0.60
+Orenburg Oblast,2018,Liqueurs,54.37,0.28,0.11
+Penza Oblast,2018,Liqueurs,89.23,0.67,0.27
+Samara Oblast,2018,Liqueurs,113.75,0.35,0.14
+Saratov Oblast,2018,Liqueurs,62.96,0.25,0.10
+Ulyanovsk Oblast,2018,Liqueurs,34.12,0.28,0.11
+Kurgan Oblast,2018,Liqueurs,24.06,0.29,0.12
+Sverdlovsk Oblast,2018,Liqueurs,206.35,0.48,0.19
+Khanty–Mansi Autonomous Okrug – Yugra,2018,Liqueurs,84.21,0.51,0.20
+Yamalo-Nenets Autonomous Okrug,2018,Liqueurs,32.09,0.63,0.25
+Chelyabinsk Oblast,2018,Liqueurs,150.33,0.43,0.17
+Tyumen Oblast,2018,Liqueurs,50.85,0.33,0.13
+Altai Republic,2018,Liqueurs,3.43,0.16,0.06
+Tuva,2018,Liqueurs,0.61,0.02,0.01
+Khakassia,2018,Liqueurs,12.07,0.22,0.09
+Altai Krai,2018,Liqueurs,54.11,0.24,0.10
+Krasnoyarsk Krai,2018,Liqueurs,95.02,0.33,0.13
+Irkutsk Oblast,2018,Liqueurs,119.96,0.50,0.20
+Kemerovo Oblast,2018,Liqueurs,95.37,0.35,0.14
+Novosibirsk Oblast,2018,Liqueurs,79.52,0.28,0.11
+Omsk Oblast,2018,Liqueurs,49.43,0.25,0.10
+Tomsk Oblast,2018,Liqueurs,37.68,0.35,0.14
+Buryatia,2018,Liqueurs,20.23,0.21,0.08
+Sakha (Yakutia),2018,Liqueurs,17.02,0.18,0.07
+Zabaykalsky Krai,2018,Liqueurs,25.86,0.25,0.10
+Kamchatka Krai,2018,Liqueurs,17.30,0.57,0.23
+Primorsky Krai,2018,Liqueurs,119.36,0.63,0.25
+Khabarovsk Krai,2018,Liqueurs,87.76,0.66,0.27
+Amur Oblast,2018,Liqueurs,35.02,0.44,0.18
+Magadan Oblast,2018,Liqueurs,10.14,0.71,0.28
+Sakhalin Oblast,2018,Liqueurs,29.58,0.62,0.25
+Jewish Autonomous Oblast,2018,Liqueurs,7.73,0.49,0.19
+Chukotka Autonomous Okrug,2018,Liqueurs,1.48,0.31,0.12
+Belgorod Oblast,2019,Liqueurs,27.62,0.18,0.07
+Bryansk Oblast,2019,Liqueurs,93.80,0.78,0.31
+Vladimir Oblast,2019,Liqueurs,97.69,0.71,0.28
+Voronezh Oblast,2019,Liqueurs,105.83,0.45,0.18
+Ivanovo Oblast,2019,Liqueurs,72.67,0.75,0.30
+Kaluga Oblast,2019,Liqueurs,76.43,0.73,0.29
+Kostroma Oblast,2019,Liqueurs,39.56,0.65,0.26
+Kursk Oblast,2019,Liqueurs,38.06,0.35,0.14
+Lipetsk Oblast,2019,Liqueurs,52.23,0.45,0.18
+Moscow Oblast,2019,Liqueurs,610.91,0.74,0.30
+Oryol Oblast,2019,Liqueurs,32.46,0.44,0.18
+Ryazan Oblast,2019,Liqueurs,57.25,0.51,0.20
+Smolensk Oblast,2019,Liqueurs,50.81,0.55,0.22
+Tambov Oblast,2019,Liqueurs,34.84,0.34,0.14
+Tver Oblast,2019,Liqueurs,102.24,0.81,0.32
+Tula Oblast,2019,Liqueurs,87.01,0.57,0.23
+Yaroslavl Oblast,2019,Liqueurs,79.18,0.64,0.25
+Moscow,2019,Liqueurs,572.76,0.45,0.18
+Republic of Karelia,2019,Liqueurs,70.39,1.26,0.50
+Komi Republic,2019,Liqueurs,71.14,0.91,0.37
+Nenets Autonomous Okrug,2019,Liqueurs,1.52,0.36,0.15
+Vologda Oblast,2019,Liqueurs,101.66,0.87,0.35
+Kaliningrad Oblast,2019,Liqueurs,53.13,0.53,0.21
+Leningrad Oblast,2019,Liqueurs,153.11,0.80,0.32
+Murmansk Oblast,2019,Liqueurs,56.10,0.80,0.32
+Novgorod Oblast,2019,Liqueurs,46.21,0.77,0.31
+Pskov Oblast,2019,Liqueurs,47.88,0.78,0.31
+Saint Petersburg,2019,Liqueurs,335.60,0.61,0.24
+Arkhangelsk Oblast,2019,Liqueurs,72.16,0.70,0.28
+Adygea,2019,Liqueurs,9.27,0.19,0.08
+Kalmykia,2019,Liqueurs,4.22,0.16,0.06
+Republic of Crimea,2019,Liqueurs,52.90,0.27,0.11
+Krasnodar Krai,2019,Liqueurs,162.07,0.28,0.11
+Astrakhan Oblast,2019,Liqueurs,28.49,0.29,0.11
+Volgograd Oblast,2019,Liqueurs,76.95,0.30,0.12
+Rostov Oblast,2019,Liqueurs,103.47,0.24,0.10
+Sevastopol,2019,Liqueurs,18.33,0.37,0.15
+Dagestan,2019,Liqueurs,3.62,0.01,0.00
+Ingushetia,2019,Liqueurs,0.50,0.01,0.00
+Kabardino-Balkaria,2019,Liqueurs,2.00,0.02,0.01
+Karachay-Cherkessia,2019,Liqueurs,3.53,0.08,0.03
+North Ossetia-Alania,2019,Liqueurs,1.61,0.02,0.01
+Chechnya,2019,Liqueurs,0.25,0.00,0.00
+Stavropol Krai,2019,Liqueurs,69.80,0.24,0.10
+Bashkortostan,2019,Liqueurs,260.98,0.63,0.25
+Mari El,2019,Liqueurs,49.90,0.73,0.29
+Mordovia,2019,Liqueurs,26.81,0.33,0.13
+Tatarstan,2019,Liqueurs,222.74,0.56,0.22
+Udmurtia,2019,Liqueurs,84.02,0.57,0.23
+Chuvashia,2019,Liqueurs,113.20,0.93,0.37
+Perm Krai,2019,Liqueurs,131.47,0.51,0.20
+Kirov Oblast,2019,Liqueurs,62.16,0.51,0.21
+Nizhny Novgorod Oblast,2019,Liqueurs,229.40,0.72,0.29
+Orenburg Oblast,2019,Liqueurs,64.11,0.34,0.13
+Penza Oblast,2019,Liqueurs,85.18,0.65,0.26
+Samara Oblast,2019,Liqueurs,136.66,0.43,0.17
+Saratov Oblast,2019,Liqueurs,72.09,0.29,0.12
+Ulyanovsk Oblast,2019,Liqueurs,49.19,0.40,0.16
+Kurgan Oblast,2019,Liqueurs,25.62,0.32,0.13
+Sverdlovsk Oblast,2019,Liqueurs,229.12,0.53,0.21
+Khanty–Mansi Autonomous Okrug – Yugra,2019,Liqueurs,93.21,0.56,0.22
+Yamalo-Nenets Autonomous Okrug,2019,Liqueurs,34.93,0.68,0.27
+Chelyabinsk Oblast,2019,Liqueurs,176.16,0.51,0.20
+Tyumen Oblast,2019,Liqueurs,60.20,0.39,0.15
+Altai Republic,2019,Liqueurs,4.31,0.20,0.08
+Tuva,2019,Liqueurs,1.41,0.04,0.02
+Khakassia,2019,Liqueurs,12.64,0.23,0.09
+Altai Krai,2019,Liqueurs,61.90,0.28,0.11
+Krasnoyarsk Krai,2019,Liqueurs,112.04,0.39,0.16
+Irkutsk Oblast,2019,Liqueurs,125.99,0.52,0.21
+Kemerovo Oblast,2019,Liqueurs,96.30,0.36,0.14
+Novosibirsk Oblast,2019,Liqueurs,88.11,0.31,0.13
+Omsk Oblast,2019,Liqueurs,55.48,0.29,0.12
+Tomsk Oblast,2019,Liqueurs,37.58,0.35,0.14
+Buryatia,2019,Liqueurs,20.70,0.21,0.08
+Sakha (Yakutia),2019,Liqueurs,22.60,0.23,0.09
+Zabaykalsky Krai,2019,Liqueurs,30.43,0.29,0.12
+Kamchatka Krai,2019,Liqueurs,17.65,0.59,0.24
+Primorsky Krai,2019,Liqueurs,122.29,0.65,0.26
+Khabarovsk Krai,2019,Liqueurs,89.09,0.68,0.27
+Amur Oblast,2019,Liqueurs,38.52,0.49,0.20
+Magadan Oblast,2019,Liqueurs,8.79,0.63,0.25
+Sakhalin Oblast,2019,Liqueurs,31.40,0.66,0.26
+Jewish Autonomous Oblast,2019,Liqueurs,8.23,0.53,0.21
+Chukotka Autonomous Okrug,2019,Liqueurs,1.63,0.34,0.14
+Belgorod Oblast,2020,Liqueurs,34.93,0.22,0.09
+Bryansk Oblast,2020,Liqueurs,101.33,0.85,0.34
+Vladimir Oblast,2020,Liqueurs,115.49,0.84,0.34
+Voronezh Oblast,2020,Liqueurs,121.46,0.52,0.21
+Ivanovo Oblast,2020,Liqueurs,83.40,0.87,0.35
+Kaluga Oblast,2020,Liqueurs,89.32,0.85,0.34
+Kostroma Oblast,2020,Liqueurs,47.53,0.79,0.32
+Kursk Oblast,2020,Liqueurs,52.72,0.48,0.19
+Lipetsk Oblast,2020,Liqueurs,63.09,0.54,0.22
+Moscow Oblast,2020,Liqueurs,732.46,0.87,0.35
+Oryol Oblast,2020,Liqueurs,39.85,0.55,0.22
+Ryazan Oblast,2020,Liqueurs,66.16,0.59,0.24
+Smolensk Oblast,2020,Liqueurs,58.05,0.63,0.25
+Tambov Oblast,2020,Liqueurs,40.69,0.40,0.16
+Tver Oblast,2020,Liqueurs,119.08,0.95,0.38
+Tula Oblast,2020,Liqueurs,103.01,0.68,0.27
+Yaroslavl Oblast,2020,Liqueurs,92.46,0.75,0.30
+Moscow,2020,Liqueurs,635.74,0.49,0.20
+Republic of Karelia,2020,Liqueurs,81.93,1.49,0.60
+Komi Republic,2020,Liqueurs,78.72,1.03,0.41
+Nenets Autonomous Okrug,2020,Liqueurs,2.21,0.53,0.21
+Vologda Oblast,2020,Liqueurs,125.78,1.08,0.43
+Kaliningrad Oblast,2020,Liqueurs,97.80,0.96,0.39
+Leningrad Oblast,2020,Liqueurs,172.04,0.88,0.35
+Murmansk Oblast,2020,Liqueurs,67.87,0.98,0.39
+Novgorod Oblast,2020,Liqueurs,52.20,0.88,0.35
+Pskov Oblast,2020,Liqueurs,45.46,0.74,0.30
+Saint Petersburg,2020,Liqueurs,381.09,0.68,0.27
+Arkhangelsk Oblast,2020,Liqueurs,85.07,0.84,0.34
+Adygea,2020,Liqueurs,10.72,0.22,0.09
+Kalmykia,2020,Liqueurs,5.53,0.20,0.08
+Republic of Crimea,2020,Liqueurs,74.02,0.38,0.15
+Krasnodar Krai,2020,Liqueurs,202.75,0.35,0.14
+Astrakhan Oblast,2020,Liqueurs,36.51,0.37,0.15
+Volgograd Oblast,2020,Liqueurs,93.91,0.37,0.15
+Rostov Oblast,2020,Liqueurs,118.96,0.28,0.11
+Sevastopol,2020,Liqueurs,26.18,0.50,0.20
+Dagestan,2020,Liqueurs,4.19,0.01,0.01
+Ingushetia,2020,Liqueurs,0.48,0.01,0.00
+Kabardino-Balkaria,2020,Liqueurs,2.42,0.03,0.01
+Karachay-Cherkessia,2020,Liqueurs,4.03,0.09,0.03
+North Ossetia-Alania,2020,Liqueurs,2.56,0.04,0.01
+Chechnya,2020,Liqueurs,0.39,0.00,0.00
+Stavropol Krai,2020,Liqueurs,80.06,0.28,0.11
+Bashkortostan,2020,Liqueurs,294.25,0.72,0.29
+Mari El,2020,Liqueurs,52.16,0.76,0.31
+Mordovia,2020,Liqueurs,29.82,0.37,0.15
+Tatarstan,2020,Liqueurs,229.80,0.58,0.23
+Udmurtia,2020,Liqueurs,98.82,0.67,0.27
+Chuvashia,2020,Liqueurs,124.27,1.03,0.41
+Perm Krai,2020,Liqueurs,158.99,0.62,0.25
+Kirov Oblast,2020,Liqueurs,72.35,0.61,0.24
+Nizhny Novgorod Oblast,2020,Liqueurs,268.31,0.85,0.34
+Orenburg Oblast,2020,Liqueurs,77.30,0.41,0.16
+Penza Oblast,2020,Liqueurs,100.78,0.78,0.31
+Samara Oblast,2020,Liqueurs,146.98,0.46,0.18
+Saratov Oblast,2020,Liqueurs,89.03,0.36,0.14
+Ulyanovsk Oblast,2020,Liqueurs,56.04,0.46,0.18
+Kurgan Oblast,2020,Liqueurs,31.61,0.40,0.16
+Sverdlovsk Oblast,2020,Liqueurs,268.02,0.62,0.25
+Khanty–Mansi Autonomous Okrug – Yugra,2020,Liqueurs,116.85,0.69,0.28
+Yamalo-Nenets Autonomous Okrug,2020,Liqueurs,42.90,0.84,0.34
+Chelyabinsk Oblast,2020,Liqueurs,221.97,0.64,0.26
+Tyumen Oblast,2020,Liqueurs,74.30,0.47,0.19
+Altai Republic,2020,Liqueurs,5.68,0.27,0.11
+Tuva,2020,Liqueurs,1.34,0.04,0.02
+Khakassia,2020,Liqueurs,20.99,0.39,0.16
+Altai Krai,2020,Liqueurs,66.60,0.30,0.12
+Krasnoyarsk Krai,2020,Liqueurs,134.17,0.47,0.19
+Irkutsk Oblast,2020,Liqueurs,145.79,0.61,0.24
+Kemerovo Oblast,2020,Liqueurs,103.65,0.39,0.16
+Novosibirsk Oblast,2020,Liqueurs,102.70,0.37,0.15
+Omsk Oblast,2020,Liqueurs,66.99,0.35,0.14
+Tomsk Oblast,2020,Liqueurs,43.27,0.40,0.16
+Buryatia,2020,Liqueurs,23.29,0.24,0.09
+Sakha (Yakutia),2020,Liqueurs,23.65,0.24,0.10
+Zabaykalsky Krai,2020,Liqueurs,31.37,0.31,0.12
+Kamchatka Krai,2020,Liqueurs,19.89,0.67,0.27
+Primorsky Krai,2020,Liqueurs,135.91,0.72,0.29
+Khabarovsk Krai,2020,Liqueurs,100.89,0.77,0.31
+Amur Oblast,2020,Liqueurs,47.42,0.61,0.24
+Magadan Oblast,2020,Liqueurs,10.13,0.73,0.29
+Sakhalin Oblast,2020,Liqueurs,34.91,0.74,0.29
+Jewish Autonomous Oblast,2020,Liqueurs,10.13,0.65,0.26
+Chukotka Autonomous Okrug,2020,Liqueurs,1.79,0.37,0.15
+Belgorod Oblast,2021,Liqueurs,38.43,0.25,0.10
+Bryansk Oblast,2021,Liqueurs,111.08,0.94,0.38
+Vladimir Oblast,2021,Liqueurs,134.73,0.99,0.40
+Voronezh Oblast,2021,Liqueurs,136.62,0.59,0.24
+Ivanovo Oblast,2021,Liqueurs,98.94,1.05,0.42
+Kaluga Oblast,2021,Liqueurs,98.26,0.93,0.37
+Kostroma Oblast,2021,Liqueurs,53.58,0.91,0.36
+Kursk Oblast,2021,Liqueurs,55.74,0.51,0.20
+Lipetsk Oblast,2021,Liqueurs,68.69,0.60,0.24
+Moscow Oblast,2021,Liqueurs,799.36,0.95,0.38
+Oryol Oblast,2021,Liqueurs,45.47,0.63,0.25
+Ryazan Oblast,2021,Liqueurs,76.88,0.69,0.28
+Smolensk Oblast,2021,Liqueurs,68.95,0.77,0.31
+Tambov Oblast,2021,Liqueurs,47.05,0.47,0.19
+Tver Oblast,2021,Liqueurs,128.50,1.03,0.41
+Tula Oblast,2021,Liqueurs,117.18,0.78,0.31
+Yaroslavl Oblast,2021,Liqueurs,106.15,0.87,0.35
+Moscow,2021,Liqueurs,680.27,0.52,0.21
+Republic of Karelia,2021,Liqueurs,96.75,1.79,0.71
+Komi Republic,2021,Liqueurs,83.21,1.11,0.44
+Nenets Autonomous Okrug,2021,Liqueurs,2.63,0.63,0.25
+Vologda Oblast,2021,Liqueurs,151.41,1.32,0.53
+Kaliningrad Oblast,2021,Liqueurs,91.76,0.90,0.36
+Leningrad Oblast,2021,Liqueurs,191.05,0.97,0.39
+Murmansk Oblast,2021,Liqueurs,73.28,1.08,0.43
+Novgorod Oblast,2021,Liqueurs,56.27,0.96,0.38
+Pskov Oblast,2021,Liqueurs,48.94,0.81,0.32
+Saint Petersburg,2021,Liqueurs,426.69,0.76,0.31
+Arkhangelsk Oblast,2021,Liqueurs,92.77,0.93,0.37
+Adygea,2021,Liqueurs,12.71,0.26,0.10
+Kalmykia,2021,Liqueurs,5.98,0.22,0.09
+Republic of Crimea,2021,Liqueurs,92.93,0.48,0.19
+Krasnodar Krai,2021,Liqueurs,257.04,0.44,0.18
+Astrakhan Oblast,2021,Liqueurs,39.77,0.41,0.16
+Volgograd Oblast,2021,Liqueurs,112.87,0.45,0.18
+Rostov Oblast,2021,Liqueurs,146.37,0.35,0.14
+Sevastopol,2021,Liqueurs,31.82,0.60,0.24
+Dagestan,2021,Liqueurs,4.20,0.01,0.01
+Ingushetia,2021,Liqueurs,0.42,0.01,0.00
+Kabardino-Balkaria,2021,Liqueurs,3.31,0.04,0.01
+Karachay-Cherkessia,2021,Liqueurs,4.78,0.10,0.04
+North Ossetia-Alania,2021,Liqueurs,3.93,0.06,0.02
+Chechnya,2021,Liqueurs,0.29,0.00,0.00
+Stavropol Krai,2021,Liqueurs,100.85,0.35,0.14
+Bashkortostan,2021,Liqueurs,321.94,0.79,0.31
+Mari El,2021,Liqueurs,64.35,0.95,0.38
+Mordovia,2021,Liqueurs,34.31,0.43,0.17
+Tatarstan,2021,Liqueurs,252.78,0.63,0.25
+Udmurtia,2021,Liqueurs,106.65,0.73,0.29
+Chuvashia,2021,Liqueurs,139.54,1.17,0.47
+Perm Krai,2021,Liqueurs,178.18,0.70,0.28
+Kirov Oblast,2021,Liqueurs,83.61,0.71,0.29
+Nizhny Novgorod Oblast,2021,Liqueurs,305.44,0.97,0.39
+Orenburg Oblast,2021,Liqueurs,90.53,0.48,0.19
+Penza Oblast,2021,Liqueurs,117.58,0.92,0.37
+Samara Oblast,2021,Liqueurs,168.22,0.53,0.21
+Saratov Oblast,2021,Liqueurs,107.32,0.44,0.17
+Ulyanovsk Oblast,2021,Liqueurs,64.12,0.53,0.21
+Kurgan Oblast,2021,Liqueurs,36.83,0.47,0.19
+Sverdlovsk Oblast,2021,Liqueurs,304.62,0.71,0.28
+Khanty–Mansi Autonomous Okrug – Yugra,2021,Liqueurs,115.60,0.68,0.27
+Yamalo-Nenets Autonomous Okrug,2021,Liqueurs,43.66,0.86,0.34
+Chelyabinsk Oblast,2021,Liqueurs,246.54,0.72,0.29
+Tyumen Oblast,2021,Liqueurs,79.23,0.50,0.20
+Altai Republic,2021,Liqueurs,7.68,0.36,0.15
+Tuva,2021,Liqueurs,2.50,0.07,0.03
+Khakassia,2021,Liqueurs,31.96,0.60,0.24
+Altai Krai,2021,Liqueurs,82.47,0.38,0.15
+Krasnoyarsk Krai,2021,Liqueurs,178.28,0.62,0.25
+Irkutsk Oblast,2021,Liqueurs,169.53,0.71,0.28
+Kemerovo Oblast,2021,Liqueurs,130.71,0.50,0.20
+Novosibirsk Oblast,2021,Liqueurs,129.36,0.46,0.18
+Omsk Oblast,2021,Liqueurs,77.38,0.41,0.16
+Tomsk Oblast,2021,Liqueurs,53.39,0.50,0.20
+Buryatia,2021,Liqueurs,28.64,0.29,0.12
+Sakha (Yakutia),2021,Liqueurs,27.75,0.28,0.11
+Zabaykalsky Krai,2021,Liqueurs,35.19,0.35,0.14
+Kamchatka Krai,2021,Liqueurs,20.56,0.70,0.28
+Primorsky Krai,2021,Liqueurs,150.87,0.81,0.32
+Khabarovsk Krai,2021,Liqueurs,117.45,0.91,0.36
+Amur Oblast,2021,Liqueurs,60.79,0.79,0.31
+Magadan Oblast,2021,Liqueurs,10.28,0.75,0.30
+Sakhalin Oblast,2021,Liqueurs,39.29,0.84,0.33
+Jewish Autonomous Oblast,2021,Liqueurs,12.69,0.83,0.33
+Chukotka Autonomous Okrug,2021,Liqueurs,2.12,0.45,0.18
+Belgorod Oblast,2022,Liqueurs,55.66,0.36,0.14
+Bryansk Oblast,2022,Liqueurs,134.10,1.15,0.46
+Vladimir Oblast,2022,Liqueurs,166.91,1.24,0.50
+Voronezh Oblast,2022,Liqueurs,162.80,0.71,0.28
+Ivanovo Oblast,2022,Liqueurs,142.52,1.54,0.62
+Kaluga Oblast,2022,Liqueurs,115.10,1.07,0.43
+Kostroma Oblast,2022,Liqueurs,77.02,1.33,0.53
+Kursk Oblast,2022,Liqueurs,73.01,0.68,0.27
+Lipetsk Oblast,2022,Liqueurs,86.25,0.76,0.30
+Moscow Oblast,2022,Liqueurs,971.94,1.14,0.46
+Oryol Oblast,2022,Liqueurs,56.39,0.79,0.32
+Ryazan Oblast,2022,Liqueurs,96.79,0.88,0.35
+Smolensk Oblast,2022,Liqueurs,91.80,1.04,0.41
+Tambov Oblast,2022,Liqueurs,59.50,0.61,0.24
+Tver Oblast,2022,Liqueurs,165.92,1.35,0.54
+Tula Oblast,2022,Liqueurs,143.94,0.96,0.38
+Yaroslavl Oblast,2022,Liqueurs,141.99,1.18,0.47
+Moscow,2022,Liqueurs,823.99,0.63,0.25
+Republic of Karelia,2022,Liqueurs,132.86,2.50,1.00
+Komi Republic,2022,Liqueurs,122.83,1.67,0.67
+Nenets Autonomous Okrug,2022,Liqueurs,5.38,1.30,0.52
+Vologda Oblast,2022,Liqueurs,219.33,1.93,0.77
+Kaliningrad Oblast,2022,Liqueurs,93.68,0.91,0.36
+Leningrad Oblast,2022,Liqueurs,247.64,1.23,0.49
+Murmansk Oblast,2022,Liqueurs,104.00,1.56,0.63
+Novgorod Oblast,2022,Liqueurs,73.31,1.26,0.50
+Pskov Oblast,2022,Liqueurs,58.97,0.99,0.40
+Saint Petersburg,2022,Liqueurs,513.86,0.92,0.37
+Arkhangelsk Oblast,2022,Liqueurs,168.59,1.73,0.69
+Adygea,2022,Liqueurs,16.76,0.34,0.13
+Kalmykia,2022,Liqueurs,8.03,0.30,0.12
+Republic of Crimea,2022,Liqueurs,108.61,0.56,0.22
+Krasnodar Krai,2022,Liqueurs,327.87,0.56,0.22
+Astrakhan Oblast,2022,Liqueurs,47.42,0.50,0.20
+Volgograd Oblast,2022,Liqueurs,143.96,0.58,0.23
+Rostov Oblast,2022,Liqueurs,188.63,0.45,0.18
+Sevastopol,2022,Liqueurs,36.34,0.66,0.27
+Dagestan,2022,Liqueurs,5.74,0.02,0.01
+Ingushetia,2022,Liqueurs,0.97,0.02,0.01
+Kabardino-Balkaria,2022,Liqueurs,4.93,0.05,0.02
+Karachay-Cherkessia,2022,Liqueurs,5.99,0.13,0.05
+North Ossetia-Alania,2022,Liqueurs,5.07,0.07,0.03
+Chechnya,2022,Liqueurs,0.35,0.00,0.00
+Stavropol Krai,2022,Liqueurs,129.09,0.44,0.18
+Bashkortostan,2022,Liqueurs,372.18,0.91,0.36
+Mari El,2022,Liqueurs,83.26,1.23,0.49
+Mordovia,2022,Liqueurs,47.62,0.61,0.24
+Tatarstan,2022,Liqueurs,417.36,1.04,0.42
+Udmurtia,2022,Liqueurs,155.09,1.07,0.43
+Chuvashia,2022,Liqueurs,161.77,1.37,0.55
+Perm Krai,2022,Liqueurs,241.82,0.96,0.38
+Kirov Oblast,2022,Liqueurs,150.86,1.31,0.53
+Nizhny Novgorod Oblast,2022,Liqueurs,372.44,1.20,0.48
+Orenburg Oblast,2022,Liqueurs,114.86,0.62,0.25
+Penza Oblast,2022,Liqueurs,128.50,1.02,0.41
+Samara Oblast,2022,Liqueurs,223.77,0.71,0.28
+Saratov Oblast,2022,Liqueurs,141.09,0.58,0.23
+Ulyanovsk Oblast,2022,Liqueurs,80.81,0.68,0.27
+Kurgan Oblast,2022,Liqueurs,49.67,0.64,0.26
+Sverdlovsk Oblast,2022,Liqueurs,420.40,0.99,0.39
+Khanty–Mansi Autonomous Okrug – Yugra,2022,Liqueurs,142.48,0.83,0.33
+Yamalo-Nenets Autonomous Okrug,2022,Liqueurs,51.74,1.01,0.40
+Chelyabinsk Oblast,2022,Liqueurs,310.00,0.91,0.36
+Tyumen Oblast,2022,Liqueurs,106.73,0.67,0.27
+Altai Republic,2022,Liqueurs,10.68,0.51,0.20
+Tuva,2022,Liqueurs,3.61,0.11,0.04
+Khakassia,2022,Liqueurs,35.17,0.66,0.26
+Altai Krai,2022,Liqueurs,106.22,0.49,0.20
+Krasnoyarsk Krai,2022,Liqueurs,208.94,0.73,0.29
+Irkutsk Oblast,2022,Liqueurs,211.61,0.90,0.36
+Kemerovo Oblast,2022,Liqueurs,163.37,0.63,0.25
+Novosibirsk Oblast,2022,Liqueurs,160.94,0.58,0.23
+Omsk Oblast,2022,Liqueurs,96.46,0.52,0.21
+Tomsk Oblast,2022,Liqueurs,68.39,0.64,0.26
+Buryatia,2022,Liqueurs,36.17,0.37,0.15
+Sakha (Yakutia),2022,Liqueurs,38.94,0.39,0.16
+Zabaykalsky Krai,2022,Liqueurs,45.52,0.45,0.18
+Kamchatka Krai,2022,Liqueurs,26.89,0.92,0.37
+Primorsky Krai,2022,Liqueurs,207.19,1.12,0.45
+Khabarovsk Krai,2022,Liqueurs,160.64,1.24,0.50
+Amur Oblast,2022,Liqueurs,81.07,1.06,0.42
+Magadan Oblast,2022,Liqueurs,12.73,0.94,0.37
+Sakhalin Oblast,2022,Liqueurs,53.63,1.15,0.46
+Jewish Autonomous Oblast,2022,Liqueurs,18.82,1.26,0.50
+Chukotka Autonomous Okrug,2022,Liqueurs,2.67,0.56,0.22
+Belgorod Oblast,2023,Liqueurs,75.36,0.50,0.20
+Bryansk Oblast,2023,Liqueurs,156.79,1.36,0.54
+Vladimir Oblast,2023,Liqueurs,203.29,1.53,0.61
+Voronezh Oblast,2023,Liqueurs,199.79,0.87,0.35
+Ivanovo Oblast,2023,Liqueurs,171.09,1.87,0.75
+Kaluga Oblast,2023,Liqueurs,138.19,1.29,0.52
+Kostroma Oblast,2023,Liqueurs,93.99,1.64,0.66
+Kursk Oblast,2023,Liqueurs,88.66,0.83,0.33
+Lipetsk Oblast,2023,Liqueurs,105.65,0.94,0.38
+Moscow Oblast,2023,Liqueurs,1165.07,1.36,0.54
+Oryol Oblast,2023,Liqueurs,65.50,0.94,0.37
+Ryazan Oblast,2023,Liqueurs,116.93,1.07,0.43
+Smolensk Oblast,2023,Liqueurs,113.60,1.30,0.52
+Tambov Oblast,2023,Liqueurs,73.90,0.76,0.31
+Tver Oblast,2023,Liqueurs,222.00,1.83,0.73
+Tula Oblast,2023,Liqueurs,172.61,1.17,0.47
+Yaroslavl Oblast,2023,Liqueurs,174.25,1.46,0.58
+Moscow,2023,Liqueurs,971.68,0.74,0.30
+Republic of Karelia,2023,Liqueurs,155.64,2.95,1.18
+Komi Republic,2023,Liqueurs,160.06,2.20,0.88
+Nenets Autonomous Okrug,2023,Liqueurs,8.32,2.01,0.80
+Vologda Oblast,2023,Liqueurs,289.96,2.57,1.03
+Kaliningrad Oblast,2023,Liqueurs,108.65,1.05,0.42
+Leningrad Oblast,2023,Liqueurs,296.05,1.46,0.59
+Murmansk Oblast,2023,Liqueurs,132.04,2.00,0.80
+Novgorod Oblast,2023,Liqueurs,93.49,1.62,0.65
+Pskov Oblast,2023,Liqueurs,70.96,1.21,0.48
+Saint Petersburg,2023,Liqueurs,604.50,1.08,0.43
+Arkhangelsk Oblast,2023,Liqueurs,232.56,2.41,0.96
+Adygea,2023,Liqueurs,21.31,0.43,0.17
+Kalmykia,2023,Liqueurs,8.48,0.32,0.13
+Republic of Crimea,2023,Liqueurs,120.29,0.63,0.25
+Krasnodar Krai,2023,Liqueurs,440.63,0.76,0.30
+Astrakhan Oblast,2023,Liqueurs,57.35,0.60,0.24
+Volgograd Oblast,2023,Liqueurs,178.57,0.72,0.29
+Rostov Oblast,2023,Liqueurs,264.70,0.64,0.25
+Sevastopol,2023,Liqueurs,37.87,0.68,0.27
+Dagestan,2023,Liqueurs,5.82,0.02,0.01
+Ingushetia,2023,Liqueurs,0.83,0.02,0.01
+Kabardino-Balkaria,2023,Liqueurs,7.30,0.08,0.03
+Karachay-Cherkessia,2023,Liqueurs,7.33,0.16,0.06
+North Ossetia-Alania,2023,Liqueurs,7.59,0.11,0.04
+Chechnya,2023,Liqueurs,0.39,0.00,0.00
+Stavropol Krai,2023,Liqueurs,165.03,0.57,0.23
+Bashkortostan,2023,Liqueurs,402.70,0.99,0.40
+Mari El,2023,Liqueurs,98.41,1.46,0.59
+Mordovia,2023,Liqueurs,62.57,0.81,0.32
+Tatarstan,2023,Liqueurs,501.66,1.25,0.50
+Udmurtia,2023,Liqueurs,196.52,1.36,0.55
+Chuvashia,2023,Liqueurs,184.93,1.58,0.63
+Perm Krai,2023,Liqueurs,297.85,1.19,0.47
+Kirov Oblast,2023,Liqueurs,198.48,1.74,0.70
+Nizhny Novgorod Oblast,2023,Liqueurs,450.01,1.46,0.58
+Orenburg Oblast,2023,Liqueurs,136.33,0.74,0.30
+Penza Oblast,2023,Liqueurs,142.46,1.14,0.46
+Samara Oblast,2023,Liqueurs,273.17,0.87,0.35
+Saratov Oblast,2023,Liqueurs,173.64,0.72,0.29
+Ulyanovsk Oblast,2023,Liqueurs,96.71,0.82,0.33
+Kurgan Oblast,2023,Liqueurs,61.32,0.81,0.32
+Sverdlovsk Oblast,2023,Liqueurs,516.53,1.22,0.49
+Khanty–Mansi Autonomous Okrug – Yugra,2023,Liqueurs,159.19,0.92,0.37
+Yamalo-Nenets Autonomous Okrug,2023,Liqueurs,56.86,1.11,0.44
+Chelyabinsk Oblast,2023,Liqueurs,369.11,1.08,0.43
+Tyumen Oblast,2023,Liqueurs,130.80,0.81,0.33
+Altai Republic,2023,Liqueurs,13.71,0.65,0.26
+Tuva,2023,Liqueurs,5.06,0.15,0.06
+Khakassia,2023,Liqueurs,39.77,0.75,0.30
+Altai Krai,2023,Liqueurs,132.39,0.62,0.25
+Krasnoyarsk Krai,2023,Liqueurs,229.87,0.81,0.32
+Irkutsk Oblast,2023,Liqueurs,246.42,1.05,0.42
+Kemerovo Oblast,2023,Liqueurs,197.35,0.77,0.31
+Novosibirsk Oblast,2023,Liqueurs,201.29,0.72,0.29
+Omsk Oblast,2023,Liqueurs,117.82,0.64,0.26
+Tomsk Oblast,2023,Liqueurs,88.60,0.84,0.34
+Buryatia,2023,Liqueurs,53.72,0.55,0.22
+Sakha (Yakutia),2023,Liqueurs,50.84,0.51,0.20
+Zabaykalsky Krai,2023,Liqueurs,53.72,0.54,0.22
+Kamchatka Krai,2023,Liqueurs,36.16,1.25,0.50
+Primorsky Krai,2023,Liqueurs,229.23,1.26,0.50
+Khabarovsk Krai,2023,Liqueurs,184.65,1.44,0.58
+Amur Oblast,2023,Liqueurs,84.21,1.11,0.45
+Magadan Oblast,2023,Liqueurs,15.71,1.17,0.47
+Sakhalin Oblast,2023,Liqueurs,68.98,1.50,0.60
+Jewish Autonomous Oblast,2023,Liqueurs,21.14,1.43,0.57
+Chukotka Autonomous Okrug,2023,Liqueurs,3.15,0.66,0.26
