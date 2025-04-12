@@ -7,6 +7,6 @@ DataSet:
 https://www.kaggle.com/datasets/ikjotsingh221/machine-failure-cleaned
 
 # 
-## RUSAlc.py
+## SDCP.py
 > Regulation
-DataSet: https://www.kaggle.com/datasets/scibearia/consumption-of-alcohol-in-russia-2017-2023
+DataSet: https://www.kaggle.com/datasets/sacramentotechnology/sleep-deprivation-and-cognitive-performance
