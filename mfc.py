@@ -11,9 +11,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 from imblearn.over_sampling import SMOTE
-from imblearn.under_sampling import RandomUnderSampler
-from imblearn.under_sampling import OneSidedSelection
-from imblearn.under_sampling import TomekLinks
+from imblearn.under_sampling import RandomUnderSampler, OneSidedSelection, TomekLinks, CondensedNearestNeighbour
+
 # Read
 df= pd.read_csv('machine_failure_cleaned.csv')
 
@@ -47,11 +46,13 @@ sample_rdundersamp = RandomUnderSampler(sampling_strategy=0.2,
 # Autos
 sample_onesidesel = OneSidedSelection()
 sample_tomek = TomekLinks()
+sample_cnn =  CondensedNearestNeighbour()
 
 X_train_over_SMOTE, y_train_over_SMOTE = sample_smote.fit_resample(X_train, y_train)
 X_train_over_Rand, y_train_over_Rand = sample_rdundersamp.fit_resample(X_train, y_train)
 X_train_over_1SideSel, y_train_over_1SideSel = sample_onesidesel.fit_resample(X_train, y_train)
 X_train_over_Tomek, y_train_over_Tomek = sample_tomek.fit_resample(X_train, y_train)
+X_train_over_CNN, y_train_over_CNN = sample_cnn.fit_resample(X_train, y_train)
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
@@ -61,7 +62,7 @@ for lbl, X_train_over, y_train_over in [
     ("SMOTE",  X_train_over_SMOTE, y_train_over_SMOTE),
     ("RandUnderSamp", X_train_over_Rand, y_train_over_Rand),
     ("Tomek", X_train_over_Tomek, y_train_over_Tomek),
-    # ("CNN"),
+    ("CNN", X_train_over_CNN, y_train_over_CNN),
     ("1SideSel", X_train_over_1SideSel, y_train_over_1SideSel),
     ]:
     unique_over, counts_over = np.unique(y_train_over, return_counts=True)
